@@ -1,0 +1,1001 @@
+Transit_ID,City,State,Route_ID,Transport_Mode,Source,Destination,Passenger_Count,Demand,Vehicle_Capacity,Traffic_Status,Traffic_Speed_kmh,Delay_Minutes,Fare_INR,Travel_Time_Min,Weather_Condition,Date,On_Time,On_Time_Status,Point,Path_Order,Latitude,Longitude
+TR-0149,Kolkata,West Bengal,R-001,Metro,Central,East,43,High,998,Moderate,30,1,11.99,56.98,Hazy,2026-06-26 20:28:00,1,On Time,Source,1,22.573951,88.36924
+TR-0287,Lucknow,Uttar Pradesh,R-001,Metro,North,West,207,High,979,High,20,10,44.56,29.44,Hazy,2026-07-16 16:07:00,0,Delayed,Source,1,26.908747,80.953732
+TR-0427,Visakhapatnam,Andhra Pradesh,R-001,Bus,South,North,408,Medium,76,High,25,24,91.38,38.12,Rain,2026-07-03 16:07:00,0,Delayed,Source,1,17.623708,83.218263
+TR-0149,Kolkata,West Bengal,R-001,Metro,Central,East,,,,Moderate,,,,,Hazy,2026-06-26 20:28:00,,,Destination,2,22.557495,88.435854
+TR-0287,Lucknow,Uttar Pradesh,R-001,Metro,North,West,,,,High,,,,,Hazy,2026-07-16 16:07:00,,,Destination,2,26.837694,80.882462
+TR-0427,Visakhapatnam,Andhra Pradesh,R-001,Bus,South,North,,,,High,,,,,Rain,2026-07-03 16:07:00,,,Destination,2,17.735649,83.226252
+TR-0224,Delhi,Delhi,R-002,Train,West,Central,451,Low,1524,Moderate,43,24,32.1,49.68,Hazy,2026-03-22 16:52:00,0,Delayed,Source,1,28.619453,77.140714
+TR-0230,Kochi,Kerala,R-002,Metro,Central,South,895,High,696,Moderate,34,11,78.6,37.54,Hazy,2026-05-05 18:10:00,0,Delayed,Source,1,9.932051,76.256548
+TR-0262,Chennai,Tamil Nadu,R-002,Bus,West,South,583,Medium,48,Low,65,19,10.62,30.69,Clear,2026-04-09 06:57:00,0,Delayed,Source,1,13.068857,80.204941
+TR-0271,Indore,Madhya Pradesh,R-002,Auto,East,South,53,Medium,3,Moderate,38,23,10.64,42.41,Rain,2026-01-26 02:57:00,0,Delayed,Source,1,22.71303,75.907177
+TR-0303,Ahmedabad,Gujarat,R-002,Bus,West,Central,575,Medium,63,High,16,5,30.41,38.11,Cloudy,2026-03-08 23:10:00,1,On Time,Source,1,23.026682,72.524107
+TR-0400,Nagpur,Maharashtra,R-002,Bus,East,West,597,High,42,High,17,11,27.68,18.83,Cloudy,2026-01-28 21:09:00,0,Delayed,Source,1,21.13554,79.136154
+TR-0224,Delhi,Delhi,R-002,Train,West,Central,,,,Moderate,,,,,Hazy,2026-03-22 16:52:00,,,Destination,2,28.609514,77.207184
+TR-0230,Kochi,Kerala,R-002,Metro,Central,South,,,,Moderate,,,,,Hazy,2026-05-05 18:10:00,,,Destination,2,9.883161,76.263821
+TR-0262,Chennai,Tamil Nadu,R-002,Bus,West,South,,,,Low,,,,,Clear,2026-04-09 06:57:00,,,Destination,2,13.0191,80.252439
+TR-0271,Indore,Madhya Pradesh,R-002,Auto,East,South,,,,Moderate,,,,,Rain,2026-01-26 02:57:00,,,Destination,2,22.666423,75.847822
+TR-0303,Ahmedabad,Gujarat,R-002,Bus,West,Central,,,,High,,,,,Cloudy,2026-03-08 23:10:00,,,Destination,2,23.018094,72.5692
+TR-0400,Nagpur,Maharashtra,R-002,Bus,East,West,,,,High,,,,,Cloudy,2026-01-28 21:09:00,,,Destination,2,21.129802,79.023847
+TR-0101,Lucknow,Uttar Pradesh,R-003,Auto,Central,South,531,Medium,3,Low,58,9,72.94,51.17,Clear,2026-03-12 13:08:00,0,Delayed,Source,1,26.839832,80.930348
+TR-0286,Bengaluru,Karnataka,R-003,Bus,South,West,348,High,49,High,29,4,97.73,51.34,Cloudy,2026-07-23 21:05:00,1,On Time,Source,1,12.928071,77.586264
+TR-0333,Surat,Gujarat,R-003,E-Rickshaw,North,East,601,Medium,5,Severe,13,16,68.79,24.2,Cloudy,2026-01-02 08:55:00,0,Delayed,Source,1,21.225445,72.823512
+TR-0101,Lucknow,Uttar Pradesh,R-003,Auto,Central,South,,,,Low,,,,,Clear,2026-03-12 13:08:00,,,Destination,2,26.788841,80.924035
+TR-0286,Bengaluru,Karnataka,R-003,Bus,South,West,,,,High,,,,,Cloudy,2026-07-23 21:05:00,,,Destination,2,12.949883,77.525123
+TR-0333,Surat,Gujarat,R-003,E-Rickshaw,North,East,,,,Severe,,,,,Cloudy,2026-01-02 08:55:00,,,Destination,2,21.158971,72.890501
+TR-0208,Hyderabad,Telangana,R-004,Metro,South,East,624,Medium,1120,High,29,16,11.81,13.46,Hazy,2026-03-10 22:04:00,0,Delayed,Source,1,17.336723,78.466975
+TR-0280,Bengaluru,Karnataka,R-004,Metro,North,Central,963,Medium,770,High,24,21,93.99,40.06,Cloudy,2026-04-25 10:27:00,0,Delayed,Source,1,13.030016,77.616732
+TR-0335,Nagpur,Maharashtra,R-004,Auto,South,East,243,Low,3,High,27,26,27.55,57.83,Rain,2026-04-22 19:35:00,0,Delayed,Source,1,21.086112,79.080401
+TR-0208,Hyderabad,Telangana,R-004,Metro,South,East,,,,High,,,,,Hazy,2026-03-10 22:04:00,,,Destination,2,17.403972,78.553084
+TR-0280,Bengaluru,Karnataka,R-004,Metro,North,Central,,,,High,,,,,Cloudy,2026-04-25 10:27:00,,,Destination,2,12.96469,77.598686
+TR-0335,Nagpur,Maharashtra,R-004,Auto,South,East,,,,High,,,,,Rain,2026-04-22 19:35:00,,,Destination,2,21.148902,79.1358
+TR-0114,Jaipur,Rajasthan,R-005,Bus,West,East,88,High,60,High,26,16,71.27,30.67,Cloudy,2026-01-12 05:16:00,0,Delayed,Source,1,26.896816,75.731029
+TR-0190,Mumbai,Maharashtra,R-005,Auto,West,East,871,Very High,3,Low,47,8,59.78,49.67,Rain,2026-01-22 01:44:00,0,Delayed,Source,1,19.056878,72.826146
+TR-0322,Nagpur,Maharashtra,R-005,Bus,East,South,726,Low,64,High,15,8,93.69,31.61,Cloudy,2026-04-04 17:15:00,0,Delayed,Source,1,21.169315,79.150987
+TR-0329,Jaipur,Rajasthan,R-005,Bus,East,South,701,High,78,Severe,14,22,49.48,46.82,Hazy,2026-08-04 01:56:00,0,Delayed,Source,1,26.931958,75.851854
+TR-0373,Delhi,Delhi,R-005,Metro,West,South,289,High,1145,Moderate,39,25,20.3,21.8,Rain,2026-03-04 14:24:00,0,Delayed,Source,1,28.602913,77.157677
+TR-0385,Lucknow,Uttar Pradesh,R-005,Auto,West,North,155,Medium,3,Moderate,35,12,37.78,12.17,Rain,2026-07-01 10:52:00,0,Delayed,Source,1,26.828846,80.866606
+TR-0428,Lucknow,Uttar Pradesh,R-005,E-Rickshaw,East,Central,606,Very High,5,Moderate,37,28,66.94,58.68,Cloudy,2026-03-11 13:42:00,0,Delayed,Source,1,26.859945,81.01194
+TR-0114,Jaipur,Rajasthan,R-005,Bus,West,East,,,,High,,,,,Cloudy,2026-01-12 05:16:00,,,Destination,2,26.954132,75.824264
+TR-0190,Mumbai,Maharashtra,R-005,Auto,West,East,,,,Low,,,,,Rain,2026-01-22 01:44:00,,,Destination,2,19.104422,72.924817
+TR-0322,Nagpur,Maharashtra,R-005,Bus,East,South,,,,High,,,,,Cloudy,2026-04-04 17:15:00,,,Destination,2,21.110485,79.064022
+TR-0329,Jaipur,Rajasthan,R-005,Bus,East,South,,,,Severe,,,,,Hazy,2026-08-04 01:56:00,,,Destination,2,26.859199,75.778741
+TR-0373,Delhi,Delhi,R-005,Metro,West,South,,,,Moderate,,,,,Rain,2026-03-04 14:24:00,,,Destination,2,28.553647,77.201184
+TR-0385,Lucknow,Uttar Pradesh,R-005,Auto,West,North,,,,Moderate,,,,,Rain,2026-07-01 10:52:00,,,Destination,2,26.906182,80.973665
+TR-0428,Lucknow,Uttar Pradesh,R-005,E-Rickshaw,East,Central,,,,Moderate,,,,,Cloudy,2026-03-11 13:42:00,,,Destination,2,26.831361,80.942758
+TR-0030,Nagpur,Maharashtra,R-006,Auto,West,East,133,High,3,High,22,19,68.13,36.39,Hazy,2026-02-28 12:05:00,0,Delayed,Source,1,21.128041,79.020221
+TR-0059,Surat,Gujarat,R-006,E-Rickshaw,South,West,114,High,5,High,21,8,94.26,7.86,Hazy,2026-02-10 17:11:00,0,Delayed,Source,1,21.127478,72.822199
+TR-0144,Visakhapatnam,Andhra Pradesh,R-006,Auto,Central,East,411,High,3,High,17,10,58.45,19.79,Hazy,2026-04-07 21:36:00,0,Delayed,Source,1,17.683553,83.229211
+TR-0151,Bengaluru,Karnataka,R-006,Metro,West,Central,163,Low,1147,Moderate,31,11,26.36,45.87,Rain,2026-04-26 16:44:00,0,Delayed,Source,1,12.97413,77.577063
+TR-0179,Nagpur,Maharashtra,R-006,Train,East,Central,757,Medium,1618,Moderate,36,9,85.98,31.62,Hazy,2026-07-20 04:09:00,0,Delayed,Source,1,21.140568,79.16363
+TR-0228,Nagpur,Maharashtra,R-006,Auto,East,South,923,High,3,High,30,12,90.77,11.57,Hazy,2026-06-29 21:29:00,0,Delayed,Source,1,21.167324,79.14875
+TR-0347,Visakhapatnam,Andhra Pradesh,R-006,Bus,North,West,481,High,72,Moderate,37,8,85.6,44.87,Cloudy,2026-06-26 17:00:00,0,Delayed,Source,1,17.744678,83.234336
+TR-0387,Indore,Madhya Pradesh,R-006,Train,North,West,576,Medium,1547,High,19,22,29.81,20.51,Hazy,2026-05-28 12:39:00,0,Delayed,Source,1,22.779976,75.862969
+TR-0408,Pune,Maharashtra,R-006,Train,East,North,566,High,969,Low,50,9,11.76,50.69,Clear,2026-08-05 11:48:00,0,Delayed,Source,1,18.531028,73.912624
+TR-0030,Nagpur,Maharashtra,R-006,Auto,West,East,,,,High,,,,,Hazy,2026-02-28 12:05:00,,,Destination,2,21.176046,79.15378
+TR-0059,Surat,Gujarat,R-006,E-Rickshaw,South,West,,,,High,,,,,Hazy,2026-02-10 17:11:00,,,Destination,2,21.143576,72.762812
+TR-0144,Visakhapatnam,Andhra Pradesh,R-006,Auto,Central,East,,,,High,,,,,Hazy,2026-04-07 21:36:00,,,Destination,2,17.67487,83.272842
+TR-0151,Bengaluru,Karnataka,R-006,Metro,West,Central,,,,Moderate,,,,,Rain,2026-04-26 16:44:00,,,Destination,2,12.967259,77.609184
+TR-0179,Nagpur,Maharashtra,R-006,Train,East,Central,,,,Moderate,,,,,Hazy,2026-07-20 04:09:00,,,Destination,2,21.148228,79.107782
+TR-0228,Nagpur,Maharashtra,R-006,Auto,East,South,,,,High,,,,,Hazy,2026-06-29 21:29:00,,,Destination,2,21.076648,79.080267
+TR-0347,Visakhapatnam,Andhra Pradesh,R-006,Bus,North,West,,,,Moderate,,,,,Cloudy,2026-06-26 17:00:00,,,Destination,2,17.664819,83.182979
+TR-0387,Indore,Madhya Pradesh,R-006,Train,North,West,,,,High,,,,,Hazy,2026-05-28 12:39:00,,,Destination,2,22.717454,75.793122
+TR-0408,Pune,Maharashtra,R-006,Train,East,North,,,,Low,,,,,Clear,2026-08-05 11:48:00,,,Destination,2,18.582514,73.883727
+TR-0295,Nagpur,Maharashtra,R-007,Metro,North,West,355,High,1057,Moderate,31,21,65.39,27.31,Cloudy,2026-07-31 01:48:00,0,Delayed,Source,1,21.179998,79.100858
+TR-0364,Indore,Madhya Pradesh,R-007,Bus,Central,East,464,Low,68,High,21,25,64.27,8.14,Rain,2026-04-12 15:01:00,0,Delayed,Source,1,22.720609,75.850493
+TR-0365,Coimbatore,Tamil Nadu,R-007,Bus,West,Central,534,Low,69,Moderate,40,28,41.68,27.59,Clear,2026-04-16 12:14:00,0,Delayed,Source,1,10.997506,76.896164
+TR-0413,Hyderabad,Telangana,R-007,Bus,South,West,587,Low,73,High,25,15,48.3,24.15,Cloudy,2026-06-03 21:18:00,0,Delayed,Source,1,17.32736,78.475171
+TR-0425,Bengaluru,Karnataka,R-007,Auto,East,West,152,High,3,High,24,30,30.24,9.21,Hazy,2026-04-15 03:35:00,0,Delayed,Source,1,12.987075,77.613064
+TR-0430,Hyderabad,Telangana,R-007,E-Rickshaw,Central,West,773,Medium,5,Low,53,7,83.15,41.56,Cloudy,2026-07-18 20:52:00,0,Delayed,Source,1,17.384539,78.505078
+TR-0442,Delhi,Delhi,R-007,Metro,East,North,226,Low,868,High,21,28,28.06,20.8,Hazy,2026-03-17 13:47:00,0,Delayed,Source,1,28.623372,77.259914
+TR-0295,Nagpur,Maharashtra,R-007,Metro,North,West,,,,Moderate,,,,,Cloudy,2026-07-31 01:48:00,,,Destination,2,21.136837,79.028111
+TR-0364,Indore,Madhya Pradesh,R-007,Bus,Central,East,,,,High,,,,,Rain,2026-04-12 15:01:00,,,Destination,2,22.715607,75.919821
+TR-0365,Coimbatore,Tamil Nadu,R-007,Bus,West,Central,,,,Moderate,,,,,Clear,2026-04-16 12:14:00,,,Destination,2,11.045503,76.946591
+TR-0413,Hyderabad,Telangana,R-007,Bus,South,West,,,,High,,,,,Cloudy,2026-06-03 21:18:00,,,Destination,2,17.376232,78.428126
+TR-0425,Bengaluru,Karnataka,R-007,Auto,East,West,,,,High,,,,,Hazy,2026-04-15 03:35:00,,,Destination,2,12.97386,77.556836
+TR-0430,Hyderabad,Telangana,R-007,E-Rickshaw,Central,West,,,,Low,,,,,Cloudy,2026-07-18 20:52:00,,,Destination,2,17.398216,78.441371
+TR-0442,Delhi,Delhi,R-007,Metro,East,North,,,,High,,,,,Hazy,2026-03-17 13:47:00,,,Destination,2,28.668728,77.21399
+TR-0120,Lucknow,Uttar Pradesh,R-008,Auto,West,Central,615,Low,3,Moderate,45,8,40.63,56.72,Hazy,2026-06-06 10:56:00,0,Delayed,Source,1,26.828363,80.886289
+TR-0200,Indore,Madhya Pradesh,R-008,Taxi,North,Central,373,High,4,Moderate,44,22,56.84,59.7,Clear,2026-03-01 13:12:00,0,Delayed,Source,1,22.764292,75.877463
+TR-0360,Coimbatore,Tamil Nadu,R-008,Taxi,North,Central,527,Low,4,Moderate,38,10,77.42,23.08,Clear,2026-07-13 14:45:00,0,Delayed,Source,1,11.074298,76.952966
+TR-0485,Jaipur,Rajasthan,R-008,Taxi,North,South,318,Medium,4,Moderate,40,8,10.89,42.28,Clear,2026-06-19 11:16:00,0,Delayed,Source,1,26.976357,75.795922
+TR-0120,Lucknow,Uttar Pradesh,R-008,Auto,West,Central,,,,Moderate,,,,,Hazy,2026-06-06 10:56:00,,,Destination,2,26.840411,80.948028
+TR-0200,Indore,Madhya Pradesh,R-008,Taxi,North,Central,,,,Moderate,,,,,Clear,2026-03-01 13:12:00,,,Destination,2,22.699621,75.874742
+TR-0360,Coimbatore,Tamil Nadu,R-008,Taxi,North,Central,,,,Moderate,,,,,Clear,2026-07-13 14:45:00,,,Destination,2,11.037536,76.943969
+TR-0485,Jaipur,Rajasthan,R-008,Taxi,North,South,,,,Moderate,,,,,Clear,2026-06-19 11:16:00,,,Destination,2,26.87854,75.791983
+TR-0020,Hyderabad,Telangana,R-009,Taxi,North,East,259,High,4,Severe,5,17,90.27,13.06,Clear,2026-06-14 05:18:00,0,Delayed,Source,1,17.43161,78.496594
+TR-0081,Nagpur,Maharashtra,R-009,Auto,East,North,757,Medium,3,Moderate,39,8,71.93,29.07,Clear,2026-04-07 09:49:00,0,Delayed,Source,1,21.147557,79.137701
+TR-0100,Chennai,Tamil Nadu,R-009,Bus,Central,South,167,Medium,53,Low,65,2,15.32,54.44,Rain,2026-05-14 22:58:00,1,On Time,Source,1,13.071622,80.276746
+TR-0263,Coimbatore,Tamil Nadu,R-009,Metro,West,Central,294,Medium,568,Moderate,39,16,32.76,8.7,Clear,2026-03-03 17:13:00,0,Delayed,Source,1,11.012858,76.896111
+TR-0434,Chennai,Tamil Nadu,R-009,Bus,West,South,608,Low,55,Moderate,40,17,19.54,11.17,Hazy,2026-01-10 08:12:00,0,Delayed,Source,1,13.084629,80.227305
+TR-0486,Hyderabad,Telangana,R-009,Metro,North,Central,37,High,989,High,16,29,40.2,22.89,Hazy,2026-04-08 10:30:00,0,Delayed,Source,1,17.472868,78.487257
+TR-0489,Jaipur,Rajasthan,R-009,Taxi,West,North,402,Low,4,Severe,15,21,18.93,54.99,Rain,2026-08-04 16:19:00,0,Delayed,Source,1,26.904427,75.716497
+TR-0496,Hyderabad,Telangana,R-009,Bus,East,West,141,Medium,43,Moderate,33,15,68.97,32.9,Clear,2026-02-28 12:40:00,0,Delayed,Source,1,17.384668,78.531433
+TR-0020,Hyderabad,Telangana,R-009,Taxi,North,East,,,,Severe,,,,,Clear,2026-06-14 05:18:00,,,Destination,2,17.36992,78.562945
+TR-0081,Nagpur,Maharashtra,R-009,Auto,East,North,,,,Moderate,,,,,Clear,2026-04-07 09:49:00,,,Destination,2,21.209588,79.08334
+TR-0100,Chennai,Tamil Nadu,R-009,Bus,Central,South,,,,Low,,,,,Rain,2026-05-14 22:58:00,,,Destination,2,13.038114,80.256163
+TR-0263,Coimbatore,Tamil Nadu,R-009,Metro,West,Central,,,,Moderate,,,,,Clear,2026-03-03 17:13:00,,,Destination,2,11.014234,76.971553
+TR-0434,Chennai,Tamil Nadu,R-009,Bus,West,South,,,,Moderate,,,,,Hazy,2026-01-10 08:12:00,,,Destination,2,13.037225,80.254519
+TR-0486,Hyderabad,Telangana,R-009,Metro,North,Central,,,,High,,,,,Hazy,2026-04-08 10:30:00,,,Destination,2,17.405805,78.500661
+TR-0489,Jaipur,Rajasthan,R-009,Taxi,West,North,,,,Severe,,,,,Rain,2026-08-04 16:19:00,,,Destination,2,26.978769,75.786191
+TR-0496,Hyderabad,Telangana,R-009,Bus,East,West,,,,Moderate,,,,,Clear,2026-02-28 12:40:00,,,Destination,2,17.376758,78.437527
+TR-0188,Visakhapatnam,Andhra Pradesh,R-010,Train,West,East,593,Very High,1616,Low,56,13,18.09,38.05,Cloudy,2026-06-11 11:21:00,0,Delayed,Source,1,17.685073,83.17678
+TR-0195,Kochi,Kerala,R-010,Metro,West,North,530,Low,668,High,20,24,64.16,37.0,Cloudy,2026-02-21 00:00:00,0,Delayed,Source,1,9.919564,76.225025
+TR-0233,Delhi,Delhi,R-010,Bus,South,West,827,Very High,47,Moderate,43,22,78.99,58.15,Cloudy,2026-08-06 03:32:00,0,Delayed,Source,1,28.573031,77.196449
+TR-0249,Delhi,Delhi,R-010,Bus,Central,East,539,Low,46,Severe,5,6,74.38,19.91,Rain,2026-03-10 09:08:00,0,Delayed,Source,1,28.633179,77.198229
+TR-0260,Indore,Madhya Pradesh,R-010,Bus,South,West,267,Medium,43,Moderate,40,10,36.3,21.21,Cloudy,2026-06-27 22:06:00,0,Delayed,Source,1,22.669648,75.840765
+TR-0351,Indore,Madhya Pradesh,R-010,Bus,East,North,113,Low,57,High,19,30,57.05,21.04,Clear,2026-08-03 07:02:00,0,Delayed,Source,1,22.730915,75.907703
+TR-0188,Visakhapatnam,Andhra Pradesh,R-010,Train,West,East,,,,Low,,,,,Cloudy,2026-06-11 11:21:00,,,Destination,2,17.696091,83.294972
+TR-0195,Kochi,Kerala,R-010,Metro,West,North,,,,High,,,,,Cloudy,2026-02-21 00:00:00,,,Destination,2,10.00436,76.295078
+TR-0233,Delhi,Delhi,R-010,Bus,South,West,,,,Moderate,,,,,Cloudy,2026-08-06 03:32:00,,,Destination,2,28.59765,77.135031
+TR-0249,Delhi,Delhi,R-010,Bus,Central,East,,,,Severe,,,,,Rain,2026-03-10 09:08:00,,,Destination,2,28.619908,77.279212
+TR-0260,Indore,Madhya Pradesh,R-010,Bus,South,West,,,,Moderate,,,,,Cloudy,2026-06-27 22:06:00,,,Destination,2,22.720174,75.802716
+TR-0351,Indore,Madhya Pradesh,R-010,Bus,East,North,,,,High,,,,,Clear,2026-08-03 07:02:00,,,Destination,2,22.774624,75.886094
+TR-0078,Indore,Madhya Pradesh,R-011,Bus,North,South,278,High,49,Moderate,34,17,15.2,43.23,Clear,2026-08-03 18:08:00,0,Delayed,Source,1,22.739941,75.871219
+TR-0113,Pune,Maharashtra,R-011,Bus,Central,East,324,Very High,74,High,29,3,46.16,59.66,Hazy,2026-03-23 07:21:00,1,On Time,Source,1,18.510947,73.84925
+TR-0198,Nagpur,Maharashtra,R-011,Metro,East,North,974,Low,863,Moderate,41,3,27.95,19.55,Cloudy,2026-04-03 23:21:00,1,On Time,Source,1,21.147701,79.138363
+TR-0266,Surat,Gujarat,R-011,Bus,Central,South,539,High,51,High,25,6,91.92,13.49,Hazy,2026-04-14 19:45:00,0,Delayed,Source,1,21.170203,72.850917
+TR-0379,Visakhapatnam,Andhra Pradesh,R-011,Metro,West,East,673,High,1145,Moderate,36,28,49.71,5.99,Clear,2026-05-20 20:09:00,0,Delayed,Source,1,17.68388,83.193985
+TR-0078,Indore,Madhya Pradesh,R-011,Bus,North,South,,,,Moderate,,,,,Clear,2026-08-03 18:08:00,,,Destination,2,22.668,75.838181
+TR-0113,Pune,Maharashtra,R-011,Bus,Central,East,,,,High,,,,,Hazy,2026-03-23 07:21:00,,,Destination,2,18.528382,73.906035
+TR-0198,Nagpur,Maharashtra,R-011,Metro,East,North,,,,Moderate,,,,,Cloudy,2026-04-03 23:21:00,,,Destination,2,21.224699,79.088215
+TR-0266,Surat,Gujarat,R-011,Bus,Central,South,,,,High,,,,,Hazy,2026-04-14 19:45:00,,,Destination,2,21.117897,72.808892
+TR-0379,Visakhapatnam,Andhra Pradesh,R-011,Metro,West,East,,,,Moderate,,,,,Clear,2026-05-20 20:09:00,,,Destination,2,17.69762,83.293905
+TR-0394,Hyderabad,Telangana,R-012,Metro,Central,East,354,Very High,961,Moderate,34,25,18.79,5.82,Clear,2026-05-09 10:27:00,0,Delayed,Source,1,17.384592,78.499291
+TR-0394,Hyderabad,Telangana,R-012,Metro,Central,East,,,,Moderate,,,,,Clear,2026-05-09 10:27:00,,,Destination,2,17.386828,78.544239
+TR-0070,Delhi,Delhi,R-013,Bus,South,North,694,High,46,Moderate,39,30,73.81,10.88,Cloudy,2026-07-08 09:55:00,0,Delayed,Source,1,28.565169,77.201482
+TR-0122,Chennai,Tamil Nadu,R-013,Taxi,East,South,379,High,4,Moderate,32,3,86.53,16.66,Clear,2026-06-15 10:53:00,1,On Time,Source,1,13.119594,80.320777
+TR-0137,Coimbatore,Tamil Nadu,R-013,Auto,South,Central,913,High,3,High,19,15,82.0,35.4,Hazy,2026-03-21 10:09:00,0,Delayed,Source,1,10.961077,76.951258
+TR-0202,Nagpur,Maharashtra,R-013,Bus,West,North,838,Very High,78,Low,52,4,18.73,14.85,Rain,2026-03-23 01:09:00,1,On Time,Source,1,21.132174,79.001962
+TR-0217,Pune,Maharashtra,R-013,Train,North,East,308,Medium,1779,High,30,23,82.22,23.77,Clear,2026-06-20 06:41:00,0,Delayed,Source,1,18.575807,73.854198
+TR-0256,Kolkata,West Bengal,R-013,Bus,East,West,608,Medium,42,High,30,23,98.48,32.17,Cloudy,2026-07-01 05:25:00,0,Delayed,Source,1,22.599036,88.405867
+TR-0070,Delhi,Delhi,R-013,Bus,South,North,,,,Moderate,,,,,Cloudy,2026-07-08 09:55:00,,,Destination,2,28.698369,77.230747
+TR-0122,Chennai,Tamil Nadu,R-013,Taxi,East,South,,,,Moderate,,,,,Clear,2026-06-15 10:53:00,,,Destination,2,12.998597,80.260338
+TR-0137,Coimbatore,Tamil Nadu,R-013,Auto,South,Central,,,,High,,,,,Hazy,2026-03-21 10:09:00,,,Destination,2,11.02609,76.943783
+TR-0202,Nagpur,Maharashtra,R-013,Bus,West,North,,,,Low,,,,,Rain,2026-03-23 01:09:00,,,Destination,2,21.196464,79.09743
+TR-0217,Pune,Maharashtra,R-013,Train,North,East,,,,High,,,,,Clear,2026-06-20 06:41:00,,,Destination,2,18.515598,73.893824
+TR-0256,Kolkata,West Bengal,R-013,Bus,East,West,,,,High,,,,,Cloudy,2026-07-01 05:25:00,,,Destination,2,22.577665,88.32025
+TR-0005,Ahmedabad,Gujarat,R-014,Bus,South,West,571,High,65,Low,58,6,13.64,44.09,Cloudy,2026-02-11 12:50:00,0,Delayed,Source,1,22.985127,72.547913
+TR-0247,Pune,Maharashtra,R-014,Bus,East,South,979,Medium,74,High,29,27,72.11,51.06,Hazy,2026-06-02 11:01:00,0,Delayed,Source,1,18.539747,73.910605
+TR-0323,Mumbai,Maharashtra,R-014,Metro,South,Central,423,Low,1034,Moderate,32,30,29.93,49.31,Hazy,2026-05-08 00:48:00,0,Delayed,Source,1,19.009464,72.839924
+TR-0386,Ahmedabad,Gujarat,R-014,Bus,South,West,781,Low,53,High,26,0,80.71,42.04,Hazy,2026-06-26 18:54:00,1,On Time,Source,1,22.962735,72.560902
+TR-0005,Ahmedabad,Gujarat,R-014,Bus,South,West,,,,Low,,,,,Cloudy,2026-02-11 12:50:00,,,Destination,2,23.0239,72.537118
+TR-0247,Pune,Maharashtra,R-014,Bus,East,South,,,,High,,,,,Hazy,2026-06-02 11:01:00,,,Destination,2,18.452101,73.865829
+TR-0323,Mumbai,Maharashtra,R-014,Metro,South,Central,,,,Moderate,,,,,Hazy,2026-05-08 00:48:00,,,Destination,2,19.099924,72.86636
+TR-0386,Ahmedabad,Gujarat,R-014,Bus,South,West,,,,High,,,,,Hazy,2026-06-26 18:54:00,,,Destination,2,22.999312,72.53796
+TR-0034,Jaipur,Rajasthan,R-015,Bus,South,Central,773,High,77,High,22,0,30.9,54.48,Rain,2026-07-13 13:52:00,1,On Time,Source,1,26.862133,75.772248
+TR-0056,Indore,Madhya Pradesh,R-015,E-Rickshaw,West,Central,1000,Very High,5,Severe,7,1,29.18,6.71,Clear,2026-01-24 11:17:00,1,On Time,Source,1,22.723062,75.818427
+TR-0164,Visakhapatnam,Andhra Pradesh,R-015,Bus,West,Central,250,High,56,High,17,14,58.42,51.21,Clear,2026-02-01 08:39:00,0,Delayed,Source,1,17.680557,83.163048
+TR-0178,Mumbai,Maharashtra,R-015,Bus,West,North,211,Low,70,Severe,6,10,33.61,22.22,Cloudy,2026-01-08 06:55:00,0,Delayed,Source,1,19.079888,72.838139
+TR-0225,Delhi,Delhi,R-015,Metro,West,East,553,Medium,704,High,25,27,30.43,45.91,Hazy,2026-01-26 13:27:00,0,Delayed,Source,1,28.583123,77.148632
+TR-0362,Nagpur,Maharashtra,R-015,Bus,Central,North,885,Low,77,High,25,0,71.18,38.5,Clear,2026-06-06 22:44:00,1,On Time,Source,1,21.158843,79.080076
+TR-0390,Indore,Madhya Pradesh,R-015,Bus,South,East,670,Low,60,Moderate,38,20,45.1,27.36,Clear,2026-07-04 09:46:00,0,Delayed,Source,1,22.678893,75.845938
+TR-0395,Jaipur,Rajasthan,R-015,Metro,Central,East,270,High,893,Moderate,35,10,64.38,50.49,Clear,2026-04-11 03:12:00,0,Delayed,Source,1,26.917664,75.793167
+TR-0487,Kochi,Kerala,R-015,E-Rickshaw,North,Central,572,Very High,5,Severe,11,6,68.82,51.1,Cloudy,2026-04-28 11:17:00,0,Delayed,Source,1,9.981568,76.266311
+TR-0034,Jaipur,Rajasthan,R-015,Bus,South,Central,,,,High,,,,,Rain,2026-07-13 13:52:00,,,Destination,2,26.915877,75.812205
+TR-0056,Indore,Madhya Pradesh,R-015,E-Rickshaw,West,Central,,,,Severe,,,,,Clear,2026-01-24 11:17:00,,,Destination,2,22.716931,75.843936
+TR-0164,Visakhapatnam,Andhra Pradesh,R-015,Bus,West,Central,,,,High,,,,,Clear,2026-02-01 08:39:00,,,Destination,2,17.705349,83.20951
+TR-0178,Mumbai,Maharashtra,R-015,Bus,West,North,,,,Severe,,,,,Cloudy,2026-01-08 06:55:00,,,Destination,2,19.129014,72.879547
+TR-0225,Delhi,Delhi,R-015,Metro,West,East,,,,High,,,,,Hazy,2026-01-26 13:27:00,,,Destination,2,28.612769,77.276831
+TR-0362,Nagpur,Maharashtra,R-015,Bus,Central,North,,,,High,,,,,Clear,2026-06-06 22:44:00,,,Destination,2,21.199205,79.117549
+TR-0390,Indore,Madhya Pradesh,R-015,Bus,South,East,,,,Moderate,,,,,Clear,2026-07-04 09:46:00,,,Destination,2,22.702963,75.895904
+TR-0395,Jaipur,Rajasthan,R-015,Metro,Central,East,,,,Moderate,,,,,Clear,2026-04-11 03:12:00,,,Destination,2,26.907301,75.832593
+TR-0487,Kochi,Kerala,R-015,E-Rickshaw,North,Central,,,,Severe,,,,,Cloudy,2026-04-28 11:17:00,,,Destination,2,9.934195,76.238012
+TR-0008,Mumbai,Maharashtra,R-016,Bus,West,East,208,Medium,61,High,16,0,23.56,32.95,Hazy,2026-04-03 02:19:00,1,On Time,Source,1,19.036015,72.840464
+TR-0009,Nagpur,Maharashtra,R-016,Train,Central,North,664,High,962,High,23,25,98.4,33.41,Clear,2026-01-02 00:47:00,0,Delayed,Source,1,21.127192,79.089023
+TR-0019,Kochi,Kerala,R-016,Bus,North,South,723,Low,46,Low,53,20,18.25,38.13,Hazy,2026-05-03 20:35:00,0,Delayed,Source,1,9.996105,76.287062
+TR-0041,Mumbai,Maharashtra,R-016,Train,South,Central,352,Low,1513,High,15,3,95.0,12.76,Cloudy,2026-02-24 15:17:00,1,On Time,Source,1,19.019929,72.86806
+TR-0097,Nagpur,Maharashtra,R-016,Taxi,West,Central,916,High,4,Moderate,43,0,47.6,59.13,Clear,2026-06-07 12:33:00,1,On Time,Source,1,21.132613,79.039001
+TR-0153,Visakhapatnam,Andhra Pradesh,R-016,Auto,South,North,379,High,3,High,23,22,64.49,28.82,Cloudy,2026-02-05 09:36:00,0,Delayed,Source,1,17.646279,83.241501
+TR-0236,Nagpur,Maharashtra,R-016,E-Rickshaw,Central,North,687,Medium,5,Moderate,30,29,79.22,28.4,Hazy,2026-06-08 20:41:00,0,Delayed,Source,1,21.141207,79.075717
+TR-0402,Hyderabad,Telangana,R-016,Metro,West,South,839,High,685,Moderate,44,16,55.83,39.52,Hazy,2026-06-29 19:47:00,0,Delayed,Source,1,17.388164,78.425423
+TR-0470,Bengaluru,Karnataka,R-016,Auto,East,North,378,Very High,3,Low,58,0,74.21,55.94,Hazy,2026-04-09 11:36:00,1,On Time,Source,1,12.976747,77.652628
+TR-0008,Mumbai,Maharashtra,R-016,Bus,West,East,,,,High,,,,,Hazy,2026-04-03 02:19:00,,,Destination,2,19.111905,72.947481
+TR-0009,Nagpur,Maharashtra,R-016,Train,Central,North,,,,High,,,,,Clear,2026-01-02 00:47:00,,,Destination,2,21.188052,79.103883
+TR-0019,Kochi,Kerala,R-016,Bus,North,South,,,,Low,,,,,Hazy,2026-05-03 20:35:00,,,Destination,2,9.891866,76.257552
+TR-0041,Mumbai,Maharashtra,R-016,Train,South,Central,,,,High,,,,,Cloudy,2026-02-24 15:17:00,,,Destination,2,19.067546,72.86896
+TR-0097,Nagpur,Maharashtra,R-016,Taxi,West,Central,,,,Moderate,,,,,Clear,2026-06-07 12:33:00,,,Destination,2,21.139242,79.082011
+TR-0153,Visakhapatnam,Andhra Pradesh,R-016,Auto,South,North,,,,High,,,,,Cloudy,2026-02-05 09:36:00,,,Destination,2,17.75786,83.214944
+TR-0236,Nagpur,Maharashtra,R-016,E-Rickshaw,Central,North,,,,Moderate,,,,,Hazy,2026-06-08 20:41:00,,,Destination,2,21.208779,79.086342
+TR-0402,Hyderabad,Telangana,R-016,Metro,West,South,,,,Moderate,,,,,Hazy,2026-06-29 19:47:00,,,Destination,2,17.319016,78.470808
+TR-0470,Bengaluru,Karnataka,R-016,Auto,East,North,,,,Low,,,,,Hazy,2026-04-09 11:36:00,,,Destination,2,13.032858,77.601993
+TR-0057,Coimbatore,Tamil Nadu,R-017,Bus,Central,North,373,Low,69,Low,47,29,71.7,28.67,Cloudy,2026-06-25 21:53:00,0,Delayed,Source,1,11.011773,76.950019
+TR-0169,Coimbatore,Tamil Nadu,R-017,Auto,East,Central,977,Medium,3,Severe,12,0,31.32,42.26,Clear,2026-06-17 22:55:00,1,On Time,Source,1,11.017471,77.01912
+TR-0220,Jaipur,Rajasthan,R-017,E-Rickshaw,Central,West,243,High,5,Low,52,24,82.27,58.94,Clear,2026-03-12 11:14:00,0,Delayed,Source,1,26.91822,75.781686
+TR-0248,Lucknow,Uttar Pradesh,R-017,Metro,South,West,157,High,962,Low,56,3,46.46,5.15,Rain,2026-04-29 01:05:00,1,On Time,Source,1,26.790114,80.929915
+TR-0296,Nagpur,Maharashtra,R-017,Bus,West,South,339,Very High,80,High,20,7,58.61,46.23,Hazy,2026-01-19 02:17:00,0,Delayed,Source,1,21.145476,79.025994
+TR-0376,Kolkata,West Bengal,R-017,E-Rickshaw,East,North,241,Medium,5,Moderate,36,15,55.59,35.96,Cloudy,2026-01-12 20:41:00,0,Delayed,Source,1,22.579947,88.407892
+TR-0445,Ahmedabad,Gujarat,R-017,Train,North,Central,947,Medium,1348,Moderate,41,5,47.96,13.07,Cloudy,2026-04-11 05:20:00,1,On Time,Source,1,23.061757,72.576077
+TR-0057,Coimbatore,Tamil Nadu,R-017,Bus,Central,North,,,,Low,,,,,Cloudy,2026-06-25 21:53:00,,,Destination,2,11.091318,76.936024
+TR-0169,Coimbatore,Tamil Nadu,R-017,Auto,East,Central,,,,Severe,,,,,Clear,2026-06-17 22:55:00,,,Destination,2,11.01166,76.931237
+TR-0220,Jaipur,Rajasthan,R-017,E-Rickshaw,Central,West,,,,Low,,,,,Clear,2026-03-12 11:14:00,,,Destination,2,26.892743,75.733321
+TR-0248,Lucknow,Uttar Pradesh,R-017,Metro,South,West,,,,Low,,,,,Rain,2026-04-29 01:05:00,,,Destination,2,26.820397,80.878243
+TR-0296,Nagpur,Maharashtra,R-017,Bus,West,South,,,,High,,,,,Hazy,2026-01-19 02:17:00,,,Destination,2,21.091491,79.070138
+TR-0376,Kolkata,West Bengal,R-017,E-Rickshaw,East,North,,,,Moderate,,,,,Cloudy,2026-01-12 20:41:00,,,Destination,2,22.623335,88.391747
+TR-0445,Ahmedabad,Gujarat,R-017,Train,North,Central,,,,Moderate,,,,,Cloudy,2026-04-11 05:20:00,,,Destination,2,23.022863,72.554272
+TR-0012,Coimbatore,Tamil Nadu,R-018,Bus,South,North,304,Medium,60,High,15,24,45.52,51.43,Rain,2026-04-14 13:23:00,0,Delayed,Source,1,10.948949,76.95159
+TR-0029,Surat,Gujarat,R-018,Train,North,South,102,High,1618,High,22,25,41.87,26.84,Hazy,2026-08-05 22:36:00,0,Delayed,Source,1,21.218834,72.83419
+TR-0196,Nagpur,Maharashtra,R-018,Metro,Central,South,481,Low,1043,Low,63,27,36.67,12.89,Rain,2026-07-06 03:36:00,0,Delayed,Source,1,21.135715,79.096317
+TR-0197,Mumbai,Maharashtra,R-018,Bus,West,Central,479,High,63,Moderate,35,30,99.61,5.58,Cloudy,2026-02-02 09:36:00,0,Delayed,Source,1,19.093257,72.817847
+TR-0283,Indore,Madhya Pradesh,R-018,Bus,West,North,253,Low,61,Moderate,44,11,18.43,57.53,Hazy,2026-05-04 06:22:00,0,Delayed,Source,1,22.71661,75.810066
+TR-0416,Delhi,Delhi,R-018,Auto,North,Central,327,Medium,3,Low,57,20,53.91,43.62,Rain,2026-08-01 19:59:00,0,Delayed,Source,1,28.670994,77.223417
+TR-0012,Coimbatore,Tamil Nadu,R-018,Bus,South,North,,,,High,,,,,Rain,2026-04-14 13:23:00,,,Destination,2,11.069118,76.974368
+TR-0029,Surat,Gujarat,R-018,Train,North,South,,,,High,,,,,Hazy,2026-08-05 22:36:00,,,Destination,2,21.111899,72.793477
+TR-0196,Nagpur,Maharashtra,R-018,Metro,Central,South,,,,Low,,,,,Rain,2026-07-06 03:36:00,,,Destination,2,21.091769,79.070027
+TR-0197,Mumbai,Maharashtra,R-018,Bus,West,Central,,,,Moderate,,,,,Cloudy,2026-02-02 09:36:00,,,Destination,2,19.081897,72.884537
+TR-0283,Indore,Madhya Pradesh,R-018,Bus,West,North,,,,Moderate,,,,,Hazy,2026-05-04 06:22:00,,,Destination,2,22.765665,75.862728
+TR-0416,Delhi,Delhi,R-018,Auto,North,Central,,,,Low,,,,,Rain,2026-08-01 19:59:00,,,Destination,2,28.623378,77.216908
+TR-0315,Kochi,Kerala,R-019,Taxi,South,North,294,High,4,Severe,6,7,13.4,40.39,Rain,2026-03-27 16:35:00,0,Delayed,Source,1,9.901652,76.254562
+TR-0450,Pune,Maharashtra,R-019,Auto,South,East,689,High,3,Moderate,44,28,81.25,31.16,Hazy,2026-01-16 00:47:00,0,Delayed,Source,1,18.475284,73.831973
+TR-0488,Ahmedabad,Gujarat,R-019,Auto,South,North,71,Medium,3,Moderate,37,24,99.33,42.37,Cloudy,2026-06-16 09:46:00,0,Delayed,Source,1,22.972251,72.559994
+TR-0315,Kochi,Kerala,R-019,Taxi,South,North,,,,Severe,,,,,Rain,2026-03-27 16:35:00,,,Destination,2,9.948619,76.294792
+TR-0450,Pune,Maharashtra,R-019,Auto,South,East,,,,Moderate,,,,,Hazy,2026-01-16 00:47:00,,,Destination,2,18.538539,73.907249
+TR-0488,Ahmedabad,Gujarat,R-019,Auto,South,North,,,,Moderate,,,,,Cloudy,2026-06-16 09:46:00,,,Destination,2,23.09639,72.577249
+TR-0013,Delhi,Delhi,R-020,Bus,Central,West,501,Medium,46,Moderate,38,0,16.38,26.82,Cloudy,2026-07-23 18:22:00,1,On Time,Source,1,28.618193,77.215729
+TR-0036,Kolkata,West Bengal,R-020,Metro,Central,North,348,High,782,High,18,10,96.32,23.84,Cloudy,2026-07-19 22:46:00,0,Delayed,Source,1,22.599686,88.352696
+TR-0457,Delhi,Delhi,R-020,Bus,West,East,341,Medium,54,Moderate,40,1,53.68,50.66,Rain,2026-05-07 22:18:00,1,On Time,Source,1,28.598014,77.189836
+TR-0462,Indore,Madhya Pradesh,R-020,Metro,West,Central,967,Very High,580,High,29,18,19.71,40.76,Rain,2026-06-29 11:08:00,0,Delayed,Source,1,22.699527,75.798274
+TR-0013,Delhi,Delhi,R-020,Bus,Central,West,,,,Moderate,,,,,Cloudy,2026-07-23 18:22:00,,,Destination,2,28.616897,77.166646
+TR-0036,Kolkata,West Bengal,R-020,Metro,Central,North,,,,High,,,,,Cloudy,2026-07-19 22:46:00,,,Destination,2,22.665693,88.376087
+TR-0457,Delhi,Delhi,R-020,Bus,West,East,,,,Moderate,,,,,Rain,2026-05-07 22:18:00,,,Destination,2,28.644408,77.270229
+TR-0462,Indore,Madhya Pradesh,R-020,Metro,West,Central,,,,High,,,,,Rain,2026-06-29 11:08:00,,,Destination,2,22.746654,75.862404
+TR-0001,Pune,Maharashtra,R-021,Metro,North,West,397,High,691,High,22,0,37.38,33.86,Hazy,2026-03-30 16:26:00,1,On Time,Source,1,18.581086,73.883121
+TR-0085,Ahmedabad,Gujarat,R-021,Metro,West,Central,137,High,648,Moderate,30,29,85.78,45.07,Rain,2026-05-31 11:31:00,0,Delayed,Source,1,23.006363,72.507275
+TR-0273,Hyderabad,Telangana,R-021,Bus,North,East,244,High,74,High,23,25,11.2,34.81,Clear,2026-01-20 05:19:00,0,Delayed,Source,1,17.441517,78.482569
+TR-0367,Lucknow,Uttar Pradesh,R-021,Train,East,South,947,Low,1191,High,18,9,54.81,51.3,Hazy,2026-07-21 08:51:00,0,Delayed,Source,1,26.833332,81.012941
+TR-0001,Pune,Maharashtra,R-021,Metro,North,West,,,,High,,,,,Hazy,2026-03-30 16:26:00,,,Destination,2,18.499398,73.80021
+TR-0085,Ahmedabad,Gujarat,R-021,Metro,West,Central,,,,Moderate,,,,,Rain,2026-05-31 11:31:00,,,Destination,2,23.025027,72.57755
+TR-0273,Hyderabad,Telangana,R-021,Bus,North,East,,,,High,,,,,Clear,2026-01-20 05:19:00,,,Destination,2,17.417477,78.553437
+TR-0367,Lucknow,Uttar Pradesh,R-021,Train,East,South,,,,High,,,,,Hazy,2026-07-21 08:51:00,,,Destination,2,26.781974,80.946484
+TR-0099,Hyderabad,Telangana,R-022,Bus,Central,East,699,Low,62,Moderate,31,16,85.73,30.92,Rain,2026-04-01 02:32:00,0,Delayed,Source,1,17.373008,78.480643
+TR-0261,Lucknow,Uttar Pradesh,R-022,Train,North,Central,25,High,1006,Low,48,23,67.91,15.85,Clear,2026-04-10 03:03:00,0,Delayed,Source,1,26.909986,80.959387
+TR-0099,Hyderabad,Telangana,R-022,Bus,Central,East,,,,Moderate,,,,,Rain,2026-04-01 02:32:00,,,Destination,2,17.405087,78.548261
+TR-0261,Lucknow,Uttar Pradesh,R-022,Train,North,Central,,,,Low,,,,,Clear,2026-04-10 03:03:00,,,Destination,2,26.854593,80.945366
+TR-0016,Indore,Madhya Pradesh,R-023,E-Rickshaw,Central,West,477,High,5,Low,60,25,65.43,39.93,Cloudy,2026-06-29 09:57:00,0,Delayed,Source,1,22.71144,75.854539
+TR-0075,Bengaluru,Karnataka,R-023,Bus,Central,North,480,High,73,Low,60,17,40.75,25.95,Cloudy,2026-07-20 00:10:00,0,Delayed,Source,1,12.96256,77.604072
+TR-0086,Lucknow,Uttar Pradesh,R-023,Metro,East,West,112,Medium,1129,Moderate,42,28,18.44,36.74,Clear,2026-05-08 04:46:00,0,Delayed,Source,1,26.861496,80.993384
+TR-0285,Pune,Maharashtra,R-023,Metro,West,Central,759,Medium,970,Severe,15,28,29.4,17.16,Rain,2026-02-27 08:47:00,0,Delayed,Source,1,18.504181,73.817603
+TR-0423,Ahmedabad,Gujarat,R-023,E-Rickshaw,Central,South,804,High,5,Moderate,38,15,15.01,48.86,Hazy,2026-05-14 19:10:00,0,Delayed,Source,1,23.032975,72.600514
+TR-0016,Indore,Madhya Pradesh,R-023,E-Rickshaw,Central,West,,,,Low,,,,,Cloudy,2026-06-29 09:57:00,,,Destination,2,22.706232,75.795452
+TR-0075,Bengaluru,Karnataka,R-023,Bus,Central,North,,,,Low,,,,,Cloudy,2026-07-20 00:10:00,,,Destination,2,13.018816,77.607881
+TR-0086,Lucknow,Uttar Pradesh,R-023,Metro,East,West,,,,Moderate,,,,,Clear,2026-05-08 04:46:00,,,Destination,2,26.830357,80.898236
+TR-0285,Pune,Maharashtra,R-023,Metro,West,Central,,,,Severe,,,,,Rain,2026-02-27 08:47:00,,,Destination,2,18.530325,73.858596
+TR-0423,Ahmedabad,Gujarat,R-023,E-Rickshaw,Central,South,,,,Moderate,,,,,Hazy,2026-05-14 19:10:00,,,Destination,2,22.973264,72.558029
+TR-0061,Indore,Madhya Pradesh,R-024,Bus,Central,North,59,Medium,69,Moderate,30,19,66.59,45.44,Cloudy,2026-01-20 23:49:00,0,Delayed,Source,1,22.740331,75.862936
+TR-0344,Pune,Maharashtra,R-024,Auto,South,West,667,Medium,3,High,30,8,67.64,19.27,Rain,2026-01-21 18:24:00,0,Delayed,Source,1,18.479572,73.851539
+TR-0449,Jaipur,Rajasthan,R-024,Bus,West,North,581,High,74,High,23,3,51.98,21.79,Clear,2026-07-21 02:54:00,1,On Time,Source,1,26.89755,75.732322
+TR-0492,Visakhapatnam,Andhra Pradesh,R-024,Metro,South,Central,313,High,940,Moderate,31,10,23.06,32.06,Clear,2026-07-09 19:32:00,0,Delayed,Source,1,17.640101,83.203014
+TR-0061,Indore,Madhya Pradesh,R-024,Bus,Central,North,,,,Moderate,,,,,Cloudy,2026-01-20 23:49:00,,,Destination,2,22.775056,75.86914
+TR-0344,Pune,Maharashtra,R-024,Auto,South,West,,,,High,,,,,Rain,2026-01-21 18:24:00,,,Destination,2,18.4988,73.792147
+TR-0449,Jaipur,Rajasthan,R-024,Bus,West,North,,,,High,,,,,Clear,2026-07-21 02:54:00,,,Destination,2,26.968812,75.777239
+TR-0492,Visakhapatnam,Andhra Pradesh,R-024,Metro,South,Central,,,,Moderate,,,,,Clear,2026-07-09 19:32:00,,,Destination,2,17.693006,83.209529
+TR-0060,Ahmedabad,Gujarat,R-025,Metro,Central,South,539,Low,586,Moderate,40,12,65.42,23.1,Cloudy,2026-04-10 12:07:00,0,Delayed,Source,1,23.035095,72.564977
+TR-0069,Delhi,Delhi,R-025,Metro,East,North,838,High,616,Severe,15,3,93.43,8.31,Clear,2026-05-21 21:18:00,1,On Time,Source,1,28.604332,77.266052
+TR-0077,Lucknow,Uttar Pradesh,R-025,Taxi,Central,East,188,High,4,Low,60,12,43.08,8.75,Cloudy,2026-07-15 14:03:00,0,Delayed,Source,1,26.847306,80.948246
+TR-0281,Ahmedabad,Gujarat,R-025,Train,West,East,507,Medium,994,High,21,20,77.11,59.76,Hazy,2026-03-27 20:59:00,0,Delayed,Source,1,23.005758,72.522152
+TR-0060,Ahmedabad,Gujarat,R-025,Metro,Central,South,,,,Moderate,,,,,Cloudy,2026-04-10 12:07:00,,,Destination,2,22.983309,72.563771
+TR-0069,Delhi,Delhi,R-025,Metro,East,North,,,,Severe,,,,,Clear,2026-05-21 21:18:00,,,Destination,2,28.639903,77.212603
+TR-0077,Lucknow,Uttar Pradesh,R-025,Taxi,Central,East,,,,Low,,,,,Cloudy,2026-07-15 14:03:00,,,Destination,2,26.853998,81.003571
+TR-0281,Ahmedabad,Gujarat,R-025,Train,West,East,,,,High,,,,,Hazy,2026-03-27 20:59:00,,,Destination,2,23.001002,72.656988
+TR-0192,Chennai,Tamil Nadu,R-026,Bus,North,South,212,High,58,Moderate,34,22,62.7,34.78,Hazy,2026-07-03 18:47:00,0,Delayed,Source,1,13.137699,80.2937
+TR-0194,Hyderabad,Telangana,R-026,E-Rickshaw,South,East,31,High,5,Moderate,36,24,15.58,23.66,Hazy,2026-01-14 13:34:00,0,Delayed,Source,1,17.32382,78.487153
+TR-0192,Chennai,Tamil Nadu,R-026,Bus,North,South,,,,Moderate,,,,,Hazy,2026-07-03 18:47:00,,,Destination,2,13.03664,80.277973
+TR-0194,Hyderabad,Telangana,R-026,E-Rickshaw,South,East,,,,Moderate,,,,,Hazy,2026-01-14 13:34:00,,,Destination,2,17.396153,78.545898
+TR-0182,Pune,Maharashtra,R-027,E-Rickshaw,West,South,977,High,5,Moderate,39,26,60.95,46.33,Rain,2026-04-21 22:45:00,0,Delayed,Source,1,18.508501,73.80139
+TR-0267,Nagpur,Maharashtra,R-027,E-Rickshaw,Central,East,139,Very High,5,High,29,29,57.26,15.98,Clear,2026-06-16 08:32:00,0,Delayed,Source,1,21.133469,79.082369
+TR-0182,Pune,Maharashtra,R-027,E-Rickshaw,West,South,,,,Moderate,,,,,Rain,2026-04-21 22:45:00,,,Destination,2,18.470607,73.854763
+TR-0267,Nagpur,Maharashtra,R-027,E-Rickshaw,Central,East,,,,High,,,,,Clear,2026-06-16 08:32:00,,,Destination,2,21.16654,79.14663
+TR-0095,Ahmedabad,Gujarat,R-028,Auto,West,Central,238,Low,3,Low,59,25,60.22,35.39,Hazy,2026-05-11 07:43:00,0,Delayed,Source,1,23.004748,72.50681
+TR-0170,Kolkata,West Bengal,R-028,Bus,East,South,841,Medium,56,Moderate,32,1,65.77,37.98,Hazy,2026-03-09 21:25:00,1,On Time,Source,1,22.583777,88.43445
+TR-0420,Hyderabad,Telangana,R-028,E-Rickshaw,South,North,117,Medium,5,High,27,29,16.85,20.07,Rain,2026-06-14 14:50:00,0,Delayed,Source,1,17.332941,78.485422
+TR-0421,Visakhapatnam,Andhra Pradesh,R-028,Metro,North,Central,144,High,1191,Low,57,24,85.35,10.13,Hazy,2026-03-03 19:47:00,0,Delayed,Source,1,17.736316,83.223414
+TR-0482,Jaipur,Rajasthan,R-028,Bus,South,East,453,Medium,45,High,22,7,63.92,59.57,Hazy,2026-07-22 20:29:00,0,Delayed,Source,1,26.850365,75.779569
+TR-0095,Ahmedabad,Gujarat,R-028,Auto,West,Central,,,,Low,,,,,Hazy,2026-05-11 07:43:00,,,Destination,2,23.016707,72.55996
+TR-0170,Kolkata,West Bengal,R-028,Bus,East,South,,,,Moderate,,,,,Hazy,2026-03-09 21:25:00,,,Destination,2,22.508974,88.36284
+TR-0420,Hyderabad,Telangana,R-028,E-Rickshaw,South,North,,,,High,,,,,Rain,2026-06-14 14:50:00,,,Destination,2,17.432462,78.512137
+TR-0421,Visakhapatnam,Andhra Pradesh,R-028,Metro,North,Central,,,,Low,,,,,Hazy,2026-03-03 19:47:00,,,Destination,2,17.693268,83.206507
+TR-0482,Jaipur,Rajasthan,R-028,Bus,South,East,,,,High,,,,,Hazy,2026-07-22 20:29:00,,,Destination,2,26.931508,75.834998
+TR-0055,Kolkata,West Bengal,R-029,Metro,South,West,53,Low,1037,Moderate,45,3,48.36,29.83,Rain,2026-01-15 22:28:00,1,On Time,Source,1,22.510561,88.37683
+TR-0160,Lucknow,Uttar Pradesh,R-029,Bus,Central,East,829,Very High,61,High,26,7,30.77,55.36,Hazy,2026-04-26 22:15:00,0,Delayed,Source,1,26.847222,80.952898
+TR-0191,Hyderabad,Telangana,R-029,Metro,West,North,754,Low,825,Severe,14,15,21.99,39.78,Rain,2026-07-16 11:11:00,0,Delayed,Source,1,17.371605,78.424271
+TR-0384,Kochi,Kerala,R-029,Bus,West,South,700,High,65,Moderate,44,19,86.57,28.32,Cloudy,2026-08-03 11:37:00,0,Delayed,Source,1,9.928364,76.211835
+TR-0055,Kolkata,West Bengal,R-029,Metro,South,West,,,,Moderate,,,,,Rain,2026-01-15 22:28:00,,,Destination,2,22.575844,88.329605
+TR-0160,Lucknow,Uttar Pradesh,R-029,Bus,Central,East,,,,High,,,,,Hazy,2026-04-26 22:15:00,,,Destination,2,26.826345,80.997641
+TR-0191,Hyderabad,Telangana,R-029,Metro,West,North,,,,Severe,,,,,Rain,2026-07-16 11:11:00,,,Destination,2,17.439622,78.499997
+TR-0384,Kochi,Kerala,R-029,Bus,West,South,,,,Moderate,,,,,Cloudy,2026-08-03 11:37:00,,,Destination,2,9.867543,76.263872
+TR-0049,Pune,Maharashtra,R-030,E-Rickshaw,South,West,290,Low,5,Moderate,34,17,36.67,17.85,Clear,2026-06-25 00:52:00,0,Delayed,Source,1,18.459282,73.816885
+TR-0074,Kolkata,West Bengal,R-030,Auto,Central,East,822,Medium,3,High,27,24,83.96,5.07,Hazy,2026-05-20 07:19:00,0,Delayed,Source,1,22.558529,88.349098
+TR-0174,Visakhapatnam,Andhra Pradesh,R-030,Metro,Central,West,80,Low,859,High,25,10,57.91,10.68,Cloudy,2026-07-24 07:53:00,0,Delayed,Source,1,17.692401,83.224576
+TR-0227,Visakhapatnam,Andhra Pradesh,R-030,Metro,West,South,114,High,958,Moderate,33,16,90.82,33.88,Clear,2026-03-19 23:33:00,0,Delayed,Source,1,17.692705,83.146618
+TR-0241,Delhi,Delhi,R-030,Metro,North,West,231,High,832,Moderate,44,12,27.34,12.1,Hazy,2026-07-31 19:18:00,0,Delayed,Source,1,28.680782,77.216394
+TR-0242,Indore,Madhya Pradesh,R-030,Bus,West,North,914,High,67,High,22,20,17.13,7.59,Cloudy,2026-07-04 19:39:00,0,Delayed,Source,1,22.707246,75.794646
+TR-0268,Bengaluru,Karnataka,R-030,Metro,North,East,909,High,517,Moderate,42,25,42.29,59.76,Cloudy,2026-06-25 00:48:00,0,Delayed,Source,1,13.02611,77.606619
+TR-0332,Lucknow,Uttar Pradesh,R-030,Bus,West,East,998,Medium,49,Severe,11,20,18.51,46.71,Rain,2026-02-02 05:24:00,0,Delayed,Source,1,26.816136,80.880373
+TR-0337,Chennai,Tamil Nadu,R-030,Bus,West,East,403,High,56,High,24,19,32.59,42.59,Rain,2026-02-23 07:21:00,0,Delayed,Source,1,13.064164,80.221418
+TR-0049,Pune,Maharashtra,R-030,E-Rickshaw,South,West,,,,Moderate,,,,,Clear,2026-06-25 00:52:00,,,Destination,2,18.521438,73.805466
+TR-0074,Kolkata,West Bengal,R-030,Auto,Central,East,,,,High,,,,,Hazy,2026-05-20 07:19:00,,,Destination,2,22.59094,88.442259
+TR-0174,Visakhapatnam,Andhra Pradesh,R-030,Metro,Central,West,,,,High,,,,,Cloudy,2026-07-24 07:53:00,,,Destination,2,17.678927,83.152555
+TR-0227,Visakhapatnam,Andhra Pradesh,R-030,Metro,West,South,,,,Moderate,,,,,Clear,2026-03-19 23:33:00,,,Destination,2,17.638831,83.199659
+TR-0241,Delhi,Delhi,R-030,Metro,North,West,,,,Moderate,,,,,Hazy,2026-07-31 19:18:00,,,Destination,2,28.610218,77.148271
+TR-0242,Indore,Madhya Pradesh,R-030,Bus,West,North,,,,High,,,,,Cloudy,2026-07-04 19:39:00,,,Destination,2,22.750838,75.861679
+TR-0268,Bengaluru,Karnataka,R-030,Metro,North,East,,,,Moderate,,,,,Cloudy,2026-06-25 00:48:00,,,Destination,2,12.975717,77.636821
+TR-0332,Lucknow,Uttar Pradesh,R-030,Bus,West,East,,,,Severe,,,,,Rain,2026-02-02 05:24:00,,,Destination,2,26.853265,81.003201
+TR-0337,Chennai,Tamil Nadu,R-030,Bus,West,East,,,,High,,,,,Rain,2026-02-23 07:21:00,,,Destination,2,13.093277,80.339679
+TR-0187,Nagpur,Maharashtra,R-032,Train,Central,East,327,Low,861,Low,64,25,63.47,27.63,Clear,2026-03-17 08:09:00,0,Delayed,Source,1,21.154004,79.087535
+TR-0348,Bengaluru,Karnataka,R-032,Bus,Central,North,977,Very High,53,High,23,5,52.56,7.15,Clear,2026-05-24 11:16:00,1,On Time,Source,1,12.95962,77.600826
+TR-0354,Lucknow,Uttar Pradesh,R-032,Metro,Central,South,626,Medium,722,High,30,17,63.95,14.42,Hazy,2026-07-08 01:41:00,0,Delayed,Source,1,26.845348,80.95161
+TR-0405,Coimbatore,Tamil Nadu,R-032,Taxi,North,Central,502,Low,4,Low,48,20,15.52,33.91,Clear,2026-07-02 16:08:00,0,Delayed,Source,1,11.08104,76.967652
+TR-0187,Nagpur,Maharashtra,R-032,Train,Central,East,,,,Low,,,,,Clear,2026-03-17 08:09:00,,,Destination,2,21.169726,79.127974
+TR-0348,Bengaluru,Karnataka,R-032,Bus,Central,North,,,,High,,,,,Clear,2026-05-24 11:16:00,,,Destination,2,13.036962,77.606658
+TR-0354,Lucknow,Uttar Pradesh,R-032,Metro,Central,South,,,,High,,,,,Hazy,2026-07-08 01:41:00,,,Destination,2,26.801744,80.931952
+TR-0405,Coimbatore,Tamil Nadu,R-032,Taxi,North,Central,,,,Low,,,,,Clear,2026-07-02 16:08:00,,,Destination,2,11.017961,76.948679
+TR-0004,Coimbatore,Tamil Nadu,R-033,Bus,South,Central,863,Medium,56,Moderate,37,26,16.66,24.72,Clear,2026-01-28 06:08:00,0,Delayed,Source,1,10.965923,76.924644
+TR-0035,Ahmedabad,Gujarat,R-033,Auto,Central,North,693,High,3,High,20,29,28.41,44.27,Clear,2026-05-03 09:32:00,0,Delayed,Source,1,23.024482,72.578227
+TR-0107,Ahmedabad,Gujarat,R-033,Bus,South,North,694,Medium,41,Low,59,30,69.64,10.08,Rain,2026-06-05 07:19:00,0,Delayed,Source,1,22.953122,72.573751
+TR-0317,Visakhapatnam,Andhra Pradesh,R-033,Bus,South,Central,564,High,53,Moderate,39,16,89.4,13.09,Cloudy,2026-02-16 15:15:00,0,Delayed,Source,1,17.616976,83.209004
+TR-0330,Pune,Maharashtra,R-033,E-Rickshaw,Central,South,37,Low,5,Moderate,39,28,78.82,20.66,Rain,2026-01-31 02:53:00,0,Delayed,Source,1,18.517143,73.859014
+TR-0426,Visakhapatnam,Andhra Pradesh,R-033,Taxi,West,East,60,High,4,High,18,20,50.03,41.77,Clear,2026-03-11 05:02:00,0,Delayed,Source,1,17.684424,83.162088
+TR-0471,Jaipur,Rajasthan,R-033,Train,Central,South,770,High,1800,High,24,24,74.19,14.02,Hazy,2026-06-07 13:53:00,0,Delayed,Source,1,26.898511,75.76353
+TR-0004,Coimbatore,Tamil Nadu,R-033,Bus,South,Central,,,,Moderate,,,,,Clear,2026-01-28 06:08:00,,,Destination,2,11.020689,76.951179
+TR-0035,Ahmedabad,Gujarat,R-033,Auto,Central,North,,,,High,,,,,Clear,2026-05-03 09:32:00,,,Destination,2,23.067002,72.576596
+TR-0107,Ahmedabad,Gujarat,R-033,Bus,South,North,,,,Low,,,,,Rain,2026-06-05 07:19:00,,,Destination,2,23.085754,72.586436
+TR-0317,Visakhapatnam,Andhra Pradesh,R-033,Bus,South,Central,,,,Moderate,,,,,Cloudy,2026-02-16 15:15:00,,,Destination,2,17.685858,83.210753
+TR-0330,Pune,Maharashtra,R-033,E-Rickshaw,Central,South,,,,Moderate,,,,,Rain,2026-01-31 02:53:00,,,Destination,2,18.465719,73.843496
+TR-0426,Visakhapatnam,Andhra Pradesh,R-033,Taxi,West,East,,,,High,,,,,Clear,2026-03-11 05:02:00,,,Destination,2,17.691334,83.276439
+TR-0471,Jaipur,Rajasthan,R-033,Train,Central,South,,,,High,,,,,Hazy,2026-06-07 13:53:00,,,Destination,2,26.85694,75.787125
+TR-0130,Chennai,Tamil Nadu,R-034,Auto,South,Central,627,Medium,3,Moderate,41,18,54.52,33.2,Rain,2026-03-08 19:19:00,0,Delayed,Source,1,13.012695,80.267954
+TR-0298,Pune,Maharashtra,R-034,Bus,West,Central,104,Very High,78,Low,55,6,66.46,30.94,Clear,2026-01-16 06:12:00,0,Delayed,Source,1,18.512195,73.802874
+TR-0342,Mumbai,Maharashtra,R-034,Bus,Central,North,136,Medium,70,Moderate,37,16,49.55,32.3,Hazy,2026-05-21 00:33:00,0,Delayed,Source,1,19.063066,72.889989
+TR-0130,Chennai,Tamil Nadu,R-034,Auto,South,Central,,,,Moderate,,,,,Rain,2026-03-08 19:19:00,,,Destination,2,13.093288,80.265275
+TR-0298,Pune,Maharashtra,R-034,Bus,West,Central,,,,Low,,,,,Clear,2026-01-16 06:12:00,,,Destination,2,18.525632,73.866826
+TR-0342,Mumbai,Maharashtra,R-034,Bus,Central,North,,,,Moderate,,,,,Hazy,2026-05-21 00:33:00,,,Destination,2,19.115906,72.874788
+TR-0068,Delhi,Delhi,R-035,Bus,West,South,679,High,72,High,17,11,11.32,37.29,Hazy,2026-04-20 13:09:00,0,Delayed,Source,1,28.619377,77.150863
+TR-0358,Lucknow,Uttar Pradesh,R-035,E-Rickshaw,East,West,469,Low,5,High,16,10,40.24,35.84,Clear,2026-06-25 19:49:00,0,Delayed,Source,1,26.838911,80.996689
+TR-0361,Indore,Madhya Pradesh,R-035,Metro,Central,South,507,Low,740,High,25,19,73.7,31.57,Rain,2026-05-05 05:08:00,0,Delayed,Source,1,22.70327,75.836052
+TR-0396,Jaipur,Rajasthan,R-035,Bus,East,South,907,Very High,65,Moderate,31,18,47.09,6.96,Hazy,2026-01-08 13:09:00,0,Delayed,Source,1,26.912032,75.840782
+TR-0444,Chennai,Tamil Nadu,R-035,Bus,East,Central,300,Low,40,Severe,7,13,69.38,22.55,Cloudy,2026-08-01 02:50:00,0,Delayed,Source,1,13.067879,80.326773
+TR-0068,Delhi,Delhi,R-035,Bus,West,South,,,,High,,,,,Hazy,2026-04-20 13:09:00,,,Destination,2,28.560346,77.186656
+TR-0358,Lucknow,Uttar Pradesh,R-035,E-Rickshaw,East,West,,,,High,,,,,Clear,2026-06-25 19:49:00,,,Destination,2,26.816589,80.892501
+TR-0361,Indore,Madhya Pradesh,R-035,Metro,Central,South,,,,High,,,,,Rain,2026-05-05 05:08:00,,,Destination,2,22.659974,75.850509
+TR-0396,Jaipur,Rajasthan,R-035,Bus,East,South,,,,Moderate,,,,,Hazy,2026-01-08 13:09:00,,,Destination,2,26.846476,75.785642
+TR-0444,Chennai,Tamil Nadu,R-035,Bus,East,Central,,,,Severe,,,,,Cloudy,2026-08-01 02:50:00,,,Destination,2,13.077389,80.270793
+TR-0022,Mumbai,Maharashtra,R-036,E-Rickshaw,West,East,580,Very High,5,High,30,2,72.59,9.15,Rain,2026-02-18 13:14:00,1,On Time,Source,1,19.048653,72.81257
+TR-0148,Pune,Maharashtra,R-036,Metro,Central,South,686,High,1133,Moderate,45,1,56.73,38.43,Cloudy,2026-06-16 22:46:00,1,On Time,Source,1,18.515392,73.853159
+TR-0211,Bengaluru,Karnataka,R-036,Bus,West,East,608,Low,66,High,15,24,92.06,10.36,Cloudy,2026-01-29 22:16:00,0,Delayed,Source,1,12.943502,77.525716
+TR-0321,Bengaluru,Karnataka,R-036,Auto,East,South,426,Very High,3,High,27,18,70.0,20.64,Hazy,2026-04-19 11:10:00,0,Delayed,Source,1,13.00019,77.659082
+TR-0022,Mumbai,Maharashtra,R-036,E-Rickshaw,West,East,,,,High,,,,,Rain,2026-02-18 13:14:00,,,Destination,2,19.081882,72.938192
+TR-0148,Pune,Maharashtra,R-036,Metro,Central,South,,,,Moderate,,,,,Cloudy,2026-06-16 22:46:00,,,Destination,2,18.47711,73.857721
+TR-0211,Bengaluru,Karnataka,R-036,Bus,West,East,,,,High,,,,,Cloudy,2026-01-29 22:16:00,,,Destination,2,12.981324,77.640856
+TR-0321,Bengaluru,Karnataka,R-036,Auto,East,South,,,,High,,,,,Hazy,2026-04-19 11:10:00,,,Destination,2,12.913766,77.58871
+TR-0264,Jaipur,Rajasthan,R-037,Bus,West,East,898,Very High,52,Moderate,38,7,55.26,48.73,Cloudy,2026-03-10 12:08:00,0,Delayed,Source,1,26.897723,75.710116
+TR-0302,Bengaluru,Karnataka,R-037,Auto,North,South,657,High,3,Moderate,33,5,70.55,34.17,Clear,2026-03-29 14:25:00,1,On Time,Source,1,13.038602,77.633847
+TR-0483,Delhi,Delhi,R-037,Taxi,Central,East,938,Low,4,High,23,27,19.41,38.69,Hazy,2026-04-23 19:08:00,0,Delayed,Source,1,28.622239,77.213857
+TR-0264,Jaipur,Rajasthan,R-037,Bus,West,East,,,,Moderate,,,,,Cloudy,2026-03-10 12:08:00,,,Destination,2,26.920389,75.844573
+TR-0302,Bengaluru,Karnataka,R-037,Auto,North,South,,,,Moderate,,,,,Clear,2026-03-29 14:25:00,,,Destination,2,12.89609,77.599357
+TR-0483,Delhi,Delhi,R-037,Taxi,Central,East,,,,High,,,,,Hazy,2026-04-23 19:08:00,,,Destination,2,28.624966,77.257414
+TR-0032,Mumbai,Maharashtra,R-038,Bus,West,East,142,High,65,Moderate,30,4,55.55,56.26,Clear,2026-01-03 00:05:00,1,On Time,Source,1,19.09052,72.842135
+TR-0038,Surat,Gujarat,R-038,Bus,West,Central,333,Medium,64,High,23,1,51.91,31.45,Rain,2026-01-17 10:58:00,1,On Time,Source,1,21.145381,72.762908
+TR-0140,Jaipur,Rajasthan,R-038,Metro,South,East,755,High,707,Low,47,21,22.95,37.74,Rain,2026-06-06 14:37:00,0,Delayed,Source,1,26.854635,75.766209
+TR-0142,Coimbatore,Tamil Nadu,R-038,Metro,Central,East,31,Medium,761,Moderate,39,16,54.82,45.86,Cloudy,2026-06-12 19:58:00,0,Delayed,Source,1,10.999466,76.972964
+TR-0156,Visakhapatnam,Andhra Pradesh,R-038,Taxi,East,North,768,High,4,Moderate,35,15,84.4,54.67,Clear,2026-01-31 09:02:00,0,Delayed,Source,1,17.697944,83.270339
+TR-0171,Mumbai,Maharashtra,R-038,Metro,West,Central,921,Low,869,Severe,12,11,24.84,18.2,Hazy,2026-03-17 23:54:00,0,Delayed,Source,1,19.076513,72.840372
+TR-0175,Nagpur,Maharashtra,R-038,Bus,East,South,612,High,60,Moderate,44,2,41.57,24.94,Rain,2026-01-17 16:53:00,1,On Time,Source,1,21.155008,79.148608
+TR-0237,Jaipur,Rajasthan,R-038,Bus,South,Central,506,Very High,53,High,30,3,66.57,16.83,Clear,2026-07-19 04:50:00,1,On Time,Source,1,26.826724,75.778997
+TR-0312,Kolkata,West Bengal,R-038,E-Rickshaw,South,Central,608,Very High,5,Low,65,26,70.34,20.89,Hazy,2026-01-21 17:56:00,0,Delayed,Source,1,22.526635,88.363757
+TR-0409,Indore,Madhya Pradesh,R-038,Bus,North,West,678,Medium,78,Low,55,17,67.92,9.84,Clear,2026-01-08 07:32:00,0,Delayed,Source,1,22.779964,75.879592
+TR-0475,Nagpur,Maharashtra,R-038,Metro,East,North,939,Very High,961,High,20,15,64.57,25.08,Clear,2026-01-06 08:14:00,0,Delayed,Source,1,21.170249,79.151393
+TR-0032,Mumbai,Maharashtra,R-038,Bus,West,East,,,,Moderate,,,,,Clear,2026-01-03 00:05:00,,,Destination,2,19.097196,72.923559
+TR-0038,Surat,Gujarat,R-038,Bus,West,Central,,,,High,,,,,Rain,2026-01-17 10:58:00,,,Destination,2,21.176653,72.814795
+TR-0140,Jaipur,Rajasthan,R-038,Metro,South,East,,,,Low,,,,,Rain,2026-06-06 14:37:00,,,Destination,2,26.933082,75.854723
+TR-0142,Coimbatore,Tamil Nadu,R-038,Metro,Central,East,,,,Moderate,,,,,Cloudy,2026-06-12 19:58:00,,,Destination,2,11.028505,77.004789
+TR-0156,Visakhapatnam,Andhra Pradesh,R-038,Taxi,East,North,,,,Moderate,,,,,Clear,2026-01-31 09:02:00,,,Destination,2,17.74995,83.224875
+TR-0171,Mumbai,Maharashtra,R-038,Metro,West,Central,,,,Severe,,,,,Hazy,2026-03-17 23:54:00,,,Destination,2,19.068752,72.874945
+TR-0175,Nagpur,Maharashtra,R-038,Bus,East,South,,,,Moderate,,,,,Rain,2026-01-17 16:53:00,,,Destination,2,21.085631,79.076447
+TR-0237,Jaipur,Rajasthan,R-038,Bus,South,Central,,,,High,,,,,Clear,2026-07-19 04:50:00,,,Destination,2,26.928587,75.805272
+TR-0312,Kolkata,West Bengal,R-038,E-Rickshaw,South,Central,,,,Low,,,,,Hazy,2026-01-21 17:56:00,,,Destination,2,22.5598,88.3645
+TR-0409,Indore,Madhya Pradesh,R-038,Bus,North,West,,,,Low,,,,,Clear,2026-01-08 07:32:00,,,Destination,2,22.731255,75.802922
+TR-0475,Nagpur,Maharashtra,R-038,Metro,East,North,,,,High,,,,,Clear,2026-01-06 08:14:00,,,Destination,2,21.206577,79.089989
+TR-0440,Delhi,Delhi,R-039,Metro,East,South,33,High,1062,High,27,25,87.33,30.71,Clear,2026-01-28 22:42:00,0,Delayed,Source,1,28.62339,77.235708
+TR-0440,Delhi,Delhi,R-039,Metro,East,South,,,,High,,,,,Clear,2026-01-28 22:42:00,,,Destination,2,28.54434,77.190149
+TR-0162,Visakhapatnam,Andhra Pradesh,R-040,Metro,East,South,74,Medium,1137,Low,64,11,35.05,48.91,Cloudy,2026-07-11 07:28:00,0,Delayed,Source,1,17.714014,83.276586
+TR-0288,Jaipur,Rajasthan,R-040,Bus,South,East,302,High,47,Moderate,32,1,57.34,49.48,Clear,2026-06-10 14:45:00,1,On Time,Source,1,26.844476,75.789731
+TR-0435,Visakhapatnam,Andhra Pradesh,R-040,Bus,East,Central,30,Very High,78,High,20,4,18.55,57.28,Cloudy,2026-01-12 16:36:00,1,On Time,Source,1,17.693628,83.26421
+TR-0452,Coimbatore,Tamil Nadu,R-040,Metro,Central,South,798,High,832,High,28,10,35.75,33.43,Rain,2026-06-15 21:01:00,0,Delayed,Source,1,11.005577,76.950472
+TR-0162,Visakhapatnam,Andhra Pradesh,R-040,Metro,East,South,,,,Low,,,,,Cloudy,2026-07-11 07:28:00,,,Destination,2,17.617475,83.204884
+TR-0288,Jaipur,Rajasthan,R-040,Bus,South,East,,,,Moderate,,,,,Clear,2026-06-10 14:45:00,,,Destination,2,26.936943,75.854677
+TR-0435,Visakhapatnam,Andhra Pradesh,R-040,Bus,East,Central,,,,High,,,,,Cloudy,2026-01-12 16:36:00,,,Destination,2,17.679569,83.218521
+TR-0452,Coimbatore,Tamil Nadu,R-040,Metro,Central,South,,,,High,,,,,Rain,2026-06-15 21:01:00,,,Destination,2,10.94164,76.930748
+TR-0093,Coimbatore,Tamil Nadu,R-041,Metro,Central,West,45,Medium,883,High,15,0,23.61,17.39,Cloudy,2026-03-12 21:54:00,1,On Time,Source,1,11.030717,76.951277
+TR-0102,Lucknow,Uttar Pradesh,R-041,Bus,West,North,489,Medium,74,Low,64,3,15.8,53.25,Cloudy,2026-04-15 13:21:00,1,On Time,Source,1,26.827382,80.916295
+TR-0116,Ahmedabad,Gujarat,R-041,Bus,North,South,504,Very High,60,Low,47,23,75.97,34.07,Cloudy,2026-02-16 02:18:00,0,Delayed,Source,1,23.084623,72.546115
+TR-0222,Surat,Gujarat,R-041,Bus,North,East,623,High,68,Moderate,44,22,77.11,50.43,Rain,2026-03-23 10:06:00,0,Delayed,Source,1,21.231888,72.83949
+TR-0223,Jaipur,Rajasthan,R-041,Auto,East,South,150,Medium,3,Moderate,44,14,78.34,44.2,Hazy,2026-07-06 17:57:00,0,Delayed,Source,1,26.905577,75.858142
+TR-0235,Nagpur,Maharashtra,R-041,Metro,West,South,40,Low,1016,High,29,20,38.46,51.47,Hazy,2026-05-07 06:39:00,0,Delayed,Source,1,21.126943,79.035375
+TR-0357,Indore,Madhya Pradesh,R-041,Auto,North,South,763,Low,3,High,28,9,38.37,11.34,Clear,2026-06-08 17:43:00,0,Delayed,Source,1,22.756869,75.870791
+TR-0093,Coimbatore,Tamil Nadu,R-041,Metro,Central,West,,,,High,,,,,Cloudy,2026-03-12 21:54:00,,,Destination,2,11.01331,76.915852
+TR-0102,Lucknow,Uttar Pradesh,R-041,Bus,West,North,,,,Low,,,,,Cloudy,2026-04-15 13:21:00,,,Destination,2,26.897135,80.952816
+TR-0116,Ahmedabad,Gujarat,R-041,Bus,North,South,,,,Low,,,,,Cloudy,2026-02-16 02:18:00,,,Destination,2,22.975371,72.563737
+TR-0222,Surat,Gujarat,R-041,Bus,North,East,,,,Moderate,,,,,Rain,2026-03-23 10:06:00,,,Destination,2,21.185042,72.879508
+TR-0223,Jaipur,Rajasthan,R-041,Auto,East,South,,,,Moderate,,,,,Hazy,2026-07-06 17:57:00,,,Destination,2,26.860971,75.764288
+TR-0235,Nagpur,Maharashtra,R-041,Metro,West,South,,,,High,,,,,Hazy,2026-05-07 06:39:00,,,Destination,2,21.096323,79.080538
+TR-0357,Indore,Madhya Pradesh,R-041,Auto,North,South,,,,High,,,,,Clear,2026-06-08 17:43:00,,,Destination,2,22.687306,75.837095
+TR-0048,Coimbatore,Tamil Nadu,R-042,Metro,West,North,912,High,810,High,15,1,11.91,53.11,Clear,2026-01-18 02:58:00,1,On Time,Source,1,11.007756,76.91296
+TR-0419,Visakhapatnam,Andhra Pradesh,R-042,Auto,Central,East,923,Medium,3,High,16,19,54.65,14.3,Rain,2026-05-05 09:46:00,0,Delayed,Source,1,17.671309,83.213616
+TR-0494,Mumbai,Maharashtra,R-042,Auto,East,South,556,High,3,Moderate,45,25,29.8,5.48,Clear,2026-07-21 21:28:00,0,Delayed,Source,1,19.104754,72.932405
+TR-0048,Coimbatore,Tamil Nadu,R-042,Metro,West,North,,,,High,,,,,Clear,2026-01-18 02:58:00,,,Destination,2,11.04684,76.95039
+TR-0419,Visakhapatnam,Andhra Pradesh,R-042,Auto,Central,East,,,,High,,,,,Rain,2026-05-05 09:46:00,,,Destination,2,17.696968,83.280265
+TR-0494,Mumbai,Maharashtra,R-042,Auto,East,South,,,,Moderate,,,,,Clear,2026-07-21 21:28:00,,,Destination,2,19.031618,72.853158
+TR-0143,Hyderabad,Telangana,R-043,Train,North,West,970,High,768,Low,61,15,92.01,24.52,Cloudy,2026-07-14 00:10:00,0,Delayed,Source,1,17.440648,78.51286
+TR-0477,Chennai,Tamil Nadu,R-043,E-Rickshaw,East,Central,721,Medium,5,Moderate,40,17,25.91,52.57,Rain,2026-01-20 12:44:00,0,Delayed,Source,1,13.075562,80.303339
+TR-0143,Hyderabad,Telangana,R-043,Train,North,West,,,,Low,,,,,Cloudy,2026-07-14 00:10:00,,,Destination,2,17.378166,78.413407
+TR-0477,Chennai,Tamil Nadu,R-043,E-Rickshaw,East,Central,,,,Moderate,,,,,Rain,2026-01-20 12:44:00,,,Destination,2,13.065392,80.280943
+TR-0017,Bengaluru,Karnataka,R-044,Bus,South,West,920,High,72,High,17,28,16.24,10.54,Cloudy,2026-02-04 22:16:00,0,Delayed,Source,1,12.904822,77.590145
+TR-0064,Bengaluru,Karnataka,R-044,Auto,East,South,600,Medium,3,Moderate,34,23,62.68,52.75,Hazy,2026-07-08 19:49:00,0,Delayed,Source,1,12.978489,77.664404
+TR-0265,Surat,Gujarat,R-044,Bus,West,East,410,Very High,62,High,21,30,62.27,56.08,Cloudy,2026-03-18 13:04:00,0,Delayed,Source,1,21.168054,72.768104
+TR-0356,Jaipur,Rajasthan,R-044,Bus,Central,North,738,Medium,41,High,27,27,35.81,21.15,Rain,2026-07-30 13:21:00,0,Delayed,Source,1,26.926155,75.786146
+TR-0476,Nagpur,Maharashtra,R-044,Auto,North,Central,546,Medium,3,High,17,22,89.77,34.79,Cloudy,2026-05-29 07:43:00,0,Delayed,Source,1,21.201447,79.082285
+TR-0017,Bengaluru,Karnataka,R-044,Bus,South,West,,,,High,,,,,Cloudy,2026-02-04 22:16:00,,,Destination,2,12.963989,77.532397
+TR-0064,Bengaluru,Karnataka,R-044,Auto,East,South,,,,Moderate,,,,,Hazy,2026-07-08 19:49:00,,,Destination,2,12.924387,77.567896
+TR-0265,Surat,Gujarat,R-044,Bus,West,East,,,,High,,,,,Cloudy,2026-03-18 13:04:00,,,Destination,2,21.172331,72.87636
+TR-0356,Jaipur,Rajasthan,R-044,Bus,Central,North,,,,High,,,,,Rain,2026-07-30 13:21:00,,,Destination,2,26.972866,75.794701
+TR-0476,Nagpur,Maharashtra,R-044,Auto,North,Central,,,,High,,,,,Cloudy,2026-05-29 07:43:00,,,Destination,2,21.152489,79.095787
+TR-0088,Jaipur,Rajasthan,R-045,Taxi,North,Central,251,Low,4,High,19,19,46.21,53.08,Clear,2026-01-14 02:23:00,0,Delayed,Source,1,26.976069,75.792826
+TR-0089,Hyderabad,Telangana,R-045,Metro,Central,East,902,Low,518,High,24,3,21.01,45.45,Clear,2026-05-26 19:48:00,1,On Time,Source,1,17.397289,78.49381
+TR-0109,Ahmedabad,Gujarat,R-045,Taxi,South,West,598,High,4,Moderate,41,22,58.83,52.4,Cloudy,2026-07-07 11:33:00,0,Delayed,Source,1,22.938071,72.580096
+TR-0221,Delhi,Delhi,R-045,Metro,Central,South,676,High,710,High,20,0,13.58,20.07,Rain,2026-03-20 11:26:00,1,On Time,Source,1,28.639538,77.193836
+TR-0253,Pune,Maharashtra,R-045,Metro,South,Central,324,High,1180,Moderate,32,19,66.34,9.14,Cloudy,2026-06-04 06:41:00,0,Delayed,Source,1,18.46537,73.860094
+TR-0490,Pune,Maharashtra,R-045,Metro,Central,North,83,Medium,561,Low,61,17,37.77,59.55,Hazy,2026-04-16 01:01:00,0,Delayed,Source,1,18.523847,73.868025
+TR-0088,Jaipur,Rajasthan,R-045,Taxi,North,Central,,,,High,,,,,Clear,2026-01-14 02:23:00,,,Destination,2,26.933124,75.782504
+TR-0089,Hyderabad,Telangana,R-045,Metro,Central,East,,,,High,,,,,Clear,2026-05-26 19:48:00,,,Destination,2,17.40434,78.535086
+TR-0109,Ahmedabad,Gujarat,R-045,Taxi,South,West,,,,Moderate,,,,,Cloudy,2026-07-07 11:33:00,,,Destination,2,23.010267,72.507176
+TR-0221,Delhi,Delhi,R-045,Metro,Central,South,,,,High,,,,,Rain,2026-03-20 11:26:00,,,Destination,2,28.54769,77.206368
+TR-0253,Pune,Maharashtra,R-045,Metro,South,Central,,,,Moderate,,,,,Cloudy,2026-06-04 06:41:00,,,Destination,2,18.50789,73.845863
+TR-0490,Pune,Maharashtra,R-045,Metro,Central,North,,,,Low,,,,,Hazy,2026-04-16 01:01:00,,,Destination,2,18.568221,73.856275
+TR-0044,Kolkata,West Bengal,R-046,Auto,West,South,634,High,3,High,27,1,24.97,45.59,Rain,2026-06-30 03:50:00,1,On Time,Source,1,22.584331,88.30865
+TR-0117,Delhi,Delhi,R-046,Auto,East,West,152,High,3,Severe,12,13,46.68,27.39,Cloudy,2026-03-16 02:07:00,0,Delayed,Source,1,28.630081,77.272588
+TR-0258,Ahmedabad,Gujarat,R-046,Bus,Central,South,244,High,80,High,24,1,70.86,52.22,Clear,2026-03-28 09:41:00,1,On Time,Source,1,23.020509,72.568784
+TR-0418,Lucknow,Uttar Pradesh,R-046,E-Rickshaw,West,Central,162,High,5,High,15,19,32.71,37.27,Rain,2026-06-03 22:49:00,0,Delayed,Source,1,26.861753,80.886084
+TR-0044,Kolkata,West Bengal,R-046,Auto,West,South,,,,High,,,,,Rain,2026-06-30 03:50:00,,,Destination,2,22.506814,88.342984
+TR-0117,Delhi,Delhi,R-046,Auto,East,West,,,,Severe,,,,,Cloudy,2026-03-16 02:07:00,,,Destination,2,28.608957,77.146874
+TR-0258,Ahmedabad,Gujarat,R-046,Bus,Central,South,,,,High,,,,,Clear,2026-03-28 09:41:00,,,Destination,2,22.966752,72.567291
+TR-0418,Lucknow,Uttar Pradesh,R-046,E-Rickshaw,West,Central,,,,High,,,,,Rain,2026-06-03 22:49:00,,,Destination,2,26.843892,80.956563
+TR-0028,Bengaluru,Karnataka,R-047,Bus,East,North,537,High,66,Moderate,31,24,71.9,33.14,Rain,2026-03-04 15:16:00,0,Delayed,Source,1,12.97624,77.643892
+TR-0096,Mumbai,Maharashtra,R-047,Metro,Central,West,803,Medium,1066,High,19,14,92.36,34.32,Cloudy,2026-03-01 19:05:00,0,Delayed,Source,1,19.06636,72.85214
+TR-0134,Jaipur,Rajasthan,R-047,Auto,West,Central,989,High,3,High,30,21,46.52,17.13,Cloudy,2026-08-01 21:20:00,0,Delayed,Source,1,26.889353,75.71927
+TR-0173,Jaipur,Rajasthan,R-047,Metro,Central,East,908,Medium,569,Moderate,33,22,69.28,56.24,Hazy,2026-08-02 07:22:00,0,Delayed,Source,1,26.924623,75.790794
+TR-0213,Ahmedabad,Gujarat,R-047,Metro,East,North,714,Medium,502,High,30,29,46.2,30.78,Hazy,2026-03-02 16:59:00,0,Delayed,Source,1,23.028291,72.639
+TR-0274,Delhi,Delhi,R-047,Taxi,South,East,939,High,4,Moderate,32,21,83.6,58.84,Rain,2026-03-10 23:39:00,0,Delayed,Source,1,28.551127,77.18624
+TR-0369,Coimbatore,Tamil Nadu,R-047,Auto,East,North,25,Medium,3,Moderate,38,26,94.42,13.42,Cloudy,2026-07-06 06:48:00,0,Delayed,Source,1,11.025076,77.008819
+TR-0417,Jaipur,Rajasthan,R-047,Auto,Central,North,862,Medium,3,Severe,9,2,13.76,39.31,Hazy,2026-03-03 11:18:00,1,On Time,Source,1,26.926638,75.764603
+TR-0028,Bengaluru,Karnataka,R-047,Bus,East,North,,,,Moderate,,,,,Rain,2026-03-04 15:16:00,,,Destination,2,13.016814,77.597892
+TR-0096,Mumbai,Maharashtra,R-047,Metro,Central,West,,,,High,,,,,Cloudy,2026-03-01 19:05:00,,,Destination,2,19.05624,72.820237
+TR-0134,Jaipur,Rajasthan,R-047,Auto,West,Central,,,,High,,,,,Cloudy,2026-08-01 21:20:00,,,Destination,2,26.920552,75.773514
+TR-0173,Jaipur,Rajasthan,R-047,Metro,Central,East,,,,Moderate,,,,,Hazy,2026-08-02 07:22:00,,,Destination,2,26.917406,75.84723
+TR-0213,Ahmedabad,Gujarat,R-047,Metro,East,North,,,,High,,,,,Hazy,2026-03-02 16:59:00,,,Destination,2,23.081567,72.57739
+TR-0274,Delhi,Delhi,R-047,Taxi,South,East,,,,Moderate,,,,,Rain,2026-03-10 23:39:00,,,Destination,2,28.625714,77.279856
+TR-0369,Coimbatore,Tamil Nadu,R-047,Auto,East,North,,,,Moderate,,,,,Cloudy,2026-07-06 06:48:00,,,Destination,2,11.072181,76.966708
+TR-0417,Jaipur,Rajasthan,R-047,Auto,Central,North,,,,Severe,,,,,Hazy,2026-03-03 11:18:00,,,Destination,2,26.959739,75.810033
+TR-0177,Surat,Gujarat,R-048,Bus,South,Central,408,Medium,56,High,26,11,83.32,38.65,Clear,2026-03-12 10:49:00,0,Delayed,Source,1,21.117127,72.82174
+TR-0181,Bengaluru,Karnataka,R-048,Metro,North,East,519,High,524,Severe,11,1,16.91,17.92,Clear,2026-05-29 21:44:00,1,On Time,Source,1,13.036828,77.604524
+TR-0311,Lucknow,Uttar Pradesh,R-048,Auto,South,East,617,High,3,Moderate,42,8,55.78,8.01,Hazy,2026-02-23 02:08:00,0,Delayed,Source,1,26.813995,80.950115
+TR-0378,Kochi,Kerala,R-048,Taxi,North,East,448,Medium,4,Low,52,30,83.52,5.77,Rain,2026-07-23 19:36:00,0,Delayed,Source,1,9.99578,76.279407
+TR-0397,Bengaluru,Karnataka,R-048,Bus,North,Central,567,Low,52,High,21,14,45.52,42.76,Rain,2026-01-04 21:21:00,0,Delayed,Source,1,13.027416,77.586298
+TR-0177,Surat,Gujarat,R-048,Bus,South,Central,,,,High,,,,,Clear,2026-03-12 10:49:00,,,Destination,2,21.190882,72.837089
+TR-0181,Bengaluru,Karnataka,R-048,Metro,North,East,,,,Severe,,,,,Clear,2026-05-29 21:44:00,,,Destination,2,12.97615,77.653675
+TR-0311,Lucknow,Uttar Pradesh,R-048,Auto,South,East,,,,Moderate,,,,,Hazy,2026-02-23 02:08:00,,,Destination,2,26.863594,80.974963
+TR-0378,Kochi,Kerala,R-048,Taxi,North,East,,,,Low,,,,,Rain,2026-07-23 19:36:00,,,Destination,2,9.925976,76.343739
+TR-0397,Bengaluru,Karnataka,R-048,Bus,North,Central,,,,High,,,,,Rain,2026-01-04 21:21:00,,,Destination,2,12.965457,77.595205
+TR-0105,Kolkata,West Bengal,R-049,E-Rickshaw,East,South,117,High,5,High,30,13,14.45,50.83,Hazy,2026-05-04 00:25:00,0,Delayed,Source,1,22.575259,88.418456
+TR-0306,Lucknow,Uttar Pradesh,R-049,Bus,Central,East,658,Medium,48,Moderate,36,0,93.69,34.98,Hazy,2026-05-04 07:44:00,1,On Time,Source,1,26.850024,80.962488
+TR-0338,Delhi,Delhi,R-049,Bus,Central,East,712,High,56,High,30,8,15.9,42.98,Rain,2026-02-23 21:04:00,0,Delayed,Source,1,28.596252,77.218668
+TR-0391,Nagpur,Maharashtra,R-049,Taxi,South,East,256,Medium,4,High,28,20,25.04,59.61,Hazy,2026-01-15 09:03:00,0,Delayed,Source,1,21.101041,79.093028
+TR-0105,Kolkata,West Bengal,R-049,E-Rickshaw,East,South,,,,High,,,,,Hazy,2026-05-04 00:25:00,,,Destination,2,22.512448,88.345591
+TR-0306,Lucknow,Uttar Pradesh,R-049,Bus,Central,East,,,,Moderate,,,,,Hazy,2026-05-04 07:44:00,,,Destination,2,26.866573,81.015893
+TR-0338,Delhi,Delhi,R-049,Bus,Central,East,,,,High,,,,,Rain,2026-02-23 21:04:00,,,Destination,2,28.639528,77.253332
+TR-0391,Nagpur,Maharashtra,R-049,Taxi,South,East,,,,High,,,,,Hazy,2026-01-15 09:03:00,,,Destination,2,21.153079,79.145516
+TR-0119,Mumbai,Maharashtra,R-050,Taxi,East,South,47,Very High,4,Moderate,37,27,31.12,21.68,Rain,2026-01-22 03:12:00,0,Delayed,Source,1,19.066165,72.947137
+TR-0231,Coimbatore,Tamil Nadu,R-050,Auto,East,North,32,High,3,Moderate,45,29,93.96,55.75,Rain,2026-05-17 00:25:00,0,Delayed,Source,1,11.002104,77.015075
+TR-0275,Kolkata,West Bengal,R-050,Taxi,West,South,966,Very High,4,High,26,12,96.47,54.66,Rain,2026-02-05 16:04:00,0,Delayed,Source,1,22.552181,88.310074
+TR-0381,Surat,Gujarat,R-050,Bus,North,Central,461,Low,44,Severe,10,28,51.62,56.75,Rain,2026-01-17 17:20:00,0,Delayed,Source,1,21.218831,72.82846
+TR-0484,Mumbai,Maharashtra,R-050,Metro,West,Central,939,High,722,High,26,19,10.79,15.47,Rain,2026-02-07 21:44:00,0,Delayed,Source,1,19.064753,72.851074
+TR-0119,Mumbai,Maharashtra,R-050,Taxi,East,South,,,,Moderate,,,,,Rain,2026-01-22 03:12:00,,,Destination,2,19.010744,72.87172
+TR-0231,Coimbatore,Tamil Nadu,R-050,Auto,East,North,,,,Moderate,,,,,Rain,2026-05-17 00:25:00,,,Destination,2,11.054852,76.966882
+TR-0275,Kolkata,West Bengal,R-050,Taxi,West,South,,,,High,,,,,Rain,2026-02-05 16:04:00,,,Destination,2,22.530847,88.350825
+TR-0381,Surat,Gujarat,R-050,Bus,North,Central,,,,Severe,,,,,Rain,2026-01-17 17:20:00,,,Destination,2,21.19173,72.835528
+TR-0484,Mumbai,Maharashtra,R-050,Metro,West,Central,,,,High,,,,,Rain,2026-02-07 21:44:00,,,Destination,2,19.069763,72.86244
+TR-0011,Delhi,Delhi,R-051,Auto,Central,East,219,High,3,High,17,21,91.55,28.89,Clear,2026-01-30 00:27:00,0,Delayed,Source,1,28.613842,77.2044
+TR-0115,Bengaluru,Karnataka,R-051,Metro,West,Central,947,High,581,Moderate,30,14,78.81,36.54,Clear,2026-06-12 15:08:00,0,Delayed,Source,1,12.960597,77.516506
+TR-0389,Delhi,Delhi,R-051,Bus,North,South,994,High,61,High,15,17,50.69,52.15,Rain,2026-03-10 11:47:00,0,Delayed,Source,1,28.662709,77.207895
+TR-0479,Kochi,Kerala,R-051,Bus,East,Central,336,Medium,61,High,29,12,89.25,23.0,Cloudy,2026-03-18 21:28:00,0,Delayed,Source,1,9.944422,76.318747
+TR-0011,Delhi,Delhi,R-051,Auto,Central,East,,,,High,,,,,Clear,2026-01-30 00:27:00,,,Destination,2,28.61835,77.25065
+TR-0115,Bengaluru,Karnataka,R-051,Metro,West,Central,,,,Moderate,,,,,Clear,2026-06-12 15:08:00,,,Destination,2,13.003682,77.606082
+TR-0389,Delhi,Delhi,R-051,Bus,North,South,,,,High,,,,,Rain,2026-03-10 11:47:00,,,Destination,2,28.537835,77.190658
+TR-0479,Kochi,Kerala,R-051,Bus,East,Central,,,,High,,,,,Cloudy,2026-03-18 21:28:00,,,Destination,2,9.933381,76.274916
+TR-0209,Chennai,Tamil Nadu,R-052,Bus,East,Central,635,Very High,49,Low,48,6,38.13,27.59,Rain,2026-04-13 07:38:00,0,Delayed,Source,1,13.081019,80.337786
+TR-0209,Chennai,Tamil Nadu,R-052,Bus,East,Central,,,,Low,,,,,Rain,2026-04-13 07:38:00,,,Destination,2,13.086734,80.26797
+TR-0053,Ahmedabad,Gujarat,R-053,Bus,North,West,157,Very High,49,High,21,29,91.78,5.06,Cloudy,2026-07-25 12:28:00,0,Delayed,Source,1,23.071926,72.569996
+TR-0133,Lucknow,Uttar Pradesh,R-053,Bus,West,Central,560,Medium,62,High,15,29,57.88,37.47,Hazy,2026-02-23 05:36:00,0,Delayed,Source,1,26.805449,80.893587
+TR-0138,Jaipur,Rajasthan,R-053,Train,Central,North,475,Very High,1735,Severe,12,10,27.23,27.64,Cloudy,2026-04-07 04:56:00,0,Delayed,Source,1,26.916919,75.797018
+TR-0238,Surat,Gujarat,R-053,E-Rickshaw,East,North,887,High,5,High,18,17,76.68,34.84,Clear,2026-04-15 13:03:00,0,Delayed,Source,1,21.169844,72.866625
+TR-0461,Nagpur,Maharashtra,R-053,Bus,West,North,402,Medium,64,High,15,17,30.7,13.15,Clear,2026-01-16 21:19:00,0,Delayed,Source,1,21.139972,79.041247
+TR-0053,Ahmedabad,Gujarat,R-053,Bus,North,West,,,,High,,,,,Cloudy,2026-07-25 12:28:00,,,Destination,2,23.016314,72.508846
+TR-0133,Lucknow,Uttar Pradesh,R-053,Bus,West,Central,,,,High,,,,,Hazy,2026-02-23 05:36:00,,,Destination,2,26.851941,80.951052
+TR-0138,Jaipur,Rajasthan,R-053,Train,Central,North,,,,Severe,,,,,Cloudy,2026-04-07 04:56:00,,,Destination,2,26.959607,75.806565
+TR-0238,Surat,Gujarat,R-053,E-Rickshaw,East,North,,,,High,,,,,Clear,2026-04-15 13:03:00,,,Destination,2,21.216306,72.833369
+TR-0461,Nagpur,Maharashtra,R-053,Bus,West,North,,,,High,,,,,Clear,2026-01-16 21:19:00,,,Destination,2,21.21369,79.061528
+TR-0139,Nagpur,Maharashtra,R-054,Bus,East,Central,583,Medium,53,Severe,11,28,19.12,20.28,Cloudy,2026-03-04 09:40:00,0,Delayed,Source,1,21.14937,79.122712
+TR-0150,Pune,Maharashtra,R-054,Metro,West,East,777,High,879,High,27,27,72.75,46.4,Clear,2026-03-27 15:40:00,0,Delayed,Source,1,18.520701,73.798885
+TR-0359,Coimbatore,Tamil Nadu,R-054,Metro,South,Central,742,Medium,755,Moderate,32,15,13.0,55.2,Clear,2026-02-11 08:06:00,0,Delayed,Source,1,10.959916,76.931278
+TR-0480,Kolkata,West Bengal,R-054,Metro,North,South,697,Low,1009,Low,58,26,91.93,22.97,Rain,2026-01-27 15:51:00,0,Delayed,Source,1,22.668129,88.382018
+TR-0139,Nagpur,Maharashtra,R-054,Bus,East,Central,,,,Severe,,,,,Cloudy,2026-03-04 09:40:00,,,Destination,2,21.132402,79.10303
+TR-0150,Pune,Maharashtra,R-054,Metro,West,East,,,,High,,,,,Clear,2026-03-27 15:40:00,,,Destination,2,18.530859,73.894317
+TR-0359,Coimbatore,Tamil Nadu,R-054,Metro,South,Central,,,,Moderate,,,,,Clear,2026-02-11 08:06:00,,,Destination,2,11.035897,76.966321
+TR-0480,Kolkata,West Bengal,R-054,Metro,North,South,,,,Low,,,,,Rain,2026-01-27 15:51:00,,,Destination,2,22.512688,88.341227
+TR-0040,Ahmedabad,Gujarat,R-055,Bus,West,Central,395,High,43,High,28,6,77.79,19.98,Rain,2026-04-20 01:59:00,0,Delayed,Source,1,22.995295,72.533985
+TR-0168,Ahmedabad,Gujarat,R-055,Metro,East,Central,310,Very High,1105,High,16,16,55.95,38.83,Clear,2026-06-29 09:43:00,0,Delayed,Source,1,23.041406,72.638386
+TR-0297,Hyderabad,Telangana,R-055,Metro,North,Central,713,Medium,792,Low,51,24,23.07,33.84,Clear,2026-04-04 06:32:00,0,Delayed,Source,1,17.439521,78.479849
+TR-0040,Ahmedabad,Gujarat,R-055,Bus,West,Central,,,,High,,,,,Rain,2026-04-20 01:59:00,,,Destination,2,23.026137,72.585398
+TR-0168,Ahmedabad,Gujarat,R-055,Metro,East,Central,,,,High,,,,,Clear,2026-06-29 09:43:00,,,Destination,2,23.038965,72.578687
+TR-0297,Hyderabad,Telangana,R-055,Metro,North,Central,,,,Low,,,,,Clear,2026-04-04 06:32:00,,,Destination,2,17.38339,78.492932
+TR-0110,Visakhapatnam,Andhra Pradesh,R-056,Train,North,Central,636,Medium,1120,High,26,0,41.13,13.5,Clear,2026-07-21 17:27:00,1,On Time,Source,1,17.719968,83.220182
+TR-0349,Hyderabad,Telangana,R-056,Train,West,North,464,Very High,1740,Moderate,42,1,89.77,51.08,Rain,2026-01-23 06:29:00,1,On Time,Source,1,17.367426,78.434976
+TR-0407,Lucknow,Uttar Pradesh,R-056,Bus,West,Central,400,High,69,High,22,11,10.87,12.7,Clear,2026-07-19 13:32:00,0,Delayed,Source,1,26.841613,80.886085
+TR-0454,Visakhapatnam,Andhra Pradesh,R-056,Metro,East,South,612,High,1095,Severe,13,22,91.74,10.33,Rain,2026-06-07 01:13:00,0,Delayed,Source,1,17.702449,83.269137
+TR-0110,Visakhapatnam,Andhra Pradesh,R-056,Train,North,Central,,,,High,,,,,Clear,2026-07-21 17:27:00,,,Destination,2,17.664772,83.232555
+TR-0349,Hyderabad,Telangana,R-056,Train,West,North,,,,Moderate,,,,,Rain,2026-01-23 06:29:00,,,Destination,2,17.429742,78.512118
+TR-0407,Lucknow,Uttar Pradesh,R-056,Bus,West,Central,,,,High,,,,,Clear,2026-07-19 13:32:00,,,Destination,2,26.847841,80.956378
+TR-0454,Visakhapatnam,Andhra Pradesh,R-056,Metro,East,South,,,,Severe,,,,,Rain,2026-06-07 01:13:00,,,Destination,2,17.62529,83.22694
+TR-0091,Kolkata,West Bengal,R-057,Auto,North,East,98,Very High,3,High,21,3,78.9,13.74,Hazy,2026-04-18 19:23:00,1,On Time,Source,1,22.639996,88.371561
+TR-0126,Bengaluru,Karnataka,R-057,Metro,South,North,128,Very High,1028,High,25,25,86.25,22.33,Rain,2026-01-11 12:52:00,0,Delayed,Source,1,12.909161,77.613489
+TR-0326,Indore,Madhya Pradesh,R-057,Bus,Central,West,490,Medium,71,Moderate,43,12,66.36,41.8,Clear,2026-07-05 02:34:00,0,Delayed,Source,1,22.720903,75.855651
+TR-0431,Kochi,Kerala,R-057,Bus,North,Central,450,Medium,61,High,24,19,77.85,11.07,Clear,2026-02-17 12:02:00,0,Delayed,Source,1,9.976951,76.294513
+TR-0432,Delhi,Delhi,R-057,Auto,East,North,595,High,3,High,19,10,99.95,19.47,Cloudy,2026-02-06 19:47:00,0,Delayed,Source,1,28.650402,77.279673
+TR-0458,Chennai,Tamil Nadu,R-057,Train,West,Central,984,High,1619,Moderate,39,17,49.19,18.76,Rain,2026-07-02 03:49:00,0,Delayed,Source,1,13.074181,80.221903
+TR-0091,Kolkata,West Bengal,R-057,Auto,North,East,,,,High,,,,,Hazy,2026-04-18 19:23:00,,,Destination,2,22.578174,88.423721
+TR-0126,Bengaluru,Karnataka,R-057,Metro,South,North,,,,High,,,,,Rain,2026-01-11 12:52:00,,,Destination,2,13.028671,77.599287
+TR-0326,Indore,Madhya Pradesh,R-057,Bus,Central,West,,,,Moderate,,,,,Clear,2026-07-05 02:34:00,,,Destination,2,22.709142,75.793443
+TR-0431,Kochi,Kerala,R-057,Bus,North,Central,,,,High,,,,,Clear,2026-02-17 12:02:00,,,Destination,2,9.92044,76.230926
+TR-0432,Delhi,Delhi,R-057,Auto,East,North,,,,High,,,,,Cloudy,2026-02-06 19:47:00,,,Destination,2,28.675694,77.217512
+TR-0458,Chennai,Tamil Nadu,R-057,Train,West,Central,,,,Moderate,,,,,Rain,2026-07-02 03:49:00,,,Destination,2,13.08135,80.252518
+TR-0157,Indore,Madhya Pradesh,R-058,Bus,North,Central,532,High,71,Moderate,44,2,94.46,27.81,Clear,2026-05-18 18:24:00,1,On Time,Source,1,22.761682,75.853783
+TR-0254,Coimbatore,Tamil Nadu,R-058,Bus,East,Central,929,Very High,68,High,18,10,75.28,51.0,Rain,2026-04-12 13:01:00,0,Delayed,Source,1,11.02855,77.017824
+TR-0305,Kolkata,West Bengal,R-058,Train,South,West,741,Medium,1548,High,28,21,43.54,24.34,Rain,2026-05-11 19:09:00,0,Delayed,Source,1,22.528165,88.337957
+TR-0157,Indore,Madhya Pradesh,R-058,Bus,North,Central,,,,Moderate,,,,,Clear,2026-05-18 18:24:00,,,Destination,2,22.716049,75.870893
+TR-0254,Coimbatore,Tamil Nadu,R-058,Bus,East,Central,,,,High,,,,,Rain,2026-04-12 13:01:00,,,Destination,2,11.022979,76.965639
+TR-0305,Kolkata,West Bengal,R-058,Train,South,West,,,,High,,,,,Rain,2026-05-11 19:09:00,,,Destination,2,22.565764,88.323567
+TR-0141,Chennai,Tamil Nadu,R-059,Bus,East,West,859,Medium,80,High,30,27,10.18,14.57,Rain,2026-06-03 09:52:00,0,Delayed,Source,1,13.112781,80.341786
+TR-0246,Surat,Gujarat,R-059,Metro,East,West,819,Medium,546,High,15,29,26.39,33.21,Hazy,2026-06-23 17:58:00,0,Delayed,Source,1,21.183934,72.890242
+TR-0374,Lucknow,Uttar Pradesh,R-059,Metro,West,East,808,High,902,Moderate,38,0,83.44,49.14,Hazy,2026-05-27 22:54:00,1,On Time,Source,1,26.830093,80.897316
+TR-0401,Bengaluru,Karnataka,R-059,Bus,West,Central,908,Medium,48,High,27,21,13.33,34.44,Cloudy,2026-02-22 15:25:00,0,Delayed,Source,1,12.98044,77.533043
+TR-0481,Jaipur,Rajasthan,R-059,Bus,North,East,524,High,73,High,25,29,13.35,6.45,Clear,2026-05-31 14:59:00,0,Delayed,Source,1,26.958391,75.806813
+TR-0141,Chennai,Tamil Nadu,R-059,Bus,East,West,,,,High,,,,,Rain,2026-06-03 09:52:00,,,Destination,2,13.057105,80.225657
+TR-0246,Surat,Gujarat,R-059,Metro,East,West,,,,High,,,,,Hazy,2026-06-23 17:58:00,,,Destination,2,21.159452,72.773968
+TR-0374,Lucknow,Uttar Pradesh,R-059,Metro,West,East,,,,Moderate,,,,,Hazy,2026-05-27 22:54:00,,,Destination,2,26.846927,81.01921
+TR-0401,Bengaluru,Karnataka,R-059,Bus,West,Central,,,,High,,,,,Cloudy,2026-02-22 15:25:00,,,Destination,2,12.973379,77.592354
+TR-0481,Jaipur,Rajasthan,R-059,Bus,North,East,,,,High,,,,,Clear,2026-05-31 14:59:00,,,Destination,2,26.90468,75.854994
+TR-0014,Coimbatore,Tamil Nadu,R-060,Bus,Central,South,338,Very High,76,Moderate,35,11,96.87,30.15,Cloudy,2026-04-19 19:29:00,0,Delayed,Source,1,11.010976,76.956782
+TR-0346,Mumbai,Maharashtra,R-060,Bus,North,South,61,Low,71,High,22,21,18.47,57.33,Hazy,2026-01-14 00:09:00,0,Delayed,Source,1,19.112414,72.890664
+TR-0355,Mumbai,Maharashtra,R-060,Bus,South,North,469,High,52,High,30,28,69.35,39.36,Hazy,2026-05-30 22:50:00,0,Delayed,Source,1,19.018516,72.855328
+TR-0370,Visakhapatnam,Andhra Pradesh,R-060,Taxi,South,West,722,High,4,High,27,8,76.49,54.11,Hazy,2026-02-17 18:32:00,0,Delayed,Source,1,17.608016,83.19051
+TR-0014,Coimbatore,Tamil Nadu,R-060,Bus,Central,South,,,,Moderate,,,,,Cloudy,2026-04-19 19:29:00,,,Destination,2,10.989576,76.923393
+TR-0346,Mumbai,Maharashtra,R-060,Bus,North,South,,,,High,,,,,Hazy,2026-01-14 00:09:00,,,Destination,2,19.036088,72.871155
+TR-0355,Mumbai,Maharashtra,R-060,Bus,South,North,,,,High,,,,,Hazy,2026-05-30 22:50:00,,,Destination,2,19.140868,72.877656
+TR-0370,Visakhapatnam,Andhra Pradesh,R-060,Taxi,South,West,,,,High,,,,,Hazy,2026-02-17 18:32:00,,,Destination,2,17.68758,83.176997
+TR-0039,Nagpur,Maharashtra,R-061,Bus,Central,East,906,High,61,Moderate,38,7,55.2,37.75,Clear,2026-08-03 18:58:00,0,Delayed,Source,1,21.131469,79.091526
+TR-0090,Lucknow,Uttar Pradesh,R-061,Metro,North,Central,71,Low,1101,Moderate,41,9,40.11,6.44,Clear,2026-04-04 21:44:00,0,Delayed,Source,1,26.890814,80.96888
+TR-0146,Bengaluru,Karnataka,R-061,Auto,South,West,620,Medium,3,High,26,30,16.9,52.99,Clear,2026-02-24 13:31:00,0,Delayed,Source,1,12.913252,77.581243
+TR-0193,Pune,Maharashtra,R-061,Metro,North,Central,908,Medium,766,High,22,3,27.09,43.6,Cloudy,2026-05-20 10:50:00,1,On Time,Source,1,18.579962,73.864545
+TR-0214,Ahmedabad,Gujarat,R-061,Taxi,Central,West,271,Medium,4,Moderate,42,29,92.04,17.18,Cloudy,2026-07-09 14:43:00,0,Delayed,Source,1,23.009546,72.556971
+TR-0255,Lucknow,Uttar Pradesh,R-061,Auto,Central,North,67,Medium,3,Low,63,30,67.7,22.14,Cloudy,2026-03-26 16:46:00,0,Delayed,Source,1,26.847172,80.958789
+TR-0299,Hyderabad,Telangana,R-061,E-Rickshaw,North,East,597,Medium,5,Severe,15,27,56.71,58.86,Clear,2026-05-07 00:50:00,0,Delayed,Source,1,17.452407,78.49181
+TR-0328,Jaipur,Rajasthan,R-061,Bus,East,North,304,High,68,Severe,14,26,79.41,17.55,Rain,2026-03-08 14:01:00,0,Delayed,Source,1,26.912603,75.853503
+TR-0388,Lucknow,Uttar Pradesh,R-061,E-Rickshaw,Central,South,549,Low,5,Low,52,7,90.88,56.76,Cloudy,2026-06-04 00:51:00,0,Delayed,Source,1,26.862481,80.961615
+TR-0412,Nagpur,Maharashtra,R-061,Bus,West,South,868,Very High,71,High,18,16,49.24,39.65,Clear,2026-01-20 08:58:00,0,Delayed,Source,1,21.126447,79.025377
+TR-0453,Nagpur,Maharashtra,R-061,Metro,East,North,663,Very High,562,Moderate,45,11,17.58,49.65,Hazy,2026-07-29 15:51:00,0,Delayed,Source,1,21.172845,79.133332
+TR-0472,Pune,Maharashtra,R-061,Taxi,East,Central,52,Medium,4,Moderate,45,13,10.32,7.56,Rain,2026-01-13 11:11:00,0,Delayed,Source,1,18.544083,73.897537
+TR-0039,Nagpur,Maharashtra,R-061,Bus,Central,East,,,,Moderate,,,,,Clear,2026-08-03 18:58:00,,,Destination,2,21.14718,79.154071
+TR-0090,Lucknow,Uttar Pradesh,R-061,Metro,North,Central,,,,Moderate,,,,,Clear,2026-04-04 21:44:00,,,Destination,2,26.852168,80.93322
+TR-0146,Bengaluru,Karnataka,R-061,Auto,South,West,,,,High,,,,,Clear,2026-02-24 13:31:00,,,Destination,2,12.971084,77.543681
+TR-0193,Pune,Maharashtra,R-061,Metro,North,Central,,,,High,,,,,Cloudy,2026-05-20 10:50:00,,,Destination,2,18.499324,73.858844
+TR-0214,Ahmedabad,Gujarat,R-061,Taxi,Central,West,,,,Moderate,,,,,Cloudy,2026-07-09 14:43:00,,,Destination,2,23.010054,72.509412
+TR-0255,Lucknow,Uttar Pradesh,R-061,Auto,Central,North,,,,Low,,,,,Cloudy,2026-03-26 16:46:00,,,Destination,2,26.881857,80.959375
+TR-0299,Hyderabad,Telangana,R-061,E-Rickshaw,North,East,,,,Severe,,,,,Clear,2026-05-07 00:50:00,,,Destination,2,17.405896,78.543182
+TR-0328,Jaipur,Rajasthan,R-061,Bus,East,North,,,,Severe,,,,,Rain,2026-03-08 14:01:00,,,Destination,2,26.980529,75.790741
+TR-0388,Lucknow,Uttar Pradesh,R-061,E-Rickshaw,Central,South,,,,Low,,,,,Cloudy,2026-06-04 00:51:00,,,Destination,2,26.793425,80.935183
+TR-0412,Nagpur,Maharashtra,R-061,Bus,West,South,,,,High,,,,,Clear,2026-01-20 08:58:00,,,Destination,2,21.087092,79.052945
+TR-0453,Nagpur,Maharashtra,R-061,Metro,East,North,,,,Moderate,,,,,Hazy,2026-07-29 15:51:00,,,Destination,2,21.175558,79.116138
+TR-0472,Pune,Maharashtra,R-061,Taxi,East,Central,,,,Moderate,,,,,Rain,2026-01-13 11:11:00,,,Destination,2,18.525424,73.856532
+TR-0152,Delhi,Delhi,R-062,Bus,South,West,83,High,71,Moderate,40,16,43.59,39.76,Cloudy,2026-03-02 23:14:00,0,Delayed,Source,1,28.536381,77.206437
+TR-0163,Kochi,Kerala,R-062,Bus,Central,West,407,Very High,67,Moderate,44,4,53.06,47.93,Hazy,2026-06-01 02:43:00,1,On Time,Source,1,9.947631,76.253637
+TR-0166,Kolkata,West Bengal,R-062,Bus,Central,North,758,Very High,47,Moderate,45,24,80.71,18.9,Cloudy,2026-05-11 11:48:00,0,Delayed,Source,1,22.590323,88.349887
+TR-0210,Hyderabad,Telangana,R-062,Train,South,Central,399,High,1593,Moderate,40,15,83.09,50.39,Rain,2026-08-05 11:54:00,0,Delayed,Source,1,17.324661,78.46586
+TR-0239,Indore,Madhya Pradesh,R-062,Metro,East,North,191,High,589,Low,47,5,81.61,9.26,Rain,2026-07-20 03:06:00,1,On Time,Source,1,22.719513,75.921699
+TR-0331,Pune,Maharashtra,R-062,Bus,East,West,912,Medium,50,Moderate,31,16,14.55,7.41,Hazy,2026-01-21 12:08:00,0,Delayed,Source,1,18.531444,73.899266
+TR-0447,Lucknow,Uttar Pradesh,R-062,Bus,North,East,741,Very High,42,High,16,0,16.29,40.2,Clear,2026-07-20 22:08:00,1,On Time,Source,1,26.888123,80.966849
+TR-0152,Delhi,Delhi,R-062,Bus,South,West,,,,Moderate,,,,,Cloudy,2026-03-02 23:14:00,,,Destination,2,28.596276,77.139724
+TR-0163,Kochi,Kerala,R-062,Bus,Central,West,,,,Moderate,,,,,Hazy,2026-06-01 02:43:00,,,Destination,2,9.916647,76.216285
+TR-0166,Kolkata,West Bengal,R-062,Bus,Central,North,,,,Moderate,,,,,Cloudy,2026-05-11 11:48:00,,,Destination,2,22.630201,88.360732
+TR-0210,Hyderabad,Telangana,R-062,Train,South,Central,,,,Moderate,,,,,Rain,2026-08-05 11:54:00,,,Destination,2,17.384101,78.492527
+TR-0239,Indore,Madhya Pradesh,R-062,Metro,East,North,,,,Low,,,,,Rain,2026-07-20 03:06:00,,,Destination,2,22.772857,75.863853
+TR-0331,Pune,Maharashtra,R-062,Bus,East,West,,,,Moderate,,,,,Hazy,2026-01-21 12:08:00,,,Destination,2,18.520681,73.806477
+TR-0447,Lucknow,Uttar Pradesh,R-062,Bus,North,East,,,,High,,,,,Clear,2026-07-20 22:08:00,,,Destination,2,26.868871,81.009022
+TR-0079,Bengaluru,Karnataka,R-063,E-Rickshaw,East,South,809,Medium,5,Moderate,33,29,68.87,24.48,Rain,2026-04-02 21:13:00,0,Delayed,Source,1,12.985229,77.642065
+TR-0212,Kochi,Kerala,R-063,Train,East,Central,895,High,1368,High,30,7,71.0,18.88,Rain,2026-05-11 21:44:00,0,Delayed,Source,1,9.936492,76.320207
+TR-0284,Hyderabad,Telangana,R-063,Metro,Central,East,261,High,785,Moderate,34,14,11.38,47.93,Rain,2026-05-07 07:27:00,0,Delayed,Source,1,17.375135,78.472069
+TR-0437,Delhi,Delhi,R-063,Train,South,North,791,High,887,Low,63,4,23.11,6.84,Cloudy,2026-03-17 07:18:00,1,On Time,Source,1,28.571091,77.194159
+TR-0446,Bengaluru,Karnataka,R-063,Bus,North,West,733,Very High,51,High,26,11,38.22,51.13,Rain,2026-01-18 15:22:00,0,Delayed,Source,1,13.021925,77.608329
+TR-0079,Bengaluru,Karnataka,R-063,E-Rickshaw,East,South,,,,Moderate,,,,,Rain,2026-04-02 21:13:00,,,Destination,2,12.916788,77.575855
+TR-0212,Kochi,Kerala,R-063,Train,East,Central,,,,High,,,,,Rain,2026-05-11 21:44:00,,,Destination,2,9.921217,76.265989
+TR-0284,Hyderabad,Telangana,R-063,Metro,Central,East,,,,Moderate,,,,,Rain,2026-05-07 07:27:00,,,Destination,2,17.388167,78.540212
+TR-0437,Delhi,Delhi,R-063,Train,South,North,,,,Low,,,,,Cloudy,2026-03-17 07:18:00,,,Destination,2,28.651078,77.194406
+TR-0446,Bengaluru,Karnataka,R-063,Bus,North,West,,,,High,,,,,Rain,2026-01-18 15:22:00,,,Destination,2,12.979852,77.540819
+TR-0018,Surat,Gujarat,R-064,Bus,Central,South,99,Very High,49,High,23,2,99.15,27.69,Cloudy,2026-04-06 23:22:00,1,On Time,Source,1,21.155341,72.821204
+TR-0023,Coimbatore,Tamil Nadu,R-064,Bus,East,South,397,Medium,67,Moderate,39,26,72.83,34.49,Clear,2026-07-31 12:27:00,0,Delayed,Source,1,11.044041,77.00238
+TR-0334,Mumbai,Maharashtra,R-064,Metro,West,South,202,Medium,729,Moderate,45,21,64.61,11.6,Hazy,2026-03-29 08:21:00,0,Delayed,Source,1,19.059604,72.82524
+TR-0368,Bengaluru,Karnataka,R-064,Bus,West,South,245,Very High,49,High,22,25,13.69,43.78,Hazy,2026-02-02 04:46:00,0,Delayed,Source,1,12.978304,77.540934
+TR-0436,Kochi,Kerala,R-064,Train,South,East,233,Medium,1258,Moderate,31,26,35.61,24.99,Clear,2026-07-23 11:27:00,0,Delayed,Source,1,9.878118,76.242669
+TR-0018,Surat,Gujarat,R-064,Bus,Central,South,,,,High,,,,,Cloudy,2026-04-06 23:22:00,,,Destination,2,21.138615,72.820619
+TR-0023,Coimbatore,Tamil Nadu,R-064,Bus,East,South,,,,Moderate,,,,,Clear,2026-07-31 12:27:00,,,Destination,2,10.960081,76.938593
+TR-0334,Mumbai,Maharashtra,R-064,Metro,West,South,,,,Moderate,,,,,Hazy,2026-03-29 08:21:00,,,Destination,2,19.031438,72.855826
+TR-0368,Bengaluru,Karnataka,R-064,Bus,West,South,,,,High,,,,,Hazy,2026-02-02 04:46:00,,,Destination,2,12.932418,77.568302
+TR-0436,Kochi,Kerala,R-064,Train,South,East,,,,Moderate,,,,,Clear,2026-07-23 11:27:00,,,Destination,2,9.931578,76.323033
+TR-0063,Kochi,Kerala,R-065,Metro,West,East,255,Medium,565,High,25,7,63.88,26.82,Rain,2026-02-16 10:09:00,0,Delayed,Source,1,9.919912,76.203469
+TR-0135,Ahmedabad,Gujarat,R-065,Metro,North,West,675,High,1134,Moderate,33,30,55.8,25.31,Clear,2026-05-07 23:01:00,0,Delayed,Source,1,23.099126,72.585997
+TR-0186,Hyderabad,Telangana,R-065,Bus,Central,East,951,High,51,High,21,14,28.93,47.09,Cloudy,2026-04-16 23:03:00,0,Delayed,Source,1,17.403477,78.499971
+TR-0308,Nagpur,Maharashtra,R-065,Bus,East,West,880,Very High,78,Moderate,38,9,71.13,9.07,Rain,2026-07-04 04:40:00,0,Delayed,Source,1,21.143987,79.137785
+TR-0314,Chennai,Tamil Nadu,R-065,Train,East,South,718,Medium,1120,Moderate,31,8,16.76,34.46,Cloudy,2026-05-18 14:10:00,0,Delayed,Source,1,13.099112,80.326793
+TR-0469,Delhi,Delhi,R-065,Metro,East,West,300,High,1157,Moderate,40,24,34.71,35.04,Clear,2026-02-13 10:35:00,0,Delayed,Source,1,28.618331,77.290993
+TR-0063,Kochi,Kerala,R-065,Metro,West,East,,,,High,,,,,Rain,2026-02-16 10:09:00,,,Destination,2,9.938801,76.31213
+TR-0135,Ahmedabad,Gujarat,R-065,Metro,North,West,,,,Moderate,,,,,Clear,2026-05-07 23:01:00,,,Destination,2,23.018264,72.509567
+TR-0186,Hyderabad,Telangana,R-065,Bus,Central,East,,,,High,,,,,Cloudy,2026-04-16 23:03:00,,,Destination,2,17.421712,78.541831
+TR-0308,Nagpur,Maharashtra,R-065,Bus,East,West,,,,Moderate,,,,,Rain,2026-07-04 04:40:00,,,Destination,2,21.143654,79.034318
+TR-0314,Chennai,Tamil Nadu,R-065,Train,East,South,,,,Moderate,,,,,Cloudy,2026-05-18 14:10:00,,,Destination,2,13.017482,80.260775
+TR-0469,Delhi,Delhi,R-065,Metro,East,West,,,,Moderate,,,,,Clear,2026-02-13 10:35:00,,,Destination,2,28.615956,77.173351
+TR-0094,Mumbai,Maharashtra,R-066,Metro,North,South,990,Medium,611,High,19,9,51.61,27.65,Clear,2026-06-16 21:11:00,0,Delayed,Source,1,19.136146,72.896017
+TR-0474,Nagpur,Maharashtra,R-066,E-Rickshaw,East,South,593,High,5,Severe,14,15,62.05,42.91,Rain,2026-07-25 07:24:00,0,Delayed,Source,1,21.147209,79.154505
+TR-0094,Mumbai,Maharashtra,R-066,Metro,North,South,,,,High,,,,,Clear,2026-06-16 21:11:00,,,Destination,2,19.023117,72.863296
+TR-0474,Nagpur,Maharashtra,R-066,E-Rickshaw,East,South,,,,Severe,,,,,Rain,2026-07-25 07:24:00,,,Destination,2,21.108847,79.070849
+TR-0051,Hyderabad,Telangana,R-067,Auto,East,Central,805,Medium,3,High,28,26,21.66,53.88,Clear,2026-03-17 09:08:00,0,Delayed,Source,1,17.412046,78.534851
+TR-0076,Bengaluru,Karnataka,R-067,E-Rickshaw,Central,West,125,Medium,5,High,20,15,29.08,50.03,Rain,2026-05-29 02:01:00,0,Delayed,Source,1,12.976263,77.624516
+TR-0111,Bengaluru,Karnataka,R-067,Bus,North,Central,652,High,44,High,27,10,22.22,10.46,Cloudy,2026-04-17 09:50:00,0,Delayed,Source,1,13.006399,77.59493
+TR-0183,Coimbatore,Tamil Nadu,R-067,Bus,South,North,114,Low,55,Moderate,41,14,45.51,34.15,Rain,2026-07-24 09:20:00,0,Delayed,Source,1,10.956177,76.938996
+TR-0251,Surat,Gujarat,R-067,Metro,North,Central,664,Medium,615,Moderate,39,7,12.44,29.71,Clear,2026-03-07 05:40:00,0,Delayed,Source,1,21.238884,72.871086
+TR-0270,Lucknow,Uttar Pradesh,R-067,Bus,East,West,656,Very High,78,Moderate,32,10,36.05,31.38,Clear,2026-04-01 17:11:00,0,Delayed,Source,1,26.859072,81.006008
+TR-0289,Chennai,Tamil Nadu,R-067,Train,South,North,139,High,932,High,22,10,52.0,7.9,Clear,2026-08-05 10:53:00,0,Delayed,Source,1,13.030978,80.244533
+TR-0380,Chennai,Tamil Nadu,R-067,Bus,West,South,833,Low,61,Moderate,34,22,52.91,19.89,Clear,2026-02-27 17:02:00,0,Delayed,Source,1,13.079647,80.221221
+TR-0392,Lucknow,Uttar Pradesh,R-067,Metro,South,North,962,High,754,Moderate,41,17,16.29,42.27,Cloudy,2026-04-18 04:08:00,0,Delayed,Source,1,26.795187,80.945075
+TR-0051,Hyderabad,Telangana,R-067,Auto,East,Central,,,,High,,,,,Clear,2026-03-17 09:08:00,,,Destination,2,17.375012,78.492357
+TR-0076,Bengaluru,Karnataka,R-067,E-Rickshaw,Central,West,,,,High,,,,,Rain,2026-05-29 02:01:00,,,Destination,2,12.961527,77.549662
+TR-0111,Bengaluru,Karnataka,R-067,Bus,North,Central,,,,High,,,,,Cloudy,2026-04-17 09:50:00,,,Destination,2,12.983178,77.613987
+TR-0183,Coimbatore,Tamil Nadu,R-067,Bus,South,North,,,,Moderate,,,,,Rain,2026-07-24 09:20:00,,,Destination,2,11.058219,76.955502
+TR-0251,Surat,Gujarat,R-067,Metro,North,Central,,,,Moderate,,,,,Clear,2026-03-07 05:40:00,,,Destination,2,21.142968,72.820008
+TR-0270,Lucknow,Uttar Pradesh,R-067,Bus,East,West,,,,Moderate,,,,,Clear,2026-04-01 17:11:00,,,Destination,2,26.843404,80.859733
+TR-0289,Chennai,Tamil Nadu,R-067,Train,South,North,,,,High,,,,,Clear,2026-08-05 10:53:00,,,Destination,2,13.130979,80.277701
+TR-0380,Chennai,Tamil Nadu,R-067,Bus,West,South,,,,Moderate,,,,,Clear,2026-02-27 17:02:00,,,Destination,2,13.046185,80.275764
+TR-0392,Lucknow,Uttar Pradesh,R-067,Metro,South,North,,,,Moderate,,,,,Cloudy,2026-04-18 04:08:00,,,Destination,2,26.901221,80.968634
+TR-0073,Pune,Maharashtra,R-068,Bus,Central,East,60,Low,45,Severe,5,12,56.72,8.72,Clear,2026-06-21 20:07:00,0,Delayed,Source,1,18.540532,73.850057
+TR-0128,Hyderabad,Telangana,R-068,Bus,Central,South,259,High,70,Low,55,2,54.84,27.37,Rain,2026-03-31 11:10:00,1,On Time,Source,1,17.378236,78.485704
+TR-0245,Pune,Maharashtra,R-068,Taxi,Central,East,782,High,4,High,27,23,15.31,19.94,Hazy,2026-01-14 04:17:00,0,Delayed,Source,1,18.54354,73.860895
+TR-0309,Surat,Gujarat,R-068,Bus,West,North,311,Very High,54,High,18,29,14.49,38.19,Rain,2026-04-14 05:41:00,0,Delayed,Source,1,21.163274,72.79042
+TR-0316,Mumbai,Maharashtra,R-068,Bus,East,West,739,High,60,High,20,10,13.56,27.17,Hazy,2026-03-14 12:47:00,0,Delayed,Source,1,19.090102,72.93198
+TR-0371,Pune,Maharashtra,R-068,Bus,Central,South,795,Low,51,Moderate,33,27,64.39,15.92,Cloudy,2026-03-07 20:49:00,0,Delayed,Source,1,18.504801,73.849331
+TR-0372,Kochi,Kerala,R-068,Bus,South,Central,427,Medium,50,High,19,24,40.43,10.93,Rain,2026-08-06 03:50:00,0,Delayed,Source,1,9.876037,76.25274
+TR-0410,Delhi,Delhi,R-068,Taxi,North,West,549,Medium,4,High,27,1,68.04,51.83,Cloudy,2026-03-28 21:59:00,1,On Time,Source,1,28.680632,77.211978
+TR-0439,Mumbai,Maharashtra,R-068,Auto,East,Central,34,Medium,3,Severe,13,21,79.05,41.29,Cloudy,2026-06-17 05:47:00,0,Delayed,Source,1,19.084317,72.926398
+TR-0478,Mumbai,Maharashtra,R-068,Bus,South,North,955,High,78,Moderate,43,3,90.05,59.97,Cloudy,2026-01-11 01:21:00,1,On Time,Source,1,19.008106,72.863291
+TR-0499,Delhi,Delhi,R-068,E-Rickshaw,West,East,517,Medium,5,Low,64,0,83.73,9.39,Clear,2026-06-07 01:29:00,1,On Time,Source,1,28.593421,77.163948
+TR-0073,Pune,Maharashtra,R-068,Bus,Central,East,,,,Severe,,,,,Clear,2026-06-21 20:07:00,,,Destination,2,18.537228,73.931241
+TR-0128,Hyderabad,Telangana,R-068,Bus,Central,South,,,,Low,,,,,Rain,2026-03-31 11:10:00,,,Destination,2,17.327591,78.461914
+TR-0245,Pune,Maharashtra,R-068,Taxi,Central,East,,,,High,,,,,Hazy,2026-01-14 04:17:00,,,Destination,2,18.520885,73.91995
+TR-0309,Surat,Gujarat,R-068,Bus,West,North,,,,High,,,,,Rain,2026-04-14 05:41:00,,,Destination,2,21.215939,72.835124
+TR-0316,Mumbai,Maharashtra,R-068,Bus,East,West,,,,High,,,,,Hazy,2026-03-14 12:47:00,,,Destination,2,19.058777,72.815101
+TR-0371,Pune,Maharashtra,R-068,Bus,Central,South,,,,Moderate,,,,,Cloudy,2026-03-07 20:49:00,,,Destination,2,18.452443,73.848863
+TR-0372,Kochi,Kerala,R-068,Bus,South,Central,,,,High,,,,,Rain,2026-08-06 03:50:00,,,Destination,2,9.945517,76.257232
+TR-0410,Delhi,Delhi,R-068,Taxi,North,West,,,,High,,,,,Cloudy,2026-03-28 21:59:00,,,Destination,2,28.593655,77.14559
+TR-0439,Mumbai,Maharashtra,R-068,Auto,East,Central,,,,Severe,,,,,Cloudy,2026-06-17 05:47:00,,,Destination,2,19.091003,72.866495
+TR-0478,Mumbai,Maharashtra,R-068,Bus,South,North,,,,Moderate,,,,,Cloudy,2026-01-11 01:21:00,,,Destination,2,19.137539,72.913414
+TR-0499,Delhi,Delhi,R-068,E-Rickshaw,West,East,,,,Low,,,,,Clear,2026-06-07 01:29:00,,,Destination,2,28.619927,77.277964
+TR-0112,Delhi,Delhi,R-069,Train,North,East,225,Very High,767,Moderate,43,4,53.01,34.27,Clear,2026-03-27 20:58:00,1,On Time,Source,1,28.675631,77.215454
+TR-0176,Surat,Gujarat,R-069,Bus,South,East,679,High,74,Moderate,44,21,16.89,28.14,Cloudy,2026-01-26 14:04:00,0,Delayed,Source,1,21.123565,72.81823
+TR-0199,Delhi,Delhi,R-069,Metro,Central,West,436,Medium,952,Low,61,9,35.5,51.05,Rain,2026-02-08 14:06:00,0,Delayed,Source,1,28.619499,77.225155
+TR-0201,Hyderabad,Telangana,R-069,Bus,North,West,36,Very High,75,High,28,10,14.23,56.04,Rain,2026-03-19 17:58:00,0,Delayed,Source,1,17.465244,78.503857
+TR-0339,Lucknow,Uttar Pradesh,R-069,Bus,Central,North,281,High,71,Moderate,40,3,45.13,27.87,Rain,2026-06-30 03:14:00,1,On Time,Source,1,26.840268,80.943691
+TR-0343,Mumbai,Maharashtra,R-069,Metro,North,Central,938,Medium,631,High,15,0,34.86,48.58,Cloudy,2026-01-26 00:03:00,1,On Time,Source,1,19.129571,72.888825
+TR-0497,Kolkata,West Bengal,R-069,E-Rickshaw,East,Central,775,High,5,Moderate,33,29,18.74,12.28,Rain,2026-02-19 17:01:00,0,Delayed,Source,1,22.5788,88.408373
+TR-0112,Delhi,Delhi,R-069,Train,North,East,,,,Moderate,,,,,Clear,2026-03-27 20:58:00,,,Destination,2,28.632263,77.259994
+TR-0176,Surat,Gujarat,R-069,Bus,South,East,,,,Moderate,,,,,Cloudy,2026-01-26 14:04:00,,,Destination,2,21.164723,72.889304
+TR-0199,Delhi,Delhi,R-069,Metro,Central,West,,,,Low,,,,,Rain,2026-02-08 14:06:00,,,Destination,2,28.610167,77.152825
+TR-0201,Hyderabad,Telangana,R-069,Bus,North,West,,,,High,,,,,Rain,2026-03-19 17:58:00,,,Destination,2,17.369144,78.441552
+TR-0339,Lucknow,Uttar Pradesh,R-069,Bus,Central,North,,,,Moderate,,,,,Rain,2026-06-30 03:14:00,,,Destination,2,26.900058,80.946025
+TR-0343,Mumbai,Maharashtra,R-069,Metro,North,Central,,,,High,,,,,Cloudy,2026-01-26 00:03:00,,,Destination,2,19.056172,72.865218
+TR-0497,Kolkata,West Bengal,R-069,E-Rickshaw,East,Central,,,,Moderate,,,,,Rain,2026-02-19 17:01:00,,,Destination,2,22.573155,88.343618
+TR-0218,Mumbai,Maharashtra,R-070,Bus,East,Central,530,High,65,Severe,9,19,84.48,5.03,Clear,2026-07-01 16:48:00,0,Delayed,Source,1,19.086448,72.926704
+TR-0278,Bengaluru,Karnataka,R-070,Auto,South,East,90,Low,3,High,18,12,76.78,7.88,Cloudy,2026-05-01 13:57:00,0,Delayed,Source,1,12.899855,77.576105
+TR-0382,Jaipur,Rajasthan,R-070,E-Rickshaw,West,East,140,Very High,5,High,20,26,24.27,49.7,Clear,2026-05-24 19:15:00,0,Delayed,Source,1,26.909817,75.73691
+TR-0404,Mumbai,Maharashtra,R-070,E-Rickshaw,North,South,904,Very High,5,High,30,23,33.59,23.87,Hazy,2026-07-03 05:17:00,0,Delayed,Source,1,19.143094,72.865293
+TR-0218,Mumbai,Maharashtra,R-070,Bus,East,Central,,,,Severe,,,,,Clear,2026-07-01 16:48:00,,,Destination,2,19.083767,72.855395
+TR-0278,Bengaluru,Karnataka,R-070,Auto,South,East,,,,High,,,,,Cloudy,2026-05-01 13:57:00,,,Destination,2,12.978447,77.630449
+TR-0382,Jaipur,Rajasthan,R-070,E-Rickshaw,West,East,,,,High,,,,,Clear,2026-05-24 19:15:00,,,Destination,2,26.920695,75.831544
+TR-0404,Mumbai,Maharashtra,R-070,E-Rickshaw,North,South,,,,High,,,,,Hazy,2026-07-03 05:17:00,,,Destination,2,19.01334,72.864797
+TR-0072,Bengaluru,Karnataka,R-071,Bus,Central,North,585,High,54,High,20,10,30.88,26.5,Clear,2026-07-04 01:34:00,0,Delayed,Source,1,12.97864,77.602772
+TR-0269,Kolkata,West Bengal,R-071,Bus,East,South,210,Very High,53,Moderate,39,7,18.92,39.26,Clear,2026-05-18 20:54:00,0,Delayed,Source,1,22.601567,88.427042
+TR-0313,Delhi,Delhi,R-071,Bus,Central,South,904,Medium,55,High,20,25,30.35,53.01,Rain,2026-01-26 09:40:00,0,Delayed,Source,1,28.597932,77.182864
+TR-0500,Bengaluru,Karnataka,R-071,Auto,North,South,284,High,3,Moderate,36,27,64.83,20.12,Hazy,2026-01-02 17:30:00,0,Delayed,Source,1,13.013317,77.604406
+TR-0072,Bengaluru,Karnataka,R-071,Bus,Central,North,,,,High,,,,,Clear,2026-07-04 01:34:00,,,Destination,2,13.023662,77.59107
+TR-0269,Kolkata,West Bengal,R-071,Bus,East,South,,,,Moderate,,,,,Clear,2026-05-18 20:54:00,,,Destination,2,22.508973,88.356349
+TR-0313,Delhi,Delhi,R-071,Bus,Central,South,,,,High,,,,,Rain,2026-01-26 09:40:00,,,Destination,2,28.550507,77.20094
+TR-0500,Bengaluru,Karnataka,R-071,Auto,North,South,,,,Moderate,,,,,Hazy,2026-01-02 17:30:00,,,Destination,2,12.922093,77.608758
+TR-0071,Chennai,Tamil Nadu,R-072,Bus,South,Central,942,High,63,Severe,14,23,41.81,18.03,Clear,2026-03-09 17:23:00,0,Delayed,Source,1,13.02216,80.274528
+TR-0229,Hyderabad,Telangana,R-072,Bus,Central,North,216,High,68,High,23,20,85.29,43.74,Cloudy,2026-08-04 02:54:00,0,Delayed,Source,1,17.380053,78.497662
+TR-0383,Kolkata,West Bengal,R-072,Bus,East,South,332,High,50,High,16,18,56.34,14.39,Rain,2026-03-28 11:48:00,0,Delayed,Source,1,22.599774,88.41578
+TR-0399,Lucknow,Uttar Pradesh,R-072,Auto,Central,South,310,Very High,3,High,22,9,32.69,29.98,Hazy,2026-03-14 06:13:00,0,Delayed,Source,1,26.85292,80.954732
+TR-0071,Chennai,Tamil Nadu,R-072,Bus,South,Central,,,,Severe,,,,,Clear,2026-03-09 17:23:00,,,Destination,2,13.070679,80.271522
+TR-0229,Hyderabad,Telangana,R-072,Bus,Central,North,,,,High,,,,,Cloudy,2026-08-04 02:54:00,,,Destination,2,17.446452,78.501838
+TR-0383,Kolkata,West Bengal,R-072,Bus,East,South,,,,High,,,,,Rain,2026-03-28 11:48:00,,,Destination,2,22.50704,88.35713
+TR-0399,Lucknow,Uttar Pradesh,R-072,Auto,Central,South,,,,High,,,,,Hazy,2026-03-14 06:13:00,,,Destination,2,26.805571,80.948825
+TR-0327,Mumbai,Maharashtra,R-073,Metro,Central,North,377,Medium,889,High,16,4,76.34,8.86,Cloudy,2026-04-02 22:50:00,1,On Time,Source,1,19.077568,72.871964
+TR-0411,Coimbatore,Tamil Nadu,R-073,Metro,East,North,604,High,576,Moderate,30,24,79.63,30.06,Rain,2026-01-12 13:50:00,0,Delayed,Source,1,11.028545,77.027568
+TR-0327,Mumbai,Maharashtra,R-073,Metro,Central,North,,,,High,,,,,Cloudy,2026-04-02 22:50:00,,,Destination,2,19.141112,72.890959
+TR-0411,Coimbatore,Tamil Nadu,R-073,Metro,East,North,,,,Moderate,,,,,Rain,2026-01-12 13:50:00,,,Destination,2,11.068118,76.950307
+TR-0050,Kochi,Kerala,R-074,Taxi,North,East,326,High,4,Severe,8,10,25.89,17.13,Clear,2026-01-03 23:05:00,0,Delayed,Source,1,9.973353,76.285491
+TR-0232,Kolkata,West Bengal,R-074,Train,Central,South,941,High,982,High,15,13,84.52,25.79,Cloudy,2026-01-26 10:22:00,0,Delayed,Source,1,22.57426,88.357849
+TR-0050,Kochi,Kerala,R-074,Taxi,North,East,,,,Severe,,,,,Clear,2026-01-03 23:05:00,,,Destination,2,9.939211,76.312393
+TR-0232,Kolkata,West Bengal,R-074,Train,Central,South,,,,High,,,,,Cloudy,2026-01-26 10:22:00,,,Destination,2,22.515406,88.348435
+TR-0067,Kochi,Kerala,R-075,Train,North,South,599,Very High,1188,Moderate,42,3,68.55,47.09,Hazy,2026-04-12 18:05:00,1,On Time,Source,1,9.99627,76.299084
+TR-0127,Ahmedabad,Gujarat,R-075,Auto,Central,North,593,Very High,3,High,15,23,22.08,57.69,Rain,2026-01-15 20:45:00,0,Delayed,Source,1,23.035974,72.577611
+TR-0131,Hyderabad,Telangana,R-075,Metro,North,East,115,Medium,765,High,24,8,13.5,6.98,Clear,2026-01-22 01:55:00,0,Delayed,Source,1,17.417602,78.50879
+TR-0393,Chennai,Tamil Nadu,R-075,Auto,South,Central,39,High,3,High,18,4,15.97,25.17,Clear,2026-05-11 14:25:00,1,On Time,Source,1,13.019701,80.256898
+TR-0456,Pune,Maharashtra,R-075,Bus,South,East,820,High,67,High,24,25,75.09,49.09,Clear,2026-02-21 18:44:00,0,Delayed,Source,1,18.450233,73.858316
+TR-0067,Kochi,Kerala,R-075,Train,North,South,,,,Moderate,,,,,Hazy,2026-04-12 18:05:00,,,Destination,2,9.86432,76.25202
+TR-0127,Ahmedabad,Gujarat,R-075,Auto,Central,North,,,,High,,,,,Rain,2026-01-15 20:45:00,,,Destination,2,23.075683,72.586398
+TR-0131,Hyderabad,Telangana,R-075,Metro,North,East,,,,High,,,,,Clear,2026-01-22 01:55:00,,,Destination,2,17.386784,78.551188
+TR-0393,Chennai,Tamil Nadu,R-075,Auto,South,Central,,,,High,,,,,Clear,2026-05-11 14:25:00,,,Destination,2,13.087153,80.264857
+TR-0456,Pune,Maharashtra,R-075,Bus,South,East,,,,High,,,,,Clear,2026-02-21 18:44:00,,,Destination,2,18.520662,73.897506
+TR-0058,Hyderabad,Telangana,R-076,Metro,Central,East,631,High,713,High,20,24,61.38,6.01,Cloudy,2026-03-27 19:32:00,0,Delayed,Source,1,17.381677,78.486395
+TR-0136,Ahmedabad,Gujarat,R-076,Auto,East,West,501,Low,3,Moderate,33,15,60.59,57.09,Clear,2026-03-22 02:25:00,0,Delayed,Source,1,23.04555,72.63749
+TR-0155,Coimbatore,Tamil Nadu,R-076,Bus,Central,East,947,High,71,Moderate,34,0,48.91,6.71,Rain,2026-01-22 05:20:00,1,On Time,Source,1,11.01872,76.937425
+TR-0272,Kochi,Kerala,R-076,Auto,North,South,429,Very High,3,Low,56,6,81.22,16.05,Cloudy,2026-08-03 04:08:00,0,Delayed,Source,1,9.968248,76.288813
+TR-0325,Pune,Maharashtra,R-076,Bus,South,East,290,High,54,Severe,6,3,39.42,5.59,Clear,2026-04-02 22:44:00,1,On Time,Source,1,18.466761,73.852208
+TR-0058,Hyderabad,Telangana,R-076,Metro,Central,East,,,,High,,,,,Cloudy,2026-03-27 19:32:00,,,Destination,2,17.392924,78.533442
+TR-0136,Ahmedabad,Gujarat,R-076,Auto,East,West,,,,Moderate,,,,,Clear,2026-03-22 02:25:00,,,Destination,2,23.007428,72.524519
+TR-0155,Coimbatore,Tamil Nadu,R-076,Bus,Central,East,,,,Moderate,,,,,Rain,2026-01-22 05:20:00,,,Destination,2,11.025048,77.026285
+TR-0272,Kochi,Kerala,R-076,Auto,North,South,,,,Low,,,,,Cloudy,2026-08-03 04:08:00,,,Destination,2,9.891625,76.249793
+TR-0325,Pune,Maharashtra,R-076,Bus,South,East,,,,Severe,,,,,Clear,2026-04-02 22:44:00,,,Destination,2,18.528142,73.910457
+TR-0025,Coimbatore,Tamil Nadu,R-077,Metro,East,North,589,Very High,550,High,28,3,30.58,41.94,Hazy,2026-02-03 07:38:00,1,On Time,Source,1,11.030909,77.033738
+TR-0082,Surat,Gujarat,R-077,Train,South,North,980,High,1731,Severe,5,7,17.63,44.4,Clear,2026-06-28 23:34:00,0,Delayed,Source,1,21.132127,72.835674
+TR-0106,Pune,Maharashtra,R-077,Bus,South,North,577,High,52,High,23,30,34.73,26.7,Hazy,2026-01-19 11:07:00,0,Delayed,Source,1,18.442898,73.84808
+TR-0167,Lucknow,Uttar Pradesh,R-077,Auto,East,North,581,Very High,3,High,27,16,36.46,18.04,Rain,2026-04-19 22:45:00,0,Delayed,Source,1,26.858325,80.981179
+TR-0244,Hyderabad,Telangana,R-077,Bus,East,Central,663,Medium,60,Low,64,16,91.86,5.34,Cloudy,2026-01-19 18:55:00,0,Delayed,Source,1,17.38689,78.522841
+TR-0301,Pune,Maharashtra,R-077,Metro,East,West,497,High,640,Severe,5,26,42.06,14.75,Rain,2026-04-25 16:29:00,0,Delayed,Source,1,18.535921,73.914418
+TR-0310,Hyderabad,Telangana,R-077,Bus,Central,East,341,Medium,73,High,28,0,71.95,19.29,Hazy,2026-01-23 15:44:00,1,On Time,Source,1,17.383097,78.480856
+TR-0468,Delhi,Delhi,R-077,Auto,Central,North,255,High,3,Moderate,36,29,80.57,39.24,Clear,2026-03-25 00:28:00,0,Delayed,Source,1,28.600935,77.194871
+TR-0025,Coimbatore,Tamil Nadu,R-077,Metro,East,North,,,,High,,,,,Hazy,2026-02-03 07:38:00,,,Destination,2,11.075634,76.968119
+TR-0082,Surat,Gujarat,R-077,Train,South,North,,,,Severe,,,,,Clear,2026-06-28 23:34:00,,,Destination,2,21.228519,72.850694
+TR-0106,Pune,Maharashtra,R-077,Bus,South,North,,,,High,,,,,Hazy,2026-01-19 11:07:00,,,Destination,2,18.573478,73.874756
+TR-0167,Lucknow,Uttar Pradesh,R-077,Auto,East,North,,,,High,,,,,Rain,2026-04-19 22:45:00,,,Destination,2,26.932055,80.963693
+TR-0244,Hyderabad,Telangana,R-077,Bus,East,Central,,,,Low,,,,,Cloudy,2026-01-19 18:55:00,,,Destination,2,17.375475,78.488492
+TR-0301,Pune,Maharashtra,R-077,Metro,East,West,,,,Severe,,,,,Rain,2026-04-25 16:29:00,,,Destination,2,18.50095,73.784968
+TR-0310,Hyderabad,Telangana,R-077,Bus,Central,East,,,,High,,,,,Hazy,2026-01-23 15:44:00,,,Destination,2,17.402442,78.498715
+TR-0468,Delhi,Delhi,R-077,Auto,Central,North,,,,Moderate,,,,,Clear,2026-03-25 00:28:00,,,Destination,2,28.663816,77.21313
+TR-0003,Coimbatore,Tamil Nadu,R-078,Metro,West,East,501,Very High,770,High,28,22,56.88,57.86,Clear,2026-07-27 12:17:00,0,Delayed,Source,1,11.013593,76.892347
+TR-0037,Surat,Gujarat,R-078,Taxi,West,Central,157,Very High,4,High,26,7,85.64,55.09,Clear,2026-02-15 04:20:00,0,Delayed,Source,1,21.170614,72.764862
+TR-0282,Chennai,Tamil Nadu,R-078,E-Rickshaw,South,Central,125,High,5,Moderate,32,2,89.42,36.44,Cloudy,2026-01-02 14:22:00,1,On Time,Source,1,13.011318,80.252174
+TR-0341,Bengaluru,Karnataka,R-078,Bus,East,North,624,High,58,Low,47,16,92.24,25.26,Hazy,2026-04-07 12:37:00,0,Delayed,Source,1,12.971791,77.653455
+TR-0003,Coimbatore,Tamil Nadu,R-078,Metro,West,East,,,,High,,,,,Clear,2026-07-27 12:17:00,,,Destination,2,11.010265,77.006563
+TR-0037,Surat,Gujarat,R-078,Taxi,West,Central,,,,High,,,,,Clear,2026-02-15 04:20:00,,,Destination,2,21.159694,72.833555
+TR-0282,Chennai,Tamil Nadu,R-078,E-Rickshaw,South,Central,,,,Moderate,,,,,Cloudy,2026-01-02 14:22:00,,,Destination,2,13.051818,80.267015
+TR-0341,Bengaluru,Karnataka,R-078,Bus,East,North,,,,Low,,,,,Hazy,2026-04-07 12:37:00,,,Destination,2,12.997756,77.621309
+TR-0291,Visakhapatnam,Andhra Pradesh,R-079,Taxi,Central,North,452,Medium,4,Moderate,41,0,84.72,41.52,Clear,2026-01-23 07:31:00,1,On Time,Source,1,17.663564,83.194947
+TR-0291,Visakhapatnam,Andhra Pradesh,R-079,Taxi,Central,North,,,,Moderate,,,,,Clear,2026-01-23 07:31:00,,,Destination,2,17.729624,83.220599
+TR-0207,Bengaluru,Karnataka,R-080,Train,North,South,943,Medium,1629,High,15,11,81.16,26.16,Clear,2026-05-05 12:05:00,0,Delayed,Source,1,13.013929,77.604416
+TR-0243,Kolkata,West Bengal,R-080,Auto,Central,North,828,High,3,Moderate,38,23,93.79,7.78,Cloudy,2026-07-01 04:55:00,0,Delayed,Source,1,22.560969,88.365756
+TR-0257,Surat,Gujarat,R-080,Bus,West,Central,395,High,68,Low,64,3,26.94,15.13,Cloudy,2026-03-12 22:40:00,1,On Time,Source,1,21.156113,72.782102
+TR-0352,Bengaluru,Karnataka,R-080,Train,Central,North,832,Very High,789,Low,63,3,33.82,44.12,Clear,2026-03-19 22:13:00,1,On Time,Source,1,12.971535,77.615183
+TR-0375,Nagpur,Maharashtra,R-080,E-Rickshaw,South,East,656,Medium,5,Severe,10,7,70.96,20.93,Hazy,2026-03-21 10:31:00,0,Delayed,Source,1,21.086556,79.074698
+TR-0403,Ahmedabad,Gujarat,R-080,Metro,Central,West,586,High,533,High,28,12,64.48,9.79,Cloudy,2026-03-19 11:32:00,0,Delayed,Source,1,23.021693,72.558504
+TR-0207,Bengaluru,Karnataka,R-080,Train,North,South,,,,High,,,,,Clear,2026-05-05 12:05:00,,,Destination,2,12.896102,77.594418
+TR-0243,Kolkata,West Bengal,R-080,Auto,Central,North,,,,Moderate,,,,,Cloudy,2026-07-01 04:55:00,,,Destination,2,22.642399,88.397581
+TR-0257,Surat,Gujarat,R-080,Bus,West,Central,,,,Low,,,,,Cloudy,2026-03-12 22:40:00,,,Destination,2,21.153917,72.833778
+TR-0352,Bengaluru,Karnataka,R-080,Train,Central,North,,,,Low,,,,,Clear,2026-03-19 22:13:00,,,Destination,2,13.017339,77.598221
+TR-0375,Nagpur,Maharashtra,R-080,E-Rickshaw,South,East,,,,Severe,,,,,Hazy,2026-03-21 10:31:00,,,Destination,2,21.14775,79.129267
+TR-0403,Ahmedabad,Gujarat,R-080,Metro,Central,West,,,,High,,,,,Cloudy,2026-03-19 11:32:00,,,Destination,2,23.003112,72.526638
+TR-0007,Pune,Maharashtra,R-081,Bus,West,East,496,High,41,Moderate,39,26,64.86,32.65,Cloudy,2026-03-28 04:31:00,0,Delayed,Source,1,18.497245,73.812679
+TR-0159,Pune,Maharashtra,R-081,Train,West,Central,482,High,1642,High,15,28,95.39,8.33,Cloudy,2026-04-22 00:54:00,0,Delayed,Source,1,18.510417,73.786379
+TR-0165,Chennai,Tamil Nadu,R-081,Train,East,West,785,Very High,1576,Moderate,33,16,25.79,36.23,Clear,2026-07-07 13:30:00,0,Delayed,Source,1,13.11797,80.320983
+TR-0189,Ahmedabad,Gujarat,R-081,Metro,West,South,687,Low,895,Moderate,33,12,85.35,12.01,Cloudy,2026-02-01 14:43:00,0,Delayed,Source,1,22.993394,72.52689
+TR-0250,Lucknow,Uttar Pradesh,R-081,Bus,East,North,80,High,45,High,28,8,99.36,47.77,Cloudy,2026-02-21 10:58:00,0,Delayed,Source,1,26.839498,80.975939
+TR-0336,Kolkata,West Bengal,R-081,Metro,East,North,838,Low,646,Moderate,34,12,74.5,43.83,Rain,2026-06-05 00:43:00,0,Delayed,Source,1,22.586111,88.407827
+TR-0415,Kochi,Kerala,R-081,Metro,East,South,40,Medium,946,High,29,26,56.31,10.88,Rain,2026-03-05 23:06:00,0,Delayed,Source,1,9.932617,76.31397
+TR-0441,Lucknow,Uttar Pradesh,R-081,Metro,East,South,455,High,1187,Severe,7,26,99.51,57.61,Hazy,2026-04-11 01:14:00,0,Delayed,Source,1,26.861456,81.003237
+TR-0463,Lucknow,Uttar Pradesh,R-081,Train,West,North,352,Very High,1257,Moderate,35,12,13.22,43.74,Rain,2026-05-01 13:01:00,0,Delayed,Source,1,26.825888,80.878357
+TR-0007,Pune,Maharashtra,R-081,Bus,West,East,,,,Moderate,,,,,Cloudy,2026-03-28 04:31:00,,,Destination,2,18.522407,73.905535
+TR-0159,Pune,Maharashtra,R-081,Train,West,Central,,,,High,,,,,Cloudy,2026-04-22 00:54:00,,,Destination,2,18.533755,73.869632
+TR-0165,Chennai,Tamil Nadu,R-081,Train,East,West,,,,Moderate,,,,,Clear,2026-07-07 13:30:00,,,Destination,2,13.094812,80.222743
+TR-0189,Ahmedabad,Gujarat,R-081,Metro,West,South,,,,Moderate,,,,,Cloudy,2026-02-01 14:43:00,,,Destination,2,22.971985,72.574623
+TR-0250,Lucknow,Uttar Pradesh,R-081,Bus,East,North,,,,High,,,,,Cloudy,2026-02-21 10:58:00,,,Destination,2,26.914705,80.944389
+TR-0336,Kolkata,West Bengal,R-081,Metro,East,North,,,,Moderate,,,,,Rain,2026-06-05 00:43:00,,,Destination,2,22.640757,88.382228
+TR-0415,Kochi,Kerala,R-081,Metro,East,South,,,,High,,,,,Rain,2026-03-05 23:06:00,,,Destination,2,9.881132,76.263627
+TR-0441,Lucknow,Uttar Pradesh,R-081,Metro,East,South,,,,Severe,,,,,Hazy,2026-04-11 01:14:00,,,Destination,2,26.781542,80.943495
+TR-0463,Lucknow,Uttar Pradesh,R-081,Train,West,North,,,,Moderate,,,,,Rain,2026-05-01 13:01:00,,,Destination,2,26.904593,80.935456
+TR-0026,Surat,Gujarat,R-082,Metro,Central,South,253,High,805,High,20,29,59.93,10.01,Cloudy,2026-02-21 05:32:00,0,Delayed,Source,1,21.163985,72.841814
+TR-0066,Visakhapatnam,Andhra Pradesh,R-082,Bus,Central,South,382,Very High,65,Moderate,30,16,84.78,52.55,Clear,2026-03-17 07:24:00,0,Delayed,Source,1,17.678008,83.224565
+TR-0092,Jaipur,Rajasthan,R-082,Taxi,West,South,656,Very High,4,Moderate,38,25,60.58,24.03,Cloudy,2026-06-10 06:05:00,0,Delayed,Source,1,26.901198,75.729856
+TR-0455,Kolkata,West Bengal,R-082,Train,North,West,210,Medium,860,High,15,22,95.74,26.24,Cloudy,2026-01-30 12:15:00,0,Delayed,Source,1,22.607429,88.367902
+TR-0498,Coimbatore,Tamil Nadu,R-082,Auto,South,West,888,High,3,High,15,18,28.45,40.52,Hazy,2026-03-21 17:57:00,0,Delayed,Source,1,10.976566,76.95213
+TR-0026,Surat,Gujarat,R-082,Metro,Central,South,,,,High,,,,,Cloudy,2026-02-21 05:32:00,,,Destination,2,21.108441,72.851571
+TR-0066,Visakhapatnam,Andhra Pradesh,R-082,Bus,Central,South,,,,Moderate,,,,,Clear,2026-03-17 07:24:00,,,Destination,2,17.639,83.198779
+TR-0092,Jaipur,Rajasthan,R-082,Taxi,West,South,,,,Moderate,,,,,Cloudy,2026-06-10 06:05:00,,,Destination,2,26.846864,75.767377
+TR-0455,Kolkata,West Bengal,R-082,Train,North,West,,,,High,,,,,Cloudy,2026-01-30 12:15:00,,,Destination,2,22.565957,88.320733
+TR-0498,Coimbatore,Tamil Nadu,R-082,Auto,South,West,,,,High,,,,,Hazy,2026-03-21 17:57:00,,,Destination,2,11.01215,76.880133
+TR-0046,Jaipur,Rajasthan,R-083,Bus,East,Central,890,Low,51,Moderate,42,7,67.51,46.75,Clear,2026-04-28 15:05:00,0,Delayed,Source,1,26.930893,75.83555
+TR-0098,Chennai,Tamil Nadu,R-083,Bus,South,Central,940,Very High,77,Low,49,27,38.29,30.91,Rain,2026-04-18 11:08:00,0,Delayed,Source,1,13.017357,80.265063
+TR-0234,Coimbatore,Tamil Nadu,R-083,Bus,South,North,744,Medium,44,Severe,6,28,29.83,33.34,Cloudy,2026-03-17 01:10:00,0,Delayed,Source,1,10.96729,76.956123
+TR-0304,Coimbatore,Tamil Nadu,R-083,Bus,Central,South,67,Medium,73,Moderate,34,1,44.93,48.78,Clear,2026-03-29 03:11:00,1,On Time,Source,1,11.026632,76.960887
+TR-0443,Surat,Gujarat,R-083,Bus,South,Central,257,High,72,Low,54,18,56.36,42.71,Rain,2026-01-26 21:20:00,0,Delayed,Source,1,21.128421,72.827004
+TR-0046,Jaipur,Rajasthan,R-083,Bus,East,Central,,,,Moderate,,,,,Clear,2026-04-28 15:05:00,,,Destination,2,26.919989,75.798971
+TR-0098,Chennai,Tamil Nadu,R-083,Bus,South,Central,,,,Low,,,,,Rain,2026-04-18 11:08:00,,,Destination,2,13.075459,80.274025
+TR-0234,Coimbatore,Tamil Nadu,R-083,Bus,South,North,,,,Severe,,,,,Cloudy,2026-03-17 01:10:00,,,Destination,2,11.060786,76.958054
+TR-0304,Coimbatore,Tamil Nadu,R-083,Bus,Central,South,,,,Moderate,,,,,Clear,2026-03-29 03:11:00,,,Destination,2,10.950211,76.939337
+TR-0443,Surat,Gujarat,R-083,Bus,South,Central,,,,Low,,,,,Rain,2026-01-26 21:20:00,,,Destination,2,21.150925,72.835839
+TR-0010,Kochi,Kerala,R-084,Taxi,South,North,176,Medium,4,Severe,12,29,10.83,10.58,Rain,2026-06-02 17:45:00,0,Delayed,Source,1,9.85892,76.271589
+TR-0108,Mumbai,Maharashtra,R-084,Bus,South,West,867,High,78,High,23,5,20.85,54.63,Cloudy,2026-05-11 15:29:00,1,On Time,Source,1,19.027143,72.86568
+TR-0129,Hyderabad,Telangana,R-084,Auto,East,West,165,Very High,3,High,28,23,78.72,52.04,Hazy,2026-05-17 04:09:00,0,Delayed,Source,1,17.397276,78.533756
+TR-0158,Chennai,Tamil Nadu,R-084,Metro,North,East,944,Medium,1061,Moderate,44,5,63.38,7.93,Rain,2026-07-08 17:26:00,1,On Time,Source,1,13.158925,80.274794
+TR-0172,Kochi,Kerala,R-084,Bus,East,North,307,Low,73,Low,56,11,91.83,22.26,Rain,2026-04-22 00:53:00,0,Delayed,Source,1,9.925437,76.332546
+TR-0010,Kochi,Kerala,R-084,Taxi,South,North,,,,Severe,,,,,Rain,2026-06-02 17:45:00,,,Destination,2,10.001793,76.266894
+TR-0108,Mumbai,Maharashtra,R-084,Bus,South,West,,,,High,,,,,Cloudy,2026-05-11 15:29:00,,,Destination,2,19.080717,72.836585
+TR-0129,Hyderabad,Telangana,R-084,Auto,East,West,,,,High,,,,,Hazy,2026-05-17 04:09:00,,,Destination,2,17.380111,78.43193
+TR-0158,Chennai,Tamil Nadu,R-084,Metro,North,East,,,,Moderate,,,,,Rain,2026-07-08 17:26:00,,,Destination,2,13.076452,80.319062
+TR-0172,Kochi,Kerala,R-084,Bus,East,North,,,,Low,,,,,Rain,2026-04-22 00:53:00,,,Destination,2,9.979533,76.26684
+TR-0080,Pune,Maharashtra,R-085,Bus,South,East,674,High,65,Moderate,30,20,82.14,57.78,Hazy,2026-07-28 02:48:00,0,Delayed,Source,1,18.465041,73.844608
+TR-0121,Mumbai,Maharashtra,R-085,E-Rickshaw,North,East,715,Low,5,High,25,20,88.8,15.05,Hazy,2026-04-18 10:16:00,0,Delayed,Source,1,19.133492,72.900419
+TR-0204,Nagpur,Maharashtra,R-085,Metro,West,North,869,High,735,High,30,25,91.63,59.53,Clear,2026-05-14 22:50:00,0,Delayed,Source,1,21.137717,79.028805
+TR-0215,Kochi,Kerala,R-085,Bus,East,South,416,Medium,69,Moderate,43,28,80.66,15.76,Hazy,2026-02-19 16:42:00,0,Delayed,Source,1,9.953352,76.320402
+TR-0429,Chennai,Tamil Nadu,R-085,Bus,North,East,180,High,66,High,22,23,14.5,8.82,Cloudy,2026-04-21 01:13:00,0,Delayed,Source,1,13.142193,80.291514
+TR-0467,Kolkata,West Bengal,R-085,Taxi,Central,West,60,Low,4,Moderate,31,10,76.93,59.22,Rain,2026-01-19 22:50:00,0,Delayed,Source,1,22.553964,88.347057
+TR-0493,Surat,Gujarat,R-085,Metro,Central,North,693,Medium,772,High,28,20,97.92,45.69,Clear,2026-05-27 06:16:00,0,Delayed,Source,1,21.166339,72.83071
+TR-0080,Pune,Maharashtra,R-085,Bus,South,East,,,,Moderate,,,,,Hazy,2026-07-28 02:48:00,,,Destination,2,18.525701,73.911518
+TR-0121,Mumbai,Maharashtra,R-085,E-Rickshaw,North,East,,,,High,,,,,Hazy,2026-04-18 10:16:00,,,Destination,2,19.063445,72.918431
+TR-0204,Nagpur,Maharashtra,R-085,Metro,West,North,,,,High,,,,,Clear,2026-05-14 22:50:00,,,Destination,2,21.197798,79.08536
+TR-0215,Kochi,Kerala,R-085,Bus,East,South,,,,Moderate,,,,,Hazy,2026-02-19 16:42:00,,,Destination,2,9.915117,76.284995
+TR-0429,Chennai,Tamil Nadu,R-085,Bus,North,East,,,,High,,,,,Cloudy,2026-04-21 01:13:00,,,Destination,2,13.10285,80.321594
+TR-0467,Kolkata,West Bengal,R-085,Taxi,Central,West,,,,Moderate,,,,,Rain,2026-01-19 22:50:00,,,Destination,2,22.561595,88.335948
+TR-0493,Surat,Gujarat,R-085,Metro,Central,North,,,,High,,,,,Clear,2026-05-27 06:16:00,,,Destination,2,21.248152,72.825202
+TR-0145,Jaipur,Rajasthan,R-086,Metro,West,Central,650,High,1197,Severe,10,6,15.06,32.01,Hazy,2026-07-26 00:54:00,0,Delayed,Source,1,26.914392,75.729455
+TR-0203,Pune,Maharashtra,R-086,Taxi,East,Central,333,High,4,Severe,13,22,11.5,15.71,Hazy,2026-07-02 00:18:00,0,Delayed,Source,1,18.526519,73.929064
+TR-0216,Mumbai,Maharashtra,R-086,Bus,Central,East,641,High,75,Moderate,38,21,84.0,46.41,Rain,2026-04-20 00:17:00,0,Delayed,Source,1,19.051778,72.879441
+TR-0292,Visakhapatnam,Andhra Pradesh,R-086,Bus,North,West,123,Very High,76,High,27,29,68.39,45.0,Clear,2026-03-22 09:11:00,0,Delayed,Source,1,17.750572,83.234961
+TR-0300,Kolkata,West Bengal,R-086,Bus,East,Central,823,Medium,56,Low,48,4,27.09,50.03,Clear,2026-07-24 21:36:00,1,On Time,Source,1,22.580466,88.394962
+TR-0350,Delhi,Delhi,R-086,Bus,North,East,341,High,41,High,23,10,83.11,46.38,Clear,2026-01-12 03:52:00,0,Delayed,Source,1,28.668378,77.214024
+TR-0377,Indore,Madhya Pradesh,R-086,Metro,East,South,414,Low,945,Moderate,38,17,10.48,23.04,Hazy,2026-01-24 01:12:00,0,Delayed,Source,1,22.737919,75.888368
+TR-0145,Jaipur,Rajasthan,R-086,Metro,West,Central,,,,Severe,,,,,Hazy,2026-07-26 00:54:00,,,Destination,2,26.925056,75.792533
+TR-0203,Pune,Maharashtra,R-086,Taxi,East,Central,,,,Severe,,,,,Hazy,2026-07-02 00:18:00,,,Destination,2,18.537997,73.871945
+TR-0216,Mumbai,Maharashtra,R-086,Bus,Central,East,,,,Moderate,,,,,Rain,2026-04-20 00:17:00,,,Destination,2,19.095518,72.931235
+TR-0292,Visakhapatnam,Andhra Pradesh,R-086,Bus,North,West,,,,High,,,,,Clear,2026-03-22 09:11:00,,,Destination,2,17.685389,83.192232
+TR-0300,Kolkata,West Bengal,R-086,Bus,East,Central,,,,Low,,,,,Clear,2026-07-24 21:36:00,,,Destination,2,22.560258,88.353394
+TR-0350,Delhi,Delhi,R-086,Bus,North,East,,,,High,,,,,Clear,2026-01-12 03:52:00,,,Destination,2,28.615468,77.241136
+TR-0377,Indore,Madhya Pradesh,R-086,Metro,East,South,,,,Moderate,,,,,Hazy,2026-01-24 01:12:00,,,Destination,2,22.653968,75.843709
+TR-0043,Surat,Gujarat,R-087,Train,Central,East,305,Medium,1309,Low,55,4,11.66,55.29,Clear,2026-02-11 03:40:00,1,On Time,Source,1,21.169428,72.814988
+TR-0118,Bengaluru,Karnataka,R-087,Auto,South,North,680,High,3,Low,57,13,23.71,19.64,Cloudy,2026-02-22 06:00:00,0,Delayed,Source,1,12.893877,77.58716
+TR-0147,Pune,Maharashtra,R-087,Taxi,Central,South,30,High,4,High,19,15,77.35,29.16,Cloudy,2026-07-20 14:36:00,0,Delayed,Source,1,18.503478,73.847334
+TR-0180,Chennai,Tamil Nadu,R-087,Train,Central,North,478,Medium,775,Low,60,13,71.92,11.62,Clear,2026-03-14 22:09:00,0,Delayed,Source,1,13.081566,80.275735
+TR-0219,Ahmedabad,Gujarat,R-087,Taxi,East,Central,437,High,4,High,28,24,85.99,55.37,Rain,2026-02-25 22:18:00,0,Delayed,Source,1,23.024592,72.606426
+TR-0363,Lucknow,Uttar Pradesh,R-087,Bus,South,Central,91,Very High,53,High,15,12,97.97,7.05,Clear,2026-07-02 18:12:00,0,Delayed,Source,1,26.796948,80.935491
+TR-0406,Ahmedabad,Gujarat,R-087,Taxi,Central,South,910,High,4,High,22,17,92.54,12.37,Rain,2026-04-24 04:38:00,0,Delayed,Source,1,23.045444,72.585369
+TR-0043,Surat,Gujarat,R-087,Train,Central,East,,,,Low,,,,,Clear,2026-02-11 03:40:00,,,Destination,2,21.200617,72.887152
+TR-0118,Bengaluru,Karnataka,R-087,Auto,South,North,,,,Low,,,,,Cloudy,2026-02-22 06:00:00,,,Destination,2,13.026614,77.594795
+TR-0147,Pune,Maharashtra,R-087,Taxi,Central,South,,,,High,,,,,Cloudy,2026-07-20 14:36:00,,,Destination,2,18.456538,73.833595
+TR-0180,Chennai,Tamil Nadu,R-087,Train,Central,North,,,,Low,,,,,Clear,2026-03-14 22:09:00,,,Destination,2,13.127333,80.296054
+TR-0219,Ahmedabad,Gujarat,R-087,Taxi,East,Central,,,,High,,,,,Rain,2026-02-25 22:18:00,,,Destination,2,23.03354,72.567784
+TR-0363,Lucknow,Uttar Pradesh,R-087,Bus,South,Central,,,,High,,,,,Clear,2026-07-02 18:12:00,,,Destination,2,26.846098,80.944688
+TR-0406,Ahmedabad,Gujarat,R-087,Taxi,Central,South,,,,High,,,,,Rain,2026-04-24 04:38:00,,,Destination,2,22.98369,72.561693
+TR-0104,Kochi,Kerala,R-088,Auto,West,East,156,High,3,Low,48,1,52.56,59.11,Hazy,2026-03-28 05:05:00,1,On Time,Source,1,9.946462,76.198943
+TR-0465,Ahmedabad,Gujarat,R-088,Auto,East,South,563,Very High,3,High,21,7,58.49,19.17,Cloudy,2026-05-24 02:16:00,0,Delayed,Source,1,23.030432,72.634977
+TR-0104,Kochi,Kerala,R-088,Auto,West,East,,,,Low,,,,,Hazy,2026-03-28 05:05:00,,,Destination,2,9.955862,76.343295
+TR-0465,Ahmedabad,Gujarat,R-088,Auto,East,South,,,,High,,,,,Cloudy,2026-05-24 02:16:00,,,Destination,2,22.982834,72.568246
+TR-0015,Coimbatore,Tamil Nadu,R-089,Metro,East,North,975,Medium,595,Moderate,41,7,94.12,40.1,Clear,2026-07-11 04:21:00,0,Delayed,Source,1,11.002498,77.013037
+TR-0024,Visakhapatnam,Andhra Pradesh,R-089,Taxi,South,East,901,Medium,4,Moderate,31,21,84.62,36.3,Clear,2026-04-08 08:34:00,0,Delayed,Source,1,17.640704,83.22622
+TR-0491,Lucknow,Uttar Pradesh,R-089,Bus,East,North,763,High,77,Low,59,25,31.83,24.42,Clear,2026-05-12 14:14:00,0,Delayed,Source,1,26.854595,81.000057
+TR-0015,Coimbatore,Tamil Nadu,R-089,Metro,East,North,,,,Moderate,,,,,Clear,2026-07-11 04:21:00,,,Destination,2,11.063859,76.976029
+TR-0024,Visakhapatnam,Andhra Pradesh,R-089,Taxi,South,East,,,,Moderate,,,,,Clear,2026-04-08 08:34:00,,,Destination,2,17.705203,83.271912
+TR-0491,Lucknow,Uttar Pradesh,R-089,Bus,East,North,,,,Low,,,,,Clear,2026-05-12 14:14:00,,,Destination,2,26.914624,80.951108
+TR-0002,Lucknow,Uttar Pradesh,R-090,Metro,Central,West,509,High,741,Moderate,31,20,30.78,18.26,Hazy,2026-07-18 11:07:00,0,Delayed,Source,1,26.849365,80.936984
+TR-0087,Ahmedabad,Gujarat,R-090,Metro,South,East,920,High,1097,High,30,25,13.18,46.02,Cloudy,2026-05-01 01:52:00,0,Delayed,Source,1,22.964992,72.551194
+TR-0154,Hyderabad,Telangana,R-090,Bus,South,Central,979,Very High,65,High,25,22,69.36,48.79,Hazy,2026-03-03 05:56:00,0,Delayed,Source,1,17.318146,78.487899
+TR-0293,Visakhapatnam,Andhra Pradesh,R-090,Taxi,Central,North,169,High,4,High,20,30,41.7,52.11,Clear,2026-03-20 08:38:00,0,Delayed,Source,1,17.69195,83.22848
+TR-0294,Surat,Gujarat,R-090,Bus,North,South,254,High,64,Low,49,19,74.93,56.77,Hazy,2026-05-01 11:52:00,0,Delayed,Source,1,21.225577,72.860391
+TR-0307,Chennai,Tamil Nadu,R-090,Metro,East,South,31,High,624,High,21,21,40.36,9.93,Clear,2026-03-07 14:19:00,0,Delayed,Source,1,13.096109,80.328791
+TR-0460,Delhi,Delhi,R-090,Bus,North,East,131,Medium,40,High,20,30,78.77,39.06,Hazy,2026-05-05 02:38:00,0,Delayed,Source,1,28.672509,77.228211
+TR-0473,Delhi,Delhi,R-090,Bus,South,North,279,High,77,Moderate,30,25,83.12,21.54,Hazy,2026-05-29 17:29:00,0,Delayed,Source,1,28.560103,77.196433
+TR-0002,Lucknow,Uttar Pradesh,R-090,Metro,Central,West,,,,Moderate,,,,,Hazy,2026-07-18 11:07:00,,,Destination,2,26.83841,80.890784
+TR-0087,Ahmedabad,Gujarat,R-090,Metro,South,East,,,,High,,,,,Cloudy,2026-05-01 01:52:00,,,Destination,2,23.025534,72.633463
+TR-0154,Hyderabad,Telangana,R-090,Bus,South,Central,,,,High,,,,,Hazy,2026-03-03 05:56:00,,,Destination,2,17.377436,78.474603
+TR-0293,Visakhapatnam,Andhra Pradesh,R-090,Taxi,Central,North,,,,High,,,,,Clear,2026-03-20 08:38:00,,,Destination,2,17.73914,83.231931
+TR-0294,Surat,Gujarat,R-090,Bus,North,South,,,,Low,,,,,Hazy,2026-05-01 11:52:00,,,Destination,2,21.114953,72.82457
+TR-0307,Chennai,Tamil Nadu,R-090,Metro,East,South,,,,High,,,,,Clear,2026-03-07 14:19:00,,,Destination,2,13.017842,80.258662
+TR-0460,Delhi,Delhi,R-090,Bus,North,East,,,,High,,,,,Hazy,2026-05-05 02:38:00,,,Destination,2,28.627491,77.272909
+TR-0473,Delhi,Delhi,R-090,Bus,South,North,,,,Moderate,,,,,Hazy,2026-05-29 17:29:00,,,Destination,2,28.647152,77.250567
+TR-0205,Visakhapatnam,Andhra Pradesh,R-091,Metro,Central,North,943,Medium,549,Moderate,44,5,39.75,45.96,Clear,2026-01-31 20:25:00,1,On Time,Source,1,17.700512,83.197709
+TR-0433,Nagpur,Maharashtra,R-091,Bus,Central,East,828,Very High,64,Moderate,40,16,99.12,9.17,Cloudy,2026-05-29 03:00:00,0,Delayed,Source,1,21.140201,79.060292
+TR-0205,Visakhapatnam,Andhra Pradesh,R-091,Metro,Central,North,,,,Moderate,,,,,Clear,2026-01-31 20:25:00,,,Destination,2,17.727637,83.231663
+TR-0433,Nagpur,Maharashtra,R-091,Bus,Central,East,,,,Moderate,,,,,Cloudy,2026-05-29 03:00:00,,,Destination,2,21.144197,79.157379
+TR-0021,Ahmedabad,Gujarat,R-092,Auto,East,South,811,High,3,High,17,29,15.07,11.53,Clear,2026-05-07 08:38:00,0,Delayed,Source,1,23.035979,72.624153
+TR-0083,Ahmedabad,Gujarat,R-092,Train,South,North,564,Medium,1691,Moderate,43,16,36.59,47.31,Clear,2026-03-14 01:14:00,0,Delayed,Source,1,22.951334,72.549741
+TR-0124,Hyderabad,Telangana,R-092,Bus,East,South,565,High,67,Severe,11,25,87.14,36.64,Cloudy,2026-07-06 14:29:00,0,Delayed,Source,1,17.397118,78.542688
+TR-0318,Delhi,Delhi,R-092,Metro,West,North,201,High,1026,Severe,15,29,72.22,54.66,Clear,2026-03-03 14:06:00,0,Delayed,Source,1,28.603056,77.14322
+TR-0451,Delhi,Delhi,R-092,E-Rickshaw,South,North,103,Very High,5,Moderate,44,6,91.36,34.02,Hazy,2026-03-12 13:46:00,0,Delayed,Source,1,28.563908,77.193032
+TR-0021,Ahmedabad,Gujarat,R-092,Auto,East,South,,,,High,,,,,Clear,2026-05-07 08:38:00,,,Destination,2,22.946581,72.574234
+TR-0083,Ahmedabad,Gujarat,R-092,Train,South,North,,,,Moderate,,,,,Clear,2026-03-14 01:14:00,,,Destination,2,23.091905,72.573517
+TR-0124,Hyderabad,Telangana,R-092,Bus,East,South,,,,Severe,,,,,Cloudy,2026-07-06 14:29:00,,,Destination,2,17.337908,78.473394
+TR-0318,Delhi,Delhi,R-092,Metro,West,North,,,,Severe,,,,,Clear,2026-03-03 14:06:00,,,Destination,2,28.672505,77.228891
+TR-0451,Delhi,Delhi,R-092,E-Rickshaw,South,North,,,,Moderate,,,,,Hazy,2026-03-12 13:46:00,,,Destination,2,28.658694,77.215216
+TR-0132,Indore,Madhya Pradesh,R-093,Bus,South,North,724,Medium,62,Severe,8,7,26.75,23.24,Rain,2026-02-15 13:56:00,0,Delayed,Source,1,22.688317,75.828929
+TR-0184,Visakhapatnam,Andhra Pradesh,R-093,Bus,Central,North,170,Low,52,Low,57,3,89.75,54.26,Hazy,2026-03-14 06:50:00,1,On Time,Source,1,17.707028,83.2226
+TR-0252,Coimbatore,Tamil Nadu,R-093,Bus,West,South,943,Low,64,High,20,7,61.96,40.55,Cloudy,2026-04-24 14:04:00,0,Delayed,Source,1,11.030106,76.877558
+TR-0276,Kolkata,West Bengal,R-093,Metro,South,West,781,Low,685,High,21,19,62.6,48.83,Hazy,2026-03-18 17:22:00,0,Delayed,Source,1,22.501909,88.331945
+TR-0290,Chennai,Tamil Nadu,R-093,Train,South,Central,827,High,721,High,18,10,72.81,19.75,Hazy,2026-04-13 11:06:00,0,Delayed,Source,1,13.024951,80.248677
+TR-0320,Visakhapatnam,Andhra Pradesh,R-093,Auto,North,South,511,High,3,Low,55,14,58.02,5.01,Hazy,2026-06-07 19:36:00,0,Delayed,Source,1,17.757742,83.216064
+TR-0340,Mumbai,Maharashtra,R-093,Metro,West,Central,595,Low,599,Severe,13,25,79.78,29.79,Cloudy,2026-06-10 21:47:00,0,Delayed,Source,1,19.070057,72.830452
+TR-0353,Ahmedabad,Gujarat,R-093,Bus,North,Central,866,Low,58,Severe,7,1,22.57,10.29,Rain,2026-07-28 22:50:00,1,On Time,Source,1,23.07739,72.578743
+TR-0132,Indore,Madhya Pradesh,R-093,Bus,South,North,,,,Severe,,,,,Rain,2026-02-15 13:56:00,,,Destination,2,22.794007,75.868952
+TR-0184,Visakhapatnam,Andhra Pradesh,R-093,Bus,Central,North,,,,Low,,,,,Hazy,2026-03-14 06:50:00,,,Destination,2,17.729265,83.207658
+TR-0252,Coimbatore,Tamil Nadu,R-093,Bus,West,South,,,,High,,,,,Cloudy,2026-04-24 14:04:00,,,Destination,2,10.956908,76.923798
+TR-0276,Kolkata,West Bengal,R-093,Metro,South,West,,,,High,,,,,Hazy,2026-03-18 17:22:00,,,Destination,2,22.550495,88.30736
+TR-0290,Chennai,Tamil Nadu,R-093,Train,South,Central,,,,High,,,,,Hazy,2026-04-13 11:06:00,,,Destination,2,13.086891,80.273447
+TR-0320,Visakhapatnam,Andhra Pradesh,R-093,Auto,North,South,,,,Low,,,,,Hazy,2026-06-07 19:36:00,,,Destination,2,17.619179,83.181335
+TR-0340,Mumbai,Maharashtra,R-093,Metro,West,Central,,,,Severe,,,,,Cloudy,2026-06-10 21:47:00,,,Destination,2,19.068808,72.871251
+TR-0353,Ahmedabad,Gujarat,R-093,Bus,North,Central,,,,Severe,,,,,Rain,2026-07-28 22:50:00,,,Destination,2,23.01433,72.548862
+TR-0054,Nagpur,Maharashtra,R-094,Bus,South,West,389,High,67,Low,51,4,19.23,56.55,Hazy,2026-03-09 16:11:00,1,On Time,Source,1,21.09863,79.055489
+TR-0161,Kochi,Kerala,R-094,Auto,North,East,955,Medium,3,Moderate,44,13,40.18,8.69,Rain,2026-01-12 16:16:00,0,Delayed,Source,1,9.984202,76.279843
+TR-0185,Bengaluru,Karnataka,R-094,Bus,North,Central,860,Medium,43,Low,54,30,69.35,36.78,Clear,2026-06-08 18:30:00,0,Delayed,Source,1,13.02832,77.591057
+TR-0240,Pune,Maharashtra,R-094,Metro,East,West,752,High,963,Moderate,42,11,52.79,46.63,Clear,2026-03-27 17:56:00,0,Delayed,Source,1,18.52907,73.907041
+TR-0259,Chennai,Tamil Nadu,R-094,Train,East,South,428,Very High,1327,Moderate,30,8,24.99,44.17,Rain,2026-08-04 21:43:00,0,Delayed,Source,1,13.073059,80.337004
+TR-0277,Kochi,Kerala,R-094,Auto,East,West,637,High,3,High,22,30,28.94,42.93,Rain,2026-01-16 07:11:00,0,Delayed,Source,1,9.939984,76.29719
+TR-0345,Coimbatore,Tamil Nadu,R-094,Taxi,North,West,299,High,4,Severe,5,19,73.35,57.01,Cloudy,2026-07-03 03:07:00,0,Delayed,Source,1,11.077711,76.960296
+TR-0438,Coimbatore,Tamil Nadu,R-094,Bus,West,North,642,High,70,High,22,29,73.89,5.59,Cloudy,2026-08-06 03:39:00,0,Delayed,Source,1,11.012032,76.898502
+TR-0459,Hyderabad,Telangana,R-094,Auto,North,Central,46,High,3,Severe,15,9,25.93,6.57,Hazy,2026-07-07 07:54:00,0,Delayed,Source,1,17.444925,78.494649
+TR-0466,Jaipur,Rajasthan,R-094,Train,North,East,103,Medium,897,Moderate,45,14,87.43,34.82,Rain,2026-05-02 10:39:00,0,Delayed,Source,1,26.963517,75.811703
+TR-0054,Nagpur,Maharashtra,R-094,Bus,South,West,,,,Low,,,,,Hazy,2026-03-09 16:11:00,,,Destination,2,21.132403,79.022616
+TR-0161,Kochi,Kerala,R-094,Auto,North,East,,,,Moderate,,,,,Rain,2026-01-12 16:16:00,,,Destination,2,9.930453,76.334252
+TR-0185,Bengaluru,Karnataka,R-094,Bus,North,Central,,,,Low,,,,,Clear,2026-06-08 18:30:00,,,Destination,2,12.977214,77.619575
+TR-0240,Pune,Maharashtra,R-094,Metro,East,West,,,,Moderate,,,,,Clear,2026-03-27 17:56:00,,,Destination,2,18.509729,73.805755
+TR-0259,Chennai,Tamil Nadu,R-094,Train,East,South,,,,Moderate,,,,,Rain,2026-08-04 21:43:00,,,Destination,2,13.040509,80.267344
+TR-0277,Kochi,Kerala,R-094,Auto,East,West,,,,High,,,,,Rain,2026-01-16 07:11:00,,,Destination,2,9.903136,76.217324
+TR-0345,Coimbatore,Tamil Nadu,R-094,Taxi,North,West,,,,Severe,,,,,Cloudy,2026-07-03 03:07:00,,,Destination,2,11.000458,76.910906
+TR-0438,Coimbatore,Tamil Nadu,R-094,Bus,West,North,,,,High,,,,,Cloudy,2026-08-06 03:39:00,,,Destination,2,11.080557,76.950345
+TR-0459,Hyderabad,Telangana,R-094,Auto,North,Central,,,,Severe,,,,,Hazy,2026-07-07 07:54:00,,,Destination,2,17.378799,78.484872
+TR-0466,Jaipur,Rajasthan,R-094,Train,North,East,,,,Moderate,,,,,Rain,2026-05-02 10:39:00,,,Destination,2,26.916107,75.842554
+TR-0027,Ahmedabad,Gujarat,R-095,Metro,Central,West,229,Medium,682,High,29,10,22.49,40.25,Hazy,2026-05-12 23:24:00,0,Delayed,Source,1,23.002059,72.570733
+TR-0031,Hyderabad,Telangana,R-095,Bus,South,North,374,Medium,76,Severe,12,5,45.81,58.32,Hazy,2026-03-20 05:53:00,1,On Time,Source,1,17.322595,78.461594
+TR-0047,Ahmedabad,Gujarat,R-095,Taxi,South,East,806,Low,4,High,22,29,14.94,30.03,Rain,2026-04-13 16:13:00,0,Delayed,Source,1,22.972655,72.563892
+TR-0065,Kochi,Kerala,R-095,Metro,West,East,230,High,716,Moderate,37,23,56.4,31.89,Hazy,2026-02-07 19:22:00,0,Delayed,Source,1,9.919629,76.199881
+TR-0324,Surat,Gujarat,R-095,Bus,West,North,624,High,67,Moderate,38,11,37.86,22.61,Clear,2026-07-29 14:37:00,0,Delayed,Source,1,21.155617,72.794169
+TR-0424,Visakhapatnam,Andhra Pradesh,R-095,Metro,West,North,682,Medium,1135,Moderate,34,14,37.37,47.39,Rain,2026-03-31 19:37:00,0,Delayed,Source,1,17.691797,83.150822
+TR-0027,Ahmedabad,Gujarat,R-095,Metro,Central,West,,,,High,,,,,Hazy,2026-05-12 23:24:00,,,Destination,2,23.017109,72.516008
+TR-0031,Hyderabad,Telangana,R-095,Bus,South,North,,,,Severe,,,,,Hazy,2026-03-20 05:53:00,,,Destination,2,17.454266,78.496204
+TR-0047,Ahmedabad,Gujarat,R-095,Taxi,South,East,,,,High,,,,,Rain,2026-04-13 16:13:00,,,Destination,2,23.035759,72.611079
+TR-0065,Kochi,Kerala,R-095,Metro,West,East,,,,Moderate,,,,,Hazy,2026-02-07 19:22:00,,,Destination,2,9.93892,76.327681
+TR-0324,Surat,Gujarat,R-095,Bus,West,North,,,,Moderate,,,,,Clear,2026-07-29 14:37:00,,,Destination,2,21.251462,72.838296
+TR-0424,Visakhapatnam,Andhra Pradesh,R-095,Metro,West,North,,,,Moderate,,,,,Rain,2026-03-31 19:37:00,,,Destination,2,17.754703,83.241067
+TR-0103,Jaipur,Rajasthan,R-096,Taxi,South,East,987,High,4,High,23,0,12.26,43.19,Hazy,2026-03-17 21:11:00,1,On Time,Source,1,26.858397,75.771695
+TR-0103,Jaipur,Rajasthan,R-096,Taxi,South,East,,,,High,,,,,Hazy,2026-03-17 21:11:00,,,Destination,2,26.913595,75.842733
+TR-0006,Coimbatore,Tamil Nadu,R-097,Bus,South,North,549,Low,45,Moderate,39,0,30.51,28.49,Hazy,2026-07-24 08:02:00,1,On Time,Source,1,10.952415,76.950887
+TR-0062,Mumbai,Maharashtra,R-097,Auto,West,North,319,Medium,3,High,27,2,79.84,27.29,Cloudy,2026-03-28 09:43:00,1,On Time,Source,1,19.065006,72.818222
+TR-0125,Jaipur,Rajasthan,R-097,Bus,South,East,579,High,71,High,17,22,80.23,30.19,Cloudy,2026-02-28 03:39:00,0,Delayed,Source,1,26.858622,75.795888
+TR-0398,Pune,Maharashtra,R-097,E-Rickshaw,East,Central,772,Very High,5,Moderate,41,21,77.34,54.83,Hazy,2026-03-20 21:29:00,0,Delayed,Source,1,18.552853,73.901489
+TR-0006,Coimbatore,Tamil Nadu,R-097,Bus,South,North,,,,Moderate,,,,,Hazy,2026-07-24 08:02:00,,,Destination,2,11.082272,76.993247
+TR-0062,Mumbai,Maharashtra,R-097,Auto,West,North,,,,High,,,,,Cloudy,2026-03-28 09:43:00,,,Destination,2,19.149117,72.907386
+TR-0125,Jaipur,Rajasthan,R-097,Bus,South,East,,,,High,,,,,Cloudy,2026-02-28 03:39:00,,,Destination,2,26.907531,75.82469
+TR-0398,Pune,Maharashtra,R-097,E-Rickshaw,East,Central,,,,Moderate,,,,,Hazy,2026-03-20 21:29:00,,,Destination,2,18.549695,73.861946
+TR-0042,Pune,Maharashtra,R-098,Train,West,East,547,Medium,1604,Moderate,33,20,36.5,57.16,Cloudy,2026-04-18 23:16:00,0,Delayed,Source,1,18.514364,73.81214
+TR-0045,Surat,Gujarat,R-098,E-Rickshaw,East,North,79,High,5,Severe,14,8,79.38,10.86,Clear,2026-02-09 16:00:00,0,Delayed,Source,1,21.190093,72.884605
+TR-0052,Coimbatore,Tamil Nadu,R-098,E-Rickshaw,North,East,712,High,5,Low,61,7,60.92,19.69,Cloudy,2026-08-04 18:15:00,0,Delayed,Source,1,11.060213,76.955559
+TR-0084,Delhi,Delhi,R-098,E-Rickshaw,East,West,173,Low,5,Moderate,35,10,13.94,11.09,Cloudy,2026-07-02 08:24:00,0,Delayed,Source,1,28.6316,77.278696
+TR-0319,Coimbatore,Tamil Nadu,R-098,Auto,Central,South,588,High,3,Low,46,24,37.29,28.62,Clear,2026-01-08 15:53:00,0,Delayed,Source,1,11.015257,76.94798
+TR-0366,Kolkata,West Bengal,R-098,Taxi,North,East,85,High,4,High,20,2,28.86,30.04,Clear,2026-07-31 17:41:00,1,On Time,Source,1,22.605309,88.367716
+TR-0495,Coimbatore,Tamil Nadu,R-098,Bus,South,North,838,High,49,High,30,30,36.21,25.48,Cloudy,2026-03-08 01:51:00,0,Delayed,Source,1,10.959915,76.943668
+TR-0042,Pune,Maharashtra,R-098,Train,West,East,,,,Moderate,,,,,Cloudy,2026-04-18 23:16:00,,,Destination,2,18.536729,73.914843
+TR-0045,Surat,Gujarat,R-098,E-Rickshaw,East,North,,,,Severe,,,,,Clear,2026-02-09 16:00:00,,,Destination,2,21.234176,72.859112
+TR-0052,Coimbatore,Tamil Nadu,R-098,E-Rickshaw,North,East,,,,Low,,,,,Cloudy,2026-08-04 18:15:00,,,Destination,2,11.027347,77.003228
+TR-0084,Delhi,Delhi,R-098,E-Rickshaw,East,West,,,,Moderate,,,,,Cloudy,2026-07-02 08:24:00,,,Destination,2,28.5969,77.154463
+TR-0319,Coimbatore,Tamil Nadu,R-098,Auto,Central,South,,,,Low,,,,,Clear,2026-01-08 15:53:00,,,Destination,2,10.935467,76.964994
+TR-0366,Kolkata,West Bengal,R-098,Taxi,North,East,,,,High,,,,,Clear,2026-07-31 17:41:00,,,Destination,2,22.558308,88.41654
+TR-0495,Coimbatore,Tamil Nadu,R-098,Bus,South,North,,,,High,,,,,Cloudy,2026-03-08 01:51:00,,,Destination,2,11.059823,76.944974
+TR-0033,Delhi,Delhi,R-099,Metro,East,West,944,High,875,High,28,2,93.38,44.69,Hazy,2026-03-05 07:10:00,1,On Time,Source,1,28.616676,77.273123
+TR-0123,Ahmedabad,Gujarat,R-099,Auto,North,South,52,Very High,3,Low,52,12,15.23,11.13,Cloudy,2026-02-22 11:46:00,0,Delayed,Source,1,23.058855,72.591215
+TR-0206,Ahmedabad,Gujarat,R-099,Bus,North,South,82,Low,53,Moderate,35,0,18.23,39.41,Clear,2026-04-26 23:44:00,1,On Time,Source,1,23.084572,72.578264
+TR-0279,Kolkata,West Bengal,R-099,Bus,West,Central,48,Very High,76,Severe,6,7,33.85,41.96,Rain,2026-06-07 20:27:00,0,Delayed,Source,1,22.550862,88.297883
+TR-0422,Bengaluru,Karnataka,R-099,Bus,East,West,394,High,49,Severe,9,18,12.11,23.12,Hazy,2026-02-04 18:05:00,0,Delayed,Source,1,13.006862,77.635082
+TR-0033,Delhi,Delhi,R-099,Metro,East,West,,,,High,,,,,Hazy,2026-03-05 07:10:00,,,Destination,2,28.617176,77.16326
+TR-0123,Ahmedabad,Gujarat,R-099,Auto,North,South,,,,Low,,,,,Cloudy,2026-02-22 11:46:00,,,Destination,2,22.972017,72.550575
+TR-0206,Ahmedabad,Gujarat,R-099,Bus,North,South,,,,Moderate,,,,,Clear,2026-04-26 23:44:00,,,Destination,2,22.969459,72.556968
+TR-0279,Kolkata,West Bengal,R-099,Bus,West,Central,,,,Severe,,,,,Rain,2026-06-07 20:27:00,,,Destination,2,22.553602,88.365274
+TR-0422,Bengaluru,Karnataka,R-099,Bus,East,West,,,,Severe,,,,,Hazy,2026-02-04 18:05:00,,,Destination,2,12.970654,77.539105
+TR-0226,Mumbai,Maharashtra,R-100,Auto,West,South,855,High,3,High,18,15,13.7,45.97,Clear,2026-02-18 09:53:00,0,Delayed,Source,1,19.07438,72.819665
+TR-0414,Jaipur,Rajasthan,R-100,E-Rickshaw,South,Central,950,Medium,5,Severe,13,25,56.51,50.05,Rain,2026-04-17 17:53:00,0,Delayed,Source,1,26.873432,75.754801
+TR-0448,Nagpur,Maharashtra,R-100,Bus,East,West,849,Medium,53,High,16,16,91.54,7.27,Hazy,2026-04-19 17:19:00,0,Delayed,Source,1,21.162726,79.128452
+TR-0464,Pune,Maharashtra,R-100,Bus,South,West,549,Low,57,High,26,11,11.3,11.56,Hazy,2026-02-15 23:30:00,0,Delayed,Source,1,18.468048,73.842475
+TR-0226,Mumbai,Maharashtra,R-100,Auto,West,South,,,,High,,,,,Clear,2026-02-18 09:53:00,,,Destination,2,19.03916,72.872476
+TR-0414,Jaipur,Rajasthan,R-100,E-Rickshaw,South,Central,,,,Severe,,,,,Rain,2026-04-17 17:53:00,,,Destination,2,26.923665,75.804305
+TR-0448,Nagpur,Maharashtra,R-100,Bus,East,West,,,,High,,,,,Hazy,2026-04-19 17:19:00,,,Destination,2,21.142393,79.02528
+TR-0464,Pune,Maharashtra,R-100,Bus,South,West,,,,High,,,,,Hazy,2026-02-15 23:30:00,,,Destination,2,18.514297,73.808667
